@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "Selecciona un niño para la evaluación",
+    "loading": "Cargando perfiles...",
+    "no_profiles": "No se encontraron perfiles de niños. Crea uno primero.",
+    "cancel": "Cancelar",
+    "create_child": "Crear perfil de niño",
+    "continue": "Continuar",
+    "age_years": "{{count}} años"
+  },
+  "toasts": {
+    "select_child": "Selecciona un niño para continuar",
+    "purchase_required": "Se requiere compra para iniciar esta evaluación",
+    "verify_failed": "No se pudo verificar el acceso. Inténtalo de nuevo."
+  },
+  "types": {
+    "general-form": {
+      "name": "Evaluación del desarrollo general",
+      "description": "Tamizaje del desarrollo integral en múltiples dominios",
+      "duration": "10-15 minutos"
+    },
+    "autism-form": {
+      "name": "Evaluación basada en formulario para autismo",
+      "description": "Tamizaje del trastorno del espectro autista mediante evaluación del desarrollo",
+      "duration": "10-15 minutos"
+    },
+    "autism-image": {
+      "name": "Evaluación basada en imágenes para autismo",
+      "description": "Tareas de comparación de imágenes con IA para evaluar la comprensión social",
+      "duration": "15-20 minutos"
+    },
+    "adhd-form": {
+      "name": "Evaluación basada en formulario para TDAH",
+      "description": "Tamizaje integral de TDAH mediante cuestionarios",
+      "duration": "15-20 minutos"
+    },
+    "adhd-game": {
+      "name": "Evaluación basada en juegos para TDAH",
+      "description": "Juegos interactivos diseñados para evaluar la atención y la función ejecutiva",
+      "duration": "20-25 minutos"
+    },
+    "dyslexia-form": {
+      "name": "Evaluación basada en formulario para dislexia",
+      "description": "Tamizaje enfocado en la lectura y el procesamiento del lenguaje",
+      "duration": "15-20 minutos"
+    },
+    "dyslexia-game": {
+      "name": "Evaluación basada en juegos para dislexia",
+      "description": "Tareas interactivas que evalúan la conciencia fonológica y la memoria",
+      "duration": "20-25 minutos"
+    }
+  },
+  "page": {
+    "loading_setup": "Preparando tu evaluación...",
+    "loading": "Cargando evaluación...",
+    "loading_hint": "Esto puede tomar unos momentos",
+    "error_title": "Error al cargar la evaluación",
+    "try_again": "Intentar de nuevo",
+    "back_to_assessments": "Volver a evaluaciones",
+    "in_progress_title": "Evaluación en progreso",
+    "in_progress_hint": "Responde cada pregunta con atención. Tus respuestas nos ayudan a ofrecer la evaluación más precisa.",
+    "choose_title": "Elige el tipo de evaluación - CogniKidz",
+    "choose_desc": "Selecciona el tipo de evaluación adecuado para tu hijo"
+  }
+}

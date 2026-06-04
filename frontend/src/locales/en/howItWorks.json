@@ -1,0 +1,42 @@
+{
+  "title": "How It Works",
+  "subtitle": "Simple steps to unlock your child's potential with our comprehensive assessment platform.",
+  "stepLabel": "Step",
+  "ofLabel": "of",
+  "step1": {
+    "title": "Create Child Profile",
+    "description": "Set up your child's profile with basic information, developmental history, and specific areas of concern to personalize the assessment experience.",
+    "features": [
+      "Secure profile creation",
+      "Developmental history tracking",
+      "Personalized experience setup"
+    ]
+  },
+  "step2": {
+    "title": "Choose Assessment Type",
+    "description": "Select from our comprehensive suite of evidence-based assessments tailored to your child's specific needs and developmental stage.",
+    "features": [
+      "Multiple assessment options",
+      "Age-appropriate content",
+      "Evidence-based methodology"
+    ]
+  },
+  "step3": {
+    "title": "Complete Interactive Assessment",
+    "description": "Engage with our AI-powered assessment tools through interactive games and multimedia activities designed to be both fun and informative.",
+    "features": [
+      "Interactive games and activities",
+      "AI-powered analysis",
+      "Child-friendly interface"
+    ]
+  },
+  "step4": {
+    "title": "Receive Detailed Report",
+    "description": "Get comprehensive insights and personalized recommendations based on your child's assessment results, including next steps and resources.",
+    "features": [
+      "Detailed analysis report",
+      "Personalized recommendations",
+      "Actionable next steps"
+    ]
+  }
+}

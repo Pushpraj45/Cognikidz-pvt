@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "Overview",
+    "assessments": "Your Assessments",
+    "children": "Children",
+    "history": "History"
+  },
+  "assessments": {
+    "remaining": "{{base}} remaining",
+    "buy_more": "Buy more",
+    "no_purchases": "No purchases yet. Browse plans and get started.",
+    "combo_package": "Combo Package",
+    "individual": "Individual Assessment",
+    "view": "View",
+    "details": "Details",
+    "start": "Start"
+  },
+  "history": {
+    "timeline": "Timeline",
+    "select_child": "Please select a child to view their timeline.",
+    "none_title": "No assessments found for this child",
+    "none_body": "This child hasn't completed any assessments yet. Start an assessment to track their progress and development.",
+    "new_assessment": "New Assessment"
+  },
+  "children": {
+    "management": "Children Management",
+    "profiles": "Children Profiles",
+    "add_child": "Add Child",
+    "name": "Name",
+    "dob": "Date of Birth",
+    "age": "Age",
+    "gender": "Gender",
+    "grade": "Grade",
+    "actions": "Actions",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "deleting": "Deleting...",
+    "not_set": "Not set",
+    "years": "years",
+    "refreshing": "Refreshing...",
+    "loading": "Loading children profiles...",
+    "none": "No children profiles found. Add your first child to get started."
+  }
+}

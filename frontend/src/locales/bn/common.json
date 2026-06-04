@@ -1,0 +1,47 @@
+{
+  "app": { "name": "CogniKidz" },
+  "nav": {
+    "assessments": "মূল্যায়ন",
+    "pricing": "মূল্য",
+    "resources": "রিসোর্স",
+    "support": "সহায়তা",
+    "login": "লগইন",
+    "get_started": "শুরু করুন",
+    "logout": "লগআউট",
+    "language": "ভাষা"
+  },
+  "footer": {
+    "tagline": "গবেষণা-সমর্থিত মূল্যায়নের মাধ্যমে বিকাশগত বিভিন্নতাযুক্ত শিশুদের জন্য প্রাথমিক শনাক্তকরণ ও সহায়তা।",
+    "quick_links": "দ্রুত লিংক",
+    "legal": "বৈধ",
+    "privacy": "গোপনীয়তা নীতি",
+    "terms": "পরিষেবার শর্তাবলী",
+    "cookies": "কুকি নীতি",
+    "all_rights": "সমস্ত অধিকার সংরক্ষিত।"
+  },
+  "actions": {
+    "start_assessment": "মূল্যায়ন শুরু করুন",
+    "start_free": "বিনামূল্যে মূল্যায়ন শুরু করুন",
+    "buy_and_start": "কিনুন ও শুরু করুন",
+    "get_package": "প্যাকেজ নিন",
+    "view_in_dashboard": "ড্যাশবোর্ডে দেখুন",
+    "buy_more": "আরও কিনুন",
+    "buy_again": "আবার কিনুন",
+    "start_now": "এখনই শুরু করুন",
+    "add_to_calendar": "ক্যালেন্ডারে যোগ করুন",
+    "close": "বন্ধ করুন",
+    "cancel": "বাতিল"
+  },
+  "generic": {
+    "loading": "লোড হচ্ছে...",
+    "free": "বিনামূল্যে",
+    "all": "সব",
+    "autism": "অটিজম",
+    "adhd": "এডিএইচডি",
+    "dyslexia": "ডিসলেক্সিয়া",
+    "general": "সাধারণ",
+    "stepLabel": "ধাপ",
+    "ofLabel": "এর"
+  },
+  "trustedByFamilies": "পরিবার দ্বারা বিশ্বাসযোগ্য"
+}

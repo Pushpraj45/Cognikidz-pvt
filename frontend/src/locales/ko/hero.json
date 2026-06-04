@@ -1,0 +1,16 @@
+{
+  "badge": "AI 기반 아동 발달",
+  "title": {
+    "unlocking": "모든 아동의",
+    "everyChilds": "고유한 잠재력을",
+    "uniquePotential": "개발하는"
+  },
+  "description": "전 세계 가족들이 신뢰하는 증거 기반 도구로 아동의 발달 여정을 지원하는 고급 AI 기반 평가 및 개인화된 통찰력을 제공합니다.",
+  "features": ["AI 기반 평가", "개인화된 통찰력", "증거 기반 도구"],
+  "cta": {
+    "getStarted": "시작하기",
+    "learnMore": "더 알아보기",
+    "scrollToExplore": "스크롤하여 탐색하기",
+    "interactiveDemo": "대화형 데모"
+  }
+}

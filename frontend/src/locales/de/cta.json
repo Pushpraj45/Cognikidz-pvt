@@ -1,0 +1,23 @@
+{
+  "imageAlt": "Aktivitäten zur kindlichen Entwicklung",
+  "mainTitle": "Starten Sie noch heute die Reise Ihres Kindes",
+  "description": "Schließen Sie sich Tausenden Familien an, die CogniKidz für umfassende Entwicklungsbewertungen und Unterstützung vertrauen.",
+  "buttons": {
+    "getStarted": "Jetzt starten",
+    "createAccount": "Kostenloses Konto erstellen"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "Evidenzbasierte Bewertungen",
+      "description": "Unsere Tools basieren auf jahrzehntelanger Forschung und sind von Experten der kindlichen Entwicklung weltweit validiert."
+    },
+    "privateSecure": {
+      "title": "Privat & Sicher",
+      "description": "Die Daten Ihres Kindes sind mit unternehmenssicherer Technologie und HIPAA-konformen Maßnahmen geschützt."
+    },
+    "actionable": {
+      "title": "Umsetzbare Einblicke",
+      "description": "Erhalten Sie personalisierte Empfehlungen und nächste Schritte basierend auf den einzigartigen Bewertungsergebnissen Ihres Kindes."
+    }
+  }
+}

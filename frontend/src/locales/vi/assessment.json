@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "Chọn Trẻ để Đánh Giá",
+    "loading": "Đang tải hồ sơ...",
+    "no_profiles": "Không tìm thấy hồ sơ trẻ. Vui lòng tạo hồ sơ trước.",
+    "cancel": "Hủy",
+    "create_child": "Tạo Hồ Sơ Trẻ",
+    "continue": "Tiếp Tục",
+    "age_years": "{{count}} tuổi"
+  },
+  "toasts": {
+    "select_child": "Vui lòng chọn một trẻ để tiếp tục",
+    "purchase_required": "Cần mua để bắt đầu đánh giá này",
+    "verify_failed": "Không thể xác minh quyền truy cập. Vui lòng thử lại."
+  },
+  "types": {
+    "general-form": {
+      "name": "Đánh Giá Phát Triển Tổng Quát",
+      "description": "Sàng lọc phát triển toàn diện qua nhiều lĩnh vực",
+      "duration": "10-15 phút"
+    },
+    "autism-form": {
+      "name": "Đánh Giá Tự Kỷ Qua Biểu Mẫu",
+      "description": "Sàng lọc rối loạn phổ tự kỷ thông qua đánh giá phát triển",
+      "duration": "10-15 phút"
+    },
+    "autism-image": {
+      "name": "Đánh Giá Tự Kỷ Qua Hình Ảnh",
+      "description": "Các bài tập so sánh hình ảnh bằng AI để đánh giá sự hiểu biết xã hội",
+      "duration": "15-20 phút"
+    },
+    "adhd-form": {
+      "name": "Đánh Giá ADHD Qua Biểu Mẫu",
+      "description": "Sàng lọc ADHD toàn diện thông qua đánh giá bằng bảng câu hỏi",
+      "duration": "15-20 phút"
+    },
+    "adhd-game": {
+      "name": "Đánh Giá ADHD Qua Trò Chơi",
+      "description": "Trò chơi tương tác được thiết kế để đánh giá sự chú ý và chức năng điều hành",
+      "duration": "20-25 phút"
+    },
+    "dyslexia-form": {
+      "name": "Đánh Giá Chứng Khó Đọc Qua Biểu Mẫu",
+      "description": "Sàng lọc tập trung vào đọc và xử lý ngôn ngữ",
+      "duration": "15-20 phút"
+    },
+    "dyslexia-game": {
+      "name": "Đánh Giá Chứng Khó Đọc Qua Trò Chơi",
+      "description": "Các nhiệm vụ tương tác đánh giá nhận thức âm vị và trí nhớ",
+      "duration": "20-25 phút"
+    }
+  },
+  "page": {
+    "loading_setup": "Đang thiết lập đánh giá của bạn...",
+    "loading": "Đang tải đánh giá...",
+    "loading_hint": "Quá trình này có thể mất vài phút",
+    "error_title": "Lỗi Khi Tải Đánh Giá",
+    "try_again": "Thử Lại",
+    "back_to_assessments": "Quay Lại Đánh Giá",
+    "in_progress_title": "Đang Trong Quá Trình Đánh Giá",
+    "in_progress_hint": "Vui lòng trả lời từng câu hỏi một cách cẩn thận. Câu trả lời của bạn giúp chúng tôi đưa ra đánh giá chính xác nhất.",
+    "choose_title": "Chọn Loại Đánh Giá - CogniKidz",
+    "choose_desc": "Chọn loại đánh giá phù hợp cho con bạn"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "ਅਸੈਸਮੈਂਟ",
+    "pricing": "ਕੀਮਤਾਂ",
+    "resources": "ਸਰੋਤ",
+    "support": "ਸਹਾਇਤਾ",
+    "contact": "ਸੰਪਰਕ",
+    "faq": "ਆਮ ਪ੍ਰਸ਼ਨ",
+    "login": "ਲਾਗਇਨ",
+    "get_started": "ਸ਼ੁਰੂ ਕਰੋ",
+    "logout": "ਲਾਗਆਉਟ",
+    "language": "ਭਾਸ਼ਾ"
+  },
+  "footer": {
+    "tagline": "ਵਿਕਾਸਸ਼ੀਲ ਅੰਤਰਾਂ ਵਾਲੇ ਬੱਚਿਆਂ ਲਈ ਖੋਜ-ਅਧਾਰਿਤ ਅਸੈਸਮੈਂਟਾਂ ਦੁਆਰਾ ਸ਼ੁਰੂਆਤੀ ਪਤਾ ਲਗਾਉਣ ਅਤੇ ਸਹਾਇਤਾ।",
+    "quick_links": "ਤੇਜ਼ ਲਿੰਕ",
+    "legal": "ਕਾਨੂੰਨੀ",
+    "privacy": "ਗੋਪਨੀਯਤਾ ਨੀਤੀ",
+    "terms": "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ",
+    "cookies": "ਕੂਕੀ ਨੀਤੀ",
+    "all_rights": "ਸਾਰੇ ਅਧਿਕਾਰ ਸੁਰੱਖਿਅਤ।",
+    "hipaa": "HIPAA-ਤਿਆਰ",
+    "gdpr": "GDPR-ਅਨੁਕੂਲ"
+  },
+  "actions": {
+    "start_assessment": "ਅਸੈਸਮੈਂਟ ਸ਼ੁਰੂ ਕਰੋ",
+    "start_free": "ਮੁਫ਼ਤ ਅਸੈਸਮੈਂਟ ਸ਼ੁਰੂ ਕਰੋ",
+    "buy_and_start": "ਖਰੀਦੋ ਅਤੇ ਸ਼ੁਰੂ ਕਰੋ",
+    "get_package": "ਪੈਕੇਜ ਪ੍ਰਾਪਤ ਕਰੋ",
+    "view_in_dashboard": "ਡੈਸ਼ਬੋਰਡ ਵਿੱਚ ਦੇਖੋ",
+    "buy_more": "ਹੋਰ ਖਰੀਦੋ",
+    "buy_again": "ਦੁਬਾਰਾ ਖਰੀਦੋ",
+    "start_now": "ਹੁਣੇ ਸ਼ੁਰੂ ਕਰੋ",
+    "add_to_calendar": "ਕੈਲੰਡਰ ਵਿੱਚ ਜੋੜੋ",
+    "close": "ਬੰਦ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "create_child_profile": "ਬੱਚੇ ਦਾ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ"
+  },
+  "generic": {
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "free": "ਮੁਫ਼ਤ",
+    "all": "ਸਾਰੇ",
+    "autism": "ਆਟਿਜ਼ਮ",
+    "adhd": "ADHD",
+    "dyslexia": "ਡਿਸਲੈਕਸੀਆ",
+    "general": "ਆਮ"
+  },
+  "trustedByFamilies": "ਪਰਿਵਾਰਾਂ ਦੁਆਰਾ ਭਰੋਸੇਮੰਦ"
+}

@@ -1,0 +1,50 @@
+{
+  "app": { "name": "CogniKidz" },
+  "nav": {
+    "assessments": "Bewertungen",
+    "pricing": "Preise",
+    "resources": "Ressourcen",
+    "support": "Support",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "login": "Anmelden",
+    "get_started": "Loslegen",
+    "logout": "Abmelden",
+    "language": "Sprache"
+  },
+  "footer": {
+    "tagline": "Früherkennung und Unterstützung für Kinder mit Entwicklungsunterschieden durch forschungsbasierte Bewertungen.",
+    "quick_links": "Schnellzugriffe",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Richtlinie",
+    "all_rights": "Alle Rechte vorbehalten.",
+    "hipaa": "HIPAA-konform",
+    "gdpr": "DSGVO-konform"
+  },
+  "actions": {
+    "start_assessment": "Bewertung starten",
+    "start_free": "Kostenlose Bewertung starten",
+    "buy_and_start": "Kaufen & starten",
+    "get_package": "Paket erhalten",
+    "view_in_dashboard": "Im Dashboard ansehen",
+    "buy_more": "Mehr kaufen",
+    "buy_again": "Erneut kaufen",
+    "start_now": "Jetzt starten",
+    "add_to_calendar": "Zum Kalender hinzufügen",
+    "close": "Schließen",
+    "cancel": "Abbrechen",
+    "create_child_profile": "Kinderprofil erstellen"
+  },
+  "generic": {
+    "loading": "Wird geladen...",
+    "free": "Kostenlos",
+    "all": "Alle",
+    "autism": "Autismus",
+    "adhd": "ADHS",
+    "dyslexia": "Legasthenie",
+    "general": "Allgemein"
+  },
+  "trustedByFamilies": "Von Familien vertraut"
+}

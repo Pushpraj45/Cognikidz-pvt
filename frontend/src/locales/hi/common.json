@@ -1,0 +1,48 @@
+{
+  "app": { "name": "CogniKidz" },
+  "nav": {
+    "assessments": "मूल्यांकन",
+    "pricing": "मूल्य निर्धारण",
+    "resources": "संसाधन",
+    "support": "सहायता",
+    "login": "लॉगिन",
+    "get_started": "शुरू करें",
+    "logout": "लॉगआउट",
+    "language": "भाषा"
+  },
+  "footer": {
+    "tagline": "अनुसंधान-आधारित आकलनों के माध्यम से विकासात्मक भिन्नताओं वाले बच्चों के लिए प्रारंभिक पहचान और समर्थन।",
+    "quick_links": "त्वरित लिंक",
+    "legal": "कानूनी",
+    "privacy": "गोपनीयता नीति",
+    "terms": "सेवा की शर्तें",
+    "cookies": "कुकी नीति",
+    "all_rights": "सर्वाधिकार सुरक्षित।",
+    "hipaa": "HIPAA-रेडी",
+    "gdpr": "GDPR-अनुपालन"
+  },
+  "actions": {
+    "start_assessment": "मूल्यांकन शुरू करें",
+    "start_free": "निःशुल्क मूल्यांकन शुरू करें",
+    "buy_and_start": "खरीदें और शुरू करें",
+    "get_package": "पैकेज प्राप्त करें",
+    "view_in_dashboard": "डैशबोर्ड में देखें",
+    "buy_more": "और खरीदें",
+    "buy_again": "दोबारा खरीदें",
+    "start_now": "अभी शुरू करें",
+    "add_to_calendar": "कैलेंडर में जोड़ें",
+    "close": "बंद करें",
+    "cancel": "रद्द करें",
+    "create_child_profile": "बच्चे की प्रोफ़ाइल बनाएं"
+  },
+  "generic": {
+    "loading": "लोड हो रहा है...",
+    "free": "निःशुल्क",
+    "all": "सभी",
+    "autism": "ऑटिज़्म",
+    "adhd": "एडीएचडी",
+    "dyslexia": "डिस्लेक्सिया",
+    "general": "सामान्य"
+  },
+  "trustedByFamilies": "परिवारों द्वारा भरोसेमंद"
+}

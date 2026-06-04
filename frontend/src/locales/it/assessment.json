@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "Seleziona Bambino per Valutazione",
+    "loading": "Caricamento profili...",
+    "no_profiles": "Nessun profilo bambino trovato. Crea prima un profilo.",
+    "cancel": "Annulla",
+    "create_child": "Crea Profilo Bambino",
+    "continue": "Continua",
+    "age_years": "{{count}} anni"
+  },
+  "toasts": {
+    "select_child": "Seleziona un bambino per continuare",
+    "purchase_required": "Acquisto richiesto per iniziare questa valutazione",
+    "verify_failed": "Impossibile verificare l'accesso. Riprova."
+  },
+  "types": {
+    "general-form": {
+      "name": "Valutazione Sviluppo Generale",
+      "description": "Screening di sviluppo completo in più domini",
+      "duration": "10-15 minuti"
+    },
+    "autism-form": {
+      "name": "Valutazione Autismo Basata su Modulo",
+      "description": "Screening disturbo spettro autistico attraverso valutazione di sviluppo",
+      "duration": "10-15 minuti"
+    },
+    "autism-image": {
+      "name": "Valutazione Autismo Basata su Immagini",
+      "description": "Compiti di confronto immagini alimentati da AI per valutazione comprensione sociale",
+      "duration": "15-20 minuti"
+    },
+    "adhd-form": {
+      "name": "Valutazione ADHD Basata su Modulo",
+      "description": "Screening ADHD completo attraverso valutazione basata su questionario",
+      "duration": "15-20 minuti"
+    },
+    "adhd-game": {
+      "name": "Valutazione ADHD Basata su Giochi",
+      "description": "Giochi interattivi progettati per valutare attenzione e funzione esecutiva",
+      "duration": "20-25 minuti"
+    },
+    "dyslexia-form": {
+      "name": "Valutazione Dislessia Basata su Modulo",
+      "description": "Screening focalizzato su lettura e elaborazione linguistica",
+      "duration": "15-20 minuti"
+    },
+    "dyslexia-game": {
+      "name": "Valutazione Dislessia Basata su Giochi",
+      "description": "Compiti interattivi che valutano consapevolezza fonologica e memoria",
+      "duration": "20-25 minuti"
+    }
+  },
+  "page": {
+    "loading_setup": "Configurazione della tua valutazione...",
+    "loading": "Caricamento valutazione...",
+    "loading_hint": "Potrebbe richiedere alcuni momenti",
+    "error_title": "Errore nel Caricamento della Valutazione",
+    "try_again": "Riprova",
+    "back_to_assessments": "Torna alle Valutazioni",
+    "in_progress_title": "Valutazione in Corso",
+    "in_progress_hint": "Rispondi a ogni domanda con attenzione. Le tue risposte ci aiutano a fornire la valutazione più accurata.",
+    "choose_title": "Scegli Tipo di Valutazione - CogniKidz",
+    "choose_desc": "Seleziona il tipo di valutazione appropriato per il tuo bambino"
+  }
+}

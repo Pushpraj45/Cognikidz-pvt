@@ -1,0 +1,42 @@
+{
+  "title": "Cách Thức Hoạt Động",
+  "subtitle": "Các bước đơn giản để khai mở tiềm năng của con bạn với nền tảng đánh giá toàn diện của chúng tôi.",
+  "stepLabel": "Bước",
+  "ofLabel": "của",
+  "step1": {
+    "title": "Tạo Hồ Sơ Trẻ",
+    "description": "Thiết lập hồ sơ của con bạn với thông tin cơ bản, lịch sử phát triển và các lĩnh vực quan tâm cụ thể để cá nhân hóa trải nghiệm đánh giá.",
+    "features": [
+      "Tạo hồ sơ an toàn",
+      "Theo dõi lịch sử phát triển",
+      "Thiết lập trải nghiệm cá nhân hóa"
+    ]
+  },
+  "step2": {
+    "title": "Chọn Loại Đánh Giá",
+    "description": "Lựa chọn từ bộ đánh giá toàn diện dựa trên bằng chứng được điều chỉnh phù hợp với nhu cầu cụ thể và giai đoạn phát triển của con bạn.",
+    "features": [
+      "Nhiều lựa chọn đánh giá",
+      "Nội dung phù hợp với độ tuổi",
+      "Phương pháp dựa trên bằng chứng"
+    ]
+  },
+  "step3": {
+    "title": "Hoàn Thành Đánh Giá Tương Tác",
+    "description": "Tương tác với công cụ đánh giá được hỗ trợ bởi AI thông qua các trò chơi tương tác, bảng câu hỏi và hoạt động đa phương tiện được thiết kế vừa vui vừa bổ ích.",
+    "features": [
+      "Trò chơi và hoạt động tương tác",
+      "Phân tích bằng AI",
+      "Giao diện thân thiện với trẻ em"
+    ]
+  },
+  "step4": {
+    "title": "Nhận Báo Cáo Chi Tiết",
+    "description": "Nhận thông tin chi tiết toàn diện và đề xuất cá nhân hóa dựa trên kết quả đánh giá của con bạn, bao gồm các bước tiếp theo và tài nguyên.",
+    "features": [
+      "Báo cáo phân tích chi tiết",
+      "Đề xuất cá nhân hóa",
+      "Các bước hành động tiếp theo"
+    ]
+  }
+}

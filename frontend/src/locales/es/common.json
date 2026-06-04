@@ -1,0 +1,50 @@
+{
+  "app": { "name": "CogniKidz" },
+  "nav": {
+    "assessments": "Evaluaciones",
+    "pricing": "Precios",
+    "resources": "Recursos",
+    "support": "Soporte",
+    "contact": "Contacto",
+    "faq": "Preguntas frecuentes",
+    "login": "Iniciar sesión",
+    "get_started": "Comenzar",
+    "logout": "Cerrar sesión",
+    "language": "Idioma"
+  },
+  "footer": {
+    "tagline": "Detección temprana y apoyo para niños con diferencias del desarrollo mediante evaluaciones basadas en la investigación.",
+    "quick_links": "Enlaces rápidos",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "cookies": "Política de cookies",
+    "all_rights": "Todos los derechos reservados.",
+    "hipaa": "Compatible con HIPAA",
+    "gdpr": "Cumple con GDPR"
+  },
+  "actions": {
+    "start_assessment": "Iniciar evaluación",
+    "start_free": "Iniciar evaluación gratuita",
+    "buy_and_start": "Comprar y comenzar",
+    "get_package": "Obtener paquete",
+    "view_in_dashboard": "Ver en el panel",
+    "buy_more": "Comprar más",
+    "buy_again": "Comprar de nuevo",
+    "start_now": "Comenzar ahora",
+    "add_to_calendar": "Agregar al calendario",
+    "close": "Cerrar",
+    "cancel": "Cancelar",
+    "create_child_profile": "Crear perfil del niño"
+  },
+  "generic": {
+    "loading": "Cargando...",
+    "free": "Gratis",
+    "all": "Todos",
+    "autism": "Autismo",
+    "adhd": "TDAH",
+    "dyslexia": "Dislexia",
+    "general": "General"
+  },
+  "trustedByFamilies": "Confiado por familias"
+}

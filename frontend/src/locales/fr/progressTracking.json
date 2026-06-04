@@ -1,0 +1,24 @@
+{
+  "badge": "Progression en temps réel",
+  "title": "Suivre les progrès",
+  "effortlessly": "Facilement",
+  "subtitle": "Surveillez le parcours de développement de votre enfant grâce à notre tableau de bord complet et à notre système intelligent de suivi des progrès.",
+  "features": {
+    "liveDashboard": {
+      "title": "Tableau de bord en direct",
+      "subtitle": "En temps réel",
+      "description": "Suivez les progrès de votre enfant en temps réel grâce à des graphiques interactifs, un suivi des étapes clés et des analyses complètes."
+    },
+    "smartReports": {
+      "title": "Rapports intelligents",
+      "subtitle": "Générés par IA",
+      "description": "Recevez des rapports détaillés générés par l’IA, fournissant des informations sur le développement de votre enfant et des recommandations personnalisées."
+    },
+    "progressTimeline": {
+      "title": "Frise chronologique des progrès",
+      "subtitle": "Historique",
+      "description": "Visualisez le parcours de développement de votre enfant au fil du temps grâce à un suivi détaillé de la chronologie et des étapes franchies."
+    }
+  },
+  "cta": "Voir le tableau de bord"
+}

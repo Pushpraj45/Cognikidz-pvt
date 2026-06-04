@@ -1,0 +1,23 @@
+{
+  "imageAlt": "Attività di sviluppo infantile",
+  "mainTitle": "Inizia Oggi il Viaggio del Tuo Bambino",
+  "description": "Unisciti a migliaia di famiglie che si fidano di CogniKidz per valutazione e supporto completo allo sviluppo infantile.",
+  "buttons": {
+    "getStarted": "Inizia Ora",
+    "createAccount": "Crea Account Gratuito"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "Valutazioni Basate su Evidenze",
+      "description": "I nostri strumenti sono costruiti su decenni di ricerca e validati da esperti dello sviluppo infantile di tutto il mondo."
+    },
+    "privateSecure": {
+      "title": "Privato e Sicuro",
+      "description": "I dati del tuo bambino sono protetti con sicurezza di livello aziendale e misure di privacy conformi all'HIPAA."
+    },
+    "actionable": {
+      "title": "Approfondimenti Azionabili",
+      "description": "Ricevi raccomandazioni personalizzate e prossimi passi basati sui risultati unici della valutazione del tuo bambino."
+    }
+  }
+}

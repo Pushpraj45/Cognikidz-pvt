@@ -1,0 +1,42 @@
+{
+  "title": "Comment ça marche",
+  "subtitle": "Des étapes simples pour libérer le potentiel de votre enfant grâce à notre plateforme d’évaluation complète.",
+  "stepLabel": "Étape",
+  "ofLabel": "sur",
+  "step1": {
+    "title": "Créer le profil de l'enfant",
+    "description": "Configurez le profil de votre enfant avec des informations de base, son historique de développement et les domaines spécifiques de préoccupation afin de personnaliser l’expérience d’évaluation.",
+    "features": [
+      "Création de profil sécurisée",
+      "Suivi de l’historique du développement",
+      "Configuration d’une expérience personnalisée"
+    ]
+  },
+  "step2": {
+    "title": "Choisir le type d'évaluation",
+    "description": "Sélectionnez parmi notre gamme complète d’évaluations fondées sur des preuves, adaptées aux besoins spécifiques et au stade de développement de votre enfant.",
+    "features": [
+      "Options d’évaluation multiples",
+      "Contenu adapté à l’âge",
+      "Méthodologie fondée sur des preuves"
+    ]
+  },
+  "step3": {
+    "title": "Réaliser l'évaluation interactive",
+    "description": "Interagissez avec nos outils d’évaluation propulsés par l’IA à travers des jeux, questionnaires et activités multimédias conçus pour être à la fois ludiques et informatifs.",
+    "features": [
+      "Jeux et activités interactifs",
+      "Analyse propulsée par l’IA",
+      "Interface adaptée aux enfants"
+    ]
+  },
+  "step4": {
+    "title": "Recevoir le rapport détaillé",
+    "description": "Obtenez des informations complètes et des recommandations personnalisées basées sur les résultats de l’évaluation de votre enfant, incluant les prochaines étapes et les ressources.",
+    "features": [
+      "Rapport d’analyse détaillé",
+      "Recommandations personnalisées",
+      "Prochaines étapes exploitables"
+    ]
+  }
+}

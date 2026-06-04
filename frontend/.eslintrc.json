@@ -1,0 +1,28 @@
+{
+  "extends": ["react-app", "react-app/jest"],
+  "rules": {
+    "no-console": ["warn", { "allow": ["error", "warn"] }],
+    "no-unused-vars": "warn",
+    "quotes": ["error", "single", { "avoidEscape": true, "allowTemplateLiterals": true }],
+    "jsx-quotes": ["error", "prefer-double"],
+    "semi": ["error", "always"],
+    "no-throw-literal": "warn",
+    "prefer-const": "error",
+    "no-var": "error",
+    "no-debugger": "error"
+  },
+  "overrides": [
+    {
+      "files": ["**/services/*.js"],
+      "rules": {
+        "no-console": "off"
+      }
+    },
+    {
+      "files": ["**/*.test.js", "**/*.spec.js"],
+      "rules": {
+        "no-console": "off"
+      }
+    }
+  ]
+}

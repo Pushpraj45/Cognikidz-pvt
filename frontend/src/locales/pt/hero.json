@@ -1,0 +1,20 @@
+{
+  "badge": "Desenvolvimento Infantil Alimentado por IA",
+  "title": {
+    "unlocking": "Desbloqueando",
+    "everyChilds": "O Potencial",
+    "uniquePotential": "Único de Cada Criança"
+  },
+  "description": "Avaliações avançadas alimentadas por IA e insights personalizados para apoiar a jornada de desenvolvimento do seu filho com ferramentas baseadas em evidências confiadas por famílias em todo o mundo.",
+  "features": [
+    "Avaliações alimentadas por IA",
+    "Insights personalizados",
+    "Ferramentas baseadas em evidências"
+  ],
+  "cta": {
+    "getStarted": "Começar",
+    "learnMore": "Saiba Mais",
+    "scrollToExplore": "Role para Explorar",
+    "interactiveDemo": "Demonstração Interativa"
+  }
+}

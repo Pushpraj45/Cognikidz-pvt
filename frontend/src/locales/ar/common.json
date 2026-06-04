@@ -1,0 +1,50 @@
+{
+  "app": { "name": "CogniKidz" },
+  "nav": {
+    "assessments": "التقييمات",
+    "pricing": "الأسعار",
+    "resources": "الموارد",
+    "support": "الدعم",
+    "contact": "اتصل بنا",
+    "faq": "الأسئلة الشائعة",
+    "login": "تسجيل الدخول",
+    "get_started": "ابدأ",
+    "logout": "تسجيل الخروج",
+    "language": "اللغة"
+  },
+  "footer": {
+    "tagline": "الكشف المبكر ودعم الأطفال ذوي الفروق النمائية من خلال تقييمات مدعومة بالبحث.",
+    "quick_links": "روابط سريعة",
+    "legal": "الشؤون القانونية",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "cookies": "سياسة ملفات تعريف الارتباط",
+    "all_rights": "جميع الحقوق محفوظة.",
+    "hipaa": "متوافق مع HIPAA",
+    "gdpr": "متوافق مع GDPR"
+  },
+  "actions": {
+    "start_assessment": "ابدأ التقييم",
+    "start_free": "ابدأ التقييم المجاني",
+    "buy_and_start": "اشترِ وابدأ",
+    "get_package": "احصل على الباقة",
+    "view_in_dashboard": "عرض في لوحة التحكم",
+    "buy_more": "اشترِ المزيد",
+    "buy_again": "اشترِ مرة أخرى",
+    "start_now": "ابدأ الآن",
+    "add_to_calendar": "أضف إلى التقويم",
+    "close": "إغلاق",
+    "cancel": "إلغاء",
+    "create_child_profile": "إنشاء ملف طفل"
+  },
+  "generic": {
+    "loading": "جارٍ التحميل...",
+    "free": "مجاني",
+    "all": "الكل",
+    "autism": "التوحد",
+    "adhd": "اضطراب فرط الحركة وتشتت الانتباه",
+    "dyslexia": "عُسر القراءة",
+    "general": "عام"
+  },
+  "trustedByFamilies": "موثوق من قبل العائلات"
+}

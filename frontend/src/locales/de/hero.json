@@ -1,0 +1,16 @@
+{
+  "badge": "KI-gestützte Kindesentwicklung",
+  "title": {
+    "unlocking": "Entfalte",
+    "everyChilds": "das Potenzial jedes",
+    "uniquePotential": "einzelnen Kindes"
+  },
+  "description": "Fortschrittliche, KI-gestützte Bewertungen und personalisierte Einblicke unterstützen die Entwicklungsreise Ihres Kindes – mit evidenzbasierten Tools, denen Familien weltweit vertrauen.",
+  "features": ["KI-gestützte Bewertungen", "Personalisierte Einblicke", "Evidenzbasierte Tools"],
+  "cta": {
+    "getStarted": "Jetzt starten",
+    "learnMore": "Mehr erfahren",
+    "scrollToExplore": "Scrollen zum Entdecken",
+    "interactiveDemo": "Interaktive Demo"
+  }
+}

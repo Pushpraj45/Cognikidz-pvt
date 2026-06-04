@@ -1,0 +1,41 @@
+{
+  "badge": "Evidence-Based Tools",
+  "title": "Comprehensive Assessment Suite",
+  "subtitle": "Research-backed tools designed to identify developmental patterns and provide actionable insights for your child's unique needs.",
+  "tools": {
+    "adhd": {
+      "title": "ADHD Assessment",
+      "subtitle": "Attention & Focus",
+      "description": "Comprehensive evaluation of attention, hyperactivity, and executive function through validated screening tools and interactive assessments.",
+      "features": [
+        "Attention span evaluation",
+        "Hyperactivity screening",
+        "Executive function tests"
+      ],
+      "learnMore": "Learn More"
+    },
+    "autism": {
+      "title": "Autism Screening",
+      "subtitle": "Social & Communication",
+      "description": "Early detection screening for autism spectrum characteristics using evidence-based assessment protocols and AI-powered analysis.",
+      "features": [
+        "Social interaction patterns",
+        "Communication assessment",
+        "Behavioral observation"
+      ],
+      "learnMore": "Learn More"
+    },
+    "dyslexia": {
+      "title": "Dyslexia Screening",
+      "subtitle": "Reading & Language",
+      "description": "Specialized assessment for reading difficulties and language processing challenges through phonological awareness testing.",
+      "features": [
+        "Phonological awareness",
+        "Reading fluency tests",
+        "Language processing evaluation"
+      ],
+      "learnMore": "Learn More"
+    }
+  },
+  "viewAll": "View All Assessments"
+}

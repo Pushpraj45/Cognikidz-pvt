@@ -1,0 +1,23 @@
+{
+  "imageAlt": "儿童发展活动",
+  "mainTitle": "今天就开启您孩子的成长之旅",
+  "description": "加入数千个信任 CogniKidz 进行全面儿童发展评估和支持的家庭。",
+  "buttons": {
+    "getStarted": "立即开始",
+    "createAccount": "创建免费账户"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "循证评估",
+      "description": "我们的工具建立在数十年的研究基础上，并得到全球儿童发展专家的验证。"
+    },
+    "privateSecure": {
+      "title": "隐私与安全",
+      "description": "您孩子的数据受到企业级安全保护和符合 HIPAA 的隐私措施保护。"
+    },
+    "actionable": {
+      "title": "可行的见解",
+      "description": "根据您孩子的独特评估结果，获取个性化建议和下一步行动计划。"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "Genel Bakış",
+    "assessments": "Değerlendirmeleriniz",
+    "children": "Çocuklar",
+    "history": "Geçmiş"
+  },
+  "assessments": {
+    "remaining": "{{base}} kaldı",
+    "buy_more": "Daha fazla satın al",
+    "no_purchases": "Henüz satın alma yok. Planları inceleyin ve başlayın.",
+    "combo_package": "Kombinasyon Paketi",
+    "individual": "Bireysel Değerlendirme",
+    "view": "Görüntüle",
+    "details": "Detaylar",
+    "start": "Başlat"
+  },
+  "history": {
+    "timeline": "Zaman Çizelgesi",
+    "select_child": "Zaman çizelgesini görüntülemek için lütfen bir çocuk seçin.",
+    "none_title": "Bu çocuk için değerlendirme bulunamadı",
+    "none_body": "Bu çocuk henüz hiçbir değerlendirmeyi tamamlamadı. İlerlemelerini ve gelişimlerini takip etmek için bir değerlendirme başlatın.",
+    "new_assessment": "Yeni Değerlendirme"
+  },
+  "children": {
+    "management": "Çocuk Yönetimi",
+    "profiles": "Çocuk Profilleri",
+    "add_child": "Çocuk Ekle",
+    "name": "Ad",
+    "dob": "Doğum Tarihi",
+    "age": "Yaş",
+    "gender": "Cinsiyet",
+    "grade": "Sınıf",
+    "actions": "İşlemler",
+    "view": "Görüntüle",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "deleting": "Siliniyor...",
+    "not_set": "Ayarlanmamış",
+    "years": "yaş",
+    "refreshing": "Yenileniyor...",
+    "loading": "Çocuk profilleri yükleniyor...",
+    "none": "Çocuk profili bulunamadı. Başlamak için ilk çocuğunuzu ekleyin."
+  }
+}

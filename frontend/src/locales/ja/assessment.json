@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "評価する子どもを選択",
+    "loading": "プロフィールを読み込み中...",
+    "no_profiles": "子どものプロフィールが見つかりません。最初にプロフィールを作成してください。",
+    "cancel": "キャンセル",
+    "create_child": "子どものプロフィールを作成",
+    "continue": "続行",
+    "age_years": "{{count}}歳"
+  },
+  "toasts": {
+    "select_child": "続行するために子どもを選択してください",
+    "purchase_required": "この評価を開始するには購入が必要です",
+    "verify_failed": "アクセスの確認ができません。もう一度お試しください。"
+  },
+  "types": {
+    "general-form": {
+      "name": "一般的な発達評価",
+      "description": "複数の領域にわたる包括的な発達スクリーニング",
+      "duration": "10-15分"
+    },
+    "autism-form": {
+      "name": "自閉症フォームベース評価",
+      "description": "発達評価による自閉症スペクトラム障害のスクリーニング",
+      "duration": "10-15分"
+    },
+    "autism-image": {
+      "name": "自閉症画像ベース評価",
+      "description": "社会的理解評価のためのAI駆動画像比較タスク",
+      "duration": "15-20分"
+    },
+    "adhd-form": {
+      "name": "ADHDフォームベース評価",
+      "description": "アンケートベースの評価による包括的なADHDスクリーニング",
+      "duration": "15-20分"
+    },
+    "adhd-game": {
+      "name": "ADHDゲームベース評価",
+      "description": "注意力と実行機能を評価するために設計されたインタラクティブゲーム",
+      "duration": "20-25分"
+    },
+    "dyslexia-form": {
+      "name": "ディスレクシアフォームベース評価",
+      "description": "読み書きと言語処理に焦点を当てたスクリーニング",
+      "duration": "15-20分"
+    },
+    "dyslexia-game": {
+      "name": "ディスレクシアゲームベース評価",
+      "description": "音韻認識と記憶を評価するインタラクティブタスク",
+      "duration": "20-25分"
+    }
+  },
+  "page": {
+    "loading_setup": "評価を設定中...",
+    "loading": "評価を読み込み中...",
+    "loading_hint": "少し時間がかかる場合があります",
+    "error_title": "評価の読み込みエラー",
+    "try_again": "再試行",
+    "back_to_assessments": "評価に戻る",
+    "in_progress_title": "評価進行中",
+    "in_progress_hint": "各質問に慎重に答えてください。あなたの回答は、最も正確な評価を提供するのに役立ちます。",
+    "choose_title": "評価タイプを選択 - CogniKidz",
+    "choose_desc": "お子様に適した評価タイプを選択してください"
+  }
+}

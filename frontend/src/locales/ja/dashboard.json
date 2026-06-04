@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "概要",
+    "assessments": "あなたの評価",
+    "children": "子どもたち",
+    "history": "履歴"
+  },
+  "assessments": {
+    "remaining": "残り{{base}}回",
+    "buy_more": "さらに購入",
+    "no_purchases": "まだ購入していません。プランを閲覧して始めましょう。",
+    "combo_package": "コンボパッケージ",
+    "individual": "個別評価",
+    "view": "表示",
+    "details": "詳細",
+    "start": "開始"
+  },
+  "history": {
+    "timeline": "タイムライン",
+    "select_child": "タイムラインを表示する子どもを選択してください。",
+    "none_title": "この子どもの評価が見つかりません",
+    "none_body": "この子どもはまだ評価を完了していません。進捗と発達を追跡するために評価を開始してください。",
+    "new_assessment": "新しい評価"
+  },
+  "children": {
+    "management": "子どもの管理",
+    "profiles": "子どものプロフィール",
+    "add_child": "子どもを追加",
+    "name": "名前",
+    "dob": "生年月日",
+    "age": "年齢",
+    "gender": "性別",
+    "grade": "学年",
+    "actions": "アクション",
+    "view": "表示",
+    "edit": "編集",
+    "delete": "削除",
+    "deleting": "削除中...",
+    "not_set": "設定されていません",
+    "years": "歳",
+    "refreshing": "更新中...",
+    "loading": "子どものプロフィールを読み込み中...",
+    "none": "子どものプロフィールが見つかりません。最初の子どもを追加して始めましょう。"
+  }
+}

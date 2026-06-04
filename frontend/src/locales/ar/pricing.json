@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "badge": "تسعير شفاف",
+    "title_lead": "اختر",
+    "title_highlight": "خطة التقييم",
+    "subtitle": "احصل على تقييمات تطور الأطفال بأسعار شفافة ومناسبة. اختر تقييمات فردية أو باقات مدمجة."
+  },
+  "filters": { "individual": "فردي", "packages": "باقات" },
+  "individual": {
+    "title_lead": "تقييمات",
+    "title_highlight": "فردية",
+    "subtitle": "اختر تقييمات بناءً على احتياجات طفلك.",
+    "you_have_left": "المتبقي لديك {{count}}"
+  },
+  "packages": {
+    "title_lead": "باقات",
+    "title_highlight": "قيمة",
+    "subtitle": "وفّر أكثر مع باقات التقييم الشاملة.",
+    "most_popular": "الأكثر شيوعًا",
+    "best_value": "أفضل قيمة",
+    "complete_suite": "حزمة كاملة",
+    "included": "التقييمات المتضمنة:",
+    "features": "ميزات إضافية:",
+    "save": "وفّر"
+  },
+  "cta": { "ready": "هل أنت مستعد للبدء؟", "body": "اختر الخطة الأنسب لطفلك." },
+  "success": { "title": "تم الدفع بنجاح" },
+  "labels": { "loading_pricing": "جارٍ تحميل معلومات التسعير", "free": "مجاني" }
+}

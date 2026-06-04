@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "نظرة عامة",
+    "assessments": "تقييماتك",
+    "children": "الأطفال",
+    "history": "السجل"
+  },
+  "assessments": {
+    "remaining": "{{base}} المتبقية",
+    "buy_more": "اشتر المزيد",
+    "no_purchases": "لا توجد عمليات شراء بعد.",
+    "combo_package": "باقة مجمعة",
+    "individual": "تقييم فردي",
+    "view": "عرض",
+    "details": "تفاصيل",
+    "start": "ابدأ"
+  },
+  "history": {
+    "timeline": "الجدول الزمني",
+    "select_child": "الرجاء اختيار طفل لرؤية جدوله الزمني.",
+    "none_title": "لا توجد تقييمات لهذا الطفل",
+    "none_body": "هذا الطفل لم يُكمل أي تقييمات بعد.",
+    "new_assessment": "تقييم جديد"
+  },
+  "children": {
+    "management": "إدارة الأطفال",
+    "profiles": "ملفات الأطفال",
+    "add_child": "أضف طفل",
+    "name": "الاسم",
+    "dob": "تاريخ الميلاد",
+    "age": "العمر",
+    "gender": "النوع",
+    "grade": "الصف",
+    "actions": "الإجراءات",
+    "view": "عرض",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "deleting": "جارٍ الحذف...",
+    "not_set": "غير محدد",
+    "years": "سنوات",
+    "refreshing": "جارٍ التحديث...",
+    "loading": "جارٍ تحميل ملفات الأطفال...",
+    "none": "لا توجد ملفات. أضف الأول للبدء."
+  }
+}

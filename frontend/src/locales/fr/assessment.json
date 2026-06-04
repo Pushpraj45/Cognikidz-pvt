@@ -1,0 +1,16 @@
+{
+  "child_selector": {
+    "title": "Sélectionnez un enfant pour l'évaluation",
+    "loading": "Chargement des profils...",
+    "no_profiles": "Aucun profil d'enfant trouvé. Créez d'abord un profil.",
+    "cancel": "Annuler",
+    "create_child": "Créer un profil d'enfant",
+    "continue": "Continuer",
+    "age_years": "{{count}} ans"
+  },
+  "toasts": {
+    "select_child": "Veuillez sélectionner un enfant pour continuer",
+    "purchase_required": "Un achat est requis pour démarrer cette évaluation",
+    "verify_failed": "Impossible de vérifier l'accès. Veuillez réessayer."
+  }
+}

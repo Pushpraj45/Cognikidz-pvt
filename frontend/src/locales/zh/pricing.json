@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "透明定价",
+    "title_lead": "选择您的",
+    "title_highlight": "评估计划",
+    "subtitle": "以透明、实惠的价格获取专业的儿童发展评估。选择单独评估或超值组合套餐。"
+  },
+  "filters": {
+    "individual": "单独",
+    "packages": "套餐"
+  },
+  "individual": {
+    "title_lead": "单独",
+    "title_highlight": "评估",
+    "subtitle": "根据您孩子的需求选择具体的评估。从我们的免费一般发展评估开始，或选择专业评估。",
+    "you_have_left": "您还剩余 {{count}} 次"
+  },
+  "packages": {
+    "title_lead": "价值",
+    "title_highlight": "套餐",
+    "subtitle": "使用我们的综合评估套餐节省更多。多个评估打包在一起享受优惠价格。",
+    "most_popular": "最受欢迎",
+    "best_value": "最超值",
+    "complete_suite": "完整套件",
+    "included": "包含的评估：",
+    "features": "附加功能：",
+    "save": "保存"
+  },
+  "cta": {
+    "ready": "准备开始了吗？",
+    "body": "选择最适合您孩子需求的评估计划。所有评估均由儿童发展专家设计，提供详细、可行的见解。"
+  },
+  "success": {
+    "title": "支付成功"
+  },
+  "labels": {
+    "loading_pricing": "正在加载价格信息",
+    "free": "免费"
+  }
+}

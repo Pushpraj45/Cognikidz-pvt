@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "透明な料金体系",
+    "title_lead": "あなたの",
+    "title_highlight": "評価プランを選択",
+    "subtitle": "透明で手頃な価格で専門的な子どもの発達評価にアクセスできます。個別評価または価値のある組み合わせパッケージを選択してください。"
+  },
+  "filters": {
+    "individual": "個別",
+    "packages": "パッケージ"
+  },
+  "individual": {
+    "title_lead": "個別",
+    "title_highlight": "評価",
+    "subtitle": "お子様のニーズに基づいて特定の評価を選択してください。無料の一般的な発達評価から始めるか、専門的な評価を選択してください。",
+    "you_have_left": "残り{{count}}回"
+  },
+  "packages": {
+    "title_lead": "価値のある",
+    "title_highlight": "パッケージ",
+    "subtitle": "包括的な評価パッケージでより多く節約できます。複数の評価が割引価格でまとめられています。",
+    "most_popular": "最も人気",
+    "best_value": "最高の価値",
+    "complete_suite": "完全なスイート",
+    "included": "含まれる評価：",
+    "features": "追加機能：",
+    "save": "節約"
+  },
+  "cta": {
+    "ready": "始める準備はできましたか？",
+    "body": "お子様のニーズに最適な評価プランを選択してください。すべての評価は子どもの発達専門家によって設計され、詳細で実行可能な洞察を提供します。"
+  },
+  "success": {
+    "title": "支払いが完了しました"
+  },
+  "labels": {
+    "loading_pricing": "料金情報を読み込み中",
+    "free": "無料"
+  }
+}

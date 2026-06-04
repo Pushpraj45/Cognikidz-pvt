@@ -1,0 +1,41 @@
+{
+  "name": "cognikidz-pipeline-core",
+  "version": "1.0.0",
+  "description": "CogniKidz Assessment Pipeline Core - Refactored and Modularized",
+  "main": "orchestrator.js",
+  "scripts": {
+    "test": "jest --config jest.config.js",
+    "test:simple": "jest tests/unit/scoring/risk-calculator.simple.test.js tests/integration/pipeline-workflow.test.js tests/unit/summary/ai-service.simple.test.js tests/integration/orchestrator.simple.test.js --config jest.config.js",
+    "test:unit": "jest tests/unit --config jest.config.js",
+    "test:integration": "jest tests/integration --config jest.config.js",
+    "test:coverage": "jest --config jest.config.js --coverage --collectCoverageFrom='**/*.js' --coveragePathIgnorePatterns='node_modules,tests'",
+    "test:watch": "jest --config jest.config.js --watch",
+    "test:verbose": "jest --config jest.config.js --verbose",
+    "test:ci": "jest --config jest.config.js --ci --coverage --watchAll=false"
+  },
+  "keywords": [
+    "assessment",
+    "pipeline",
+    "jest",
+    "testing",
+    "cognikidz",
+    "ADHD",
+    "autism",
+    "dyslexia"
+  ],
+  "author": "CogniKidz Development Team",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-summary-reporter": "^0.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "<rootDir>/tests/**/*.test.js"
+    ]
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

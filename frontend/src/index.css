@@ -1,0 +1,1062 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import responsive enhancements */
+@import './styles/responsive-enhancements.css';
+
+@layer base {
+  :root {
+    /* Light Theme */
+    --primary: #6366f1; /* Indigo - vibrant and energetic */
+    --secondary: #8b5cf6; /* Purple - creative and playful */
+    --accent: #f59e0b; /* Amber - warm and motivating */
+    --background: #f8fafc; /* Light blueish-white - clean and fresh */
+    --text: #1e293b; /* Slate - easy to read */
+  }
+
+  [data-theme='dark'] {
+    /* Dark Theme */
+    --primary: #818cf8; /* Lighter Indigo for dark mode */
+    --secondary: #a78bfa; /* Lighter Purple for dark mode */
+    --accent: #fbbf24; /* Lighter Amber for dark mode */
+    --background: #0f172a; /* Deep navy blue - cozy and calm */
+    --text: #e2e8f0; /* Light slate - high contrast */
+    --text-secondary: #cbd5e1; /* Light slate - secondary text */
+    --accent-highlight: #f97316; /* Orange - for highlights */
+  }
+
+  html {
+    font-family: 'Nunito', system-ui, sans-serif;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--text);
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family:
+      'Nunito',
+      -apple-system,
+      BlinkMacSystemFont,
+      'Segoe UI',
+      'Roboto',
+      'Oxygen',
+      'Ubuntu',
+      'Cantarell',
+      'Fira Sans',
+      'Droid Sans',
+      'Helvetica Neue',
+      sans-serif;
+    transition:
+      background-color 0.3s ease,
+      color 0.3s ease;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Animation classes */
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.5s ease-out forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.5s ease-out forwards;
+}
+
+.animate-slide-down {
+  animation: slideDown 0.5s ease-out forwards;
+}
+
+/* Keyframes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Glassmorphism utilities */
+.glassmorphism {
+  @apply bg-white/60 dark:bg-gray-800/40 backdrop-blur-md border border-white/20 dark:border-gray-700/30;
+}
+
+.glassmorphism-primary {
+  @apply bg-primary/10 dark:bg-primary/20 backdrop-blur-md border border-primary/20 dark:border-primary/30;
+}
+
+.glassmorphism-secondary {
+  @apply bg-secondary/10 dark:bg-secondary/20 backdrop-blur-md border border-secondary/20 dark:border-secondary/30;
+}
+
+.glassmorphism-accent {
+  @apply bg-accent/10 dark:bg-accent/20 backdrop-blur-md border border-accent/20 dark:border-accent/30;
+}
+
+.glassmorphism-card {
+  @apply bg-white/80 dark:bg-gray-800/60 backdrop-blur-lg border border-white/20 dark:border-gray-700/20 shadow-lg;
+}
+
+.glassmorphism-input {
+  @apply bg-white/50 dark:bg-gray-800/30 backdrop-blur-sm border border-gray-200/50 dark:border-gray-700/50;
+}
+
+/* Shadow utilities for glassmorphism */
+.shadow-colored-xs {
+  box-shadow:
+    0 1px 2px rgba(93, 155, 155, 0.06),
+    0 1px 2px rgba(93, 155, 155, 0.1);
+}
+
+.shadow-colored-sm {
+  box-shadow:
+    0 2px 4px rgba(93, 155, 155, 0.08),
+    0 2px 8px rgba(93, 155, 155, 0.15);
+}
+
+.shadow-colored-md {
+  box-shadow:
+    0 4px 8px rgba(93, 155, 155, 0.12),
+    0 2px 12px rgba(93, 155, 155, 0.2);
+}
+
+.shadow-colored-lg {
+  box-shadow:
+    0 10px 15px -3px rgba(93, 155, 155, 0.1),
+    0 4px 6px -2px rgba(93, 155, 155, 0.05),
+    0 0 20px rgba(93, 155, 155, 0.15);
+}
+
+.shadow-colored-xl {
+  box-shadow:
+    0 20px 25px -5px rgba(93, 155, 155, 0.1),
+    0 10px 10px -5px rgba(93, 155, 155, 0.04),
+    0 0 30px rgba(93, 155, 155, 0.1);
+}
+
+/* Hover effect shadow */
+.shadow-colored-hover {
+  transition: box-shadow 0.3s ease;
+}
+
+.shadow-colored-hover:hover {
+  box-shadow:
+    0 20px 25px -5px rgba(93, 155, 155, 0.15),
+    0 10px 10px -5px rgba(93, 155, 155, 0.08),
+    0 0 40px rgba(93, 155, 155, 0.08);
+}
+
+/* Gradient backgrounds for glass effects */
+.gradient-bg {
+  @apply relative overflow-hidden;
+}
+
+.gradient-bg::before {
+  content: '';
+  @apply absolute -z-10 inset-0 opacity-30 dark:opacity-20;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(93, 155, 155, 0.4) 0%, transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(135, 188, 189, 0.4) 0%, transparent 40%),
+    radial-gradient(circle at 80% 10%, rgba(255, 185, 151, 0.3) 0%, transparent 30%);
+}
+
+/* Card hover effect for glassmorphism cards */
+.glassmorphism-hover {
+  @apply transition-all duration-300;
+}
+
+.glassmorphism-hover:hover {
+  @apply bg-white/90 dark:bg-gray-800/70 shadow-colored-md border-primary/30 dark:border-primary/40;
+}
+
+/* Interactive card animation classes */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Pulse animation for highlights */
+@keyframes pulse-light {
+  0%,
+  100% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-pulse-light {
+  animation: pulse-light 3s infinite;
+}
+
+/* Radial gradient background for assessment cards */
+.bg-gradient-radial {
+  background-image: radial-gradient(var(--tw-gradient-stops));
+}
+
+/* Animated border for assessment cards */
+.animated-border {
+  position: relative;
+  overflow: hidden;
+}
+
+.animated-border::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border: 2px solid transparent;
+  background: linear-gradient(
+      90deg,
+      var(--primary),
+      var(--secondary),
+      var(--accent),
+      var(--primary)
+    )
+    border-box;
+  -webkit-mask:
+    linear-gradient(#fff 0 0) padding-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  background-size: 300% 100%;
+  animation: borderAnimation 4s infinite linear;
+}
+
+@keyframes borderAnimation {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 300% 0;
+  }
+}
+
+/* Animated gradient text for headings */
+@keyframes gradientTextAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Enhanced gradient animations for new components */
+@keyframes gradientShift {
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+@keyframes float-slow {
+  0%,
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-20px) rotate(5deg);
+  }
+}
+
+@keyframes rotate-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Utility classes for new animations */
+.bg-300% {
+  background-size: 300% 300%;
+}
+
+.animate-gradient-shift {
+  animation: gradientShift 5s ease-in-out infinite;
+}
+
+.animate-float-slow {
+  animation: float-slow 6s ease-in-out infinite;
+}
+
+.animate-rotate-slow {
+  animation: rotate-slow 20s linear infinite;
+}
+
+.animated-gradient-text {
+  background-size: 300% 100%;
+  animation: gradientTextAnimation 6s infinite linear;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(
+    90deg,
+    var(--primary),
+    var(--secondary),
+    var(--accent),
+    var(--primary)
+  );
+}
+
+/* Custom Scrollbar Styles - CogniKidz Design */
+
+/* For WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(248, 250, 252, 0.8);
+  border-radius: 6px;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.7) 0%, rgba(139, 92, 246, 0.8) 100%);
+  border-radius: 6px;
+  border: 1px solid rgba(248, 250, 252, 0.8);
+  box-shadow: 0 1px 4px rgba(99, 102, 241, 0.2);
+  transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    135deg,
+    rgba(99, 102, 241, 0.9) 0%,
+    rgba(245, 158, 11, 0.4) 50%,
+    rgba(139, 92, 246, 0.9) 100%
+  );
+  box-shadow:
+    0 2px 6px rgba(99, 102, 241, 0.25),
+    0 0 8px rgba(245, 158, 11, 0.15);
+  transform: scale(1.01);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(
+    135deg,
+    rgba(99, 102, 241, 1) 0%,
+    rgba(15, 23, 42, 0.3) 50%,
+    rgba(139, 92, 246, 1) 100%
+  );
+  box-shadow: 0 1px 3px rgba(99, 102, 241, 0.3);
+}
+
+::-webkit-scrollbar-corner {
+  background: rgba(248, 250, 252, 0.8);
+  border-radius: 6px;
+}
+
+/* Dark mode scrollbar styles */
+[data-theme='dark'] ::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.9);
+  border: none;
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, rgba(129, 140, 248, 0.8) 0%, rgba(167, 139, 250, 0.7) 100%);
+  border: 1px solid rgba(15, 23, 42, 0.9);
+  box-shadow: 0 1px 4px rgba(129, 140, 248, 0.3);
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    135deg,
+    rgba(129, 140, 248, 1) 0%,
+    rgba(251, 191, 36, 0.4) 50%,
+    rgba(167, 139, 250, 1) 100%
+  );
+  box-shadow:
+    0 2px 6px rgba(129, 140, 248, 0.35),
+    0 0 8px rgba(251, 191, 36, 0.2);
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(
+    135deg,
+    rgba(129, 140, 248, 1) 0%,
+    rgba(15, 23, 42, 0.4) 50%,
+    rgba(167, 139, 250, 1) 100%
+  );
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-corner {
+  background: rgba(15, 23, 42, 0.9);
+}
+
+/* Thin scrollbar variant for smaller containers */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  border-radius: 4px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  border: none;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.6) 0%, rgba(139, 92, 246, 0.7) 100%);
+}
+
+/* Hidden scrollbar variant while maintaining scroll functionality */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar for specific containers with enhanced accent colors */
+.scrollbar-accent::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.8) 0%, rgba(99, 102, 241, 0.7) 100%);
+  border: 1px solid var(--background, rgba(248, 250, 252, 0.8));
+}
+
+.scrollbar-accent::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 1) 0%, rgba(99, 102, 241, 0.9) 100%);
+  box-shadow: 0 2px 8px rgba(245, 158, 11, 0.3);
+}
+
+/* Floating scrollbar animation with brand colors */
+@keyframes scrollbarGlow {
+  0%,
+  100% {
+    box-shadow: 0 1px 4px rgba(99, 102, 241, 0.2);
+  }
+  50% {
+    box-shadow:
+      0 2px 6px rgba(99, 102, 241, 0.25),
+      0 0 8px rgba(245, 158, 11, 0.15);
+  }
+}
+
+/* Animated scrollbar for special containers */
+.scrollbar-animated::-webkit-scrollbar-thumb {
+  animation: scrollbarGlow 3s ease-in-out infinite;
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(99, 102, 241, 0.7) rgba(248, 250, 252, 0.8);
+}
+
+[data-theme='dark'] * {
+  scrollbar-color: rgba(129, 140, 248, 0.8) rgba(15, 23, 42, 0.9);
+}
+
+/* Responsive scrollbar sizing */
+@media (max-width: 768px) {
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+  }
+}
+
+@media (max-width: 480px) {
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    border: none;
+  }
+}
+
+/* Custom scrollbar styles for language selector */
+.scrollbar-thin {
+  scrollbar-width: thin;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-thumb-gray-300::-webkit-scrollbar-thumb {
+  background-color: #d1d5db;
+  border-radius: 2px;
+}
+
+.scrollbar-thumb-gray-600::-webkit-scrollbar-thumb {
+  background-color: #4b5563;
+  border-radius: 2px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background-color: #9ca3af;
+}
+
+/* Dark mode scrollbar */
+.dark .scrollbar-thumb-gray-600::-webkit-scrollbar-thumb {
+  background-color: #6b7280;
+}
+
+.dark .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background-color: #9ca3af;
+}
+
+/* Smooth scrolling for language dropdown */
+.language-dropdown {
+  scroll-behavior: smooth;
+}
+
+/* Existing animations */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes scale {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes pulse-slow {
+  0%,
+  100% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+/* New enhanced animations */
+@keyframes bg-position {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes fadeInScale {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Utility classes */
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-gradient {
+  background-size: 300% 300%;
+  animation: gradient 6s ease infinite;
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.animate-rotate {
+  animation: rotate 20s linear infinite;
+}
+
+.animate-scale {
+  animation: scale 2s ease-in-out infinite;
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 3s ease-in-out infinite;
+}
+
+.bg-300\% {
+  background-size: 300% 300%;
+}
+
+.shadow-colored-md {
+  box-shadow:
+    0 4px 6px -1px rgba(59, 130, 246, 0.1),
+    0 2px 4px -1px rgba(59, 130, 246, 0.06);
+}
+
+.shadow-colored-lg {
+  box-shadow:
+    0 10px 15px -3px rgba(59, 130, 246, 0.1),
+    0 4px 6px -2px rgba(59, 130, 246, 0.05);
+}
+
+.shadow-3xl {
+  box-shadow: 0 35px 60px -12px rgba(0, 0, 0, 0.25);
+}
+
+.backdrop-blur-3xl {
+  backdrop-filter: blur(64px);
+}
+
+/* Glass morphism effects */
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.glass-dark {
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Enhanced hover effects */
+.hover-lift {
+  transition: all 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow:
+    0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Float animations */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes float-slow {
+  0%,
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-20px) rotate(5deg);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-float-slow {
+  animation: float-slow 6s ease-in-out infinite;
+}
+
+/* Enhanced gradient animations */
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient {
+  animation: gradient 8s ease infinite;
+}
+
+.bg-300\% {
+  background-size: 300% 300%;
+}
+
+/* Pulse animation for glowing effects */
+@keyframes pulse-glow {
+  0%,
+  100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(1.05);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Shimmer effect for buttons */
+@keyframes shimmer {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+/* Subtle bounce for interactive elements */
+@keyframes bounce-subtle {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.animate-bounce-subtle {
+  animation: bounce-subtle 2s ease-in-out infinite;
+}
+
+/* Scale animation for cards */
+@keyframes scale-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-scale-in {
+  animation: scale-in 0.6s ease-out;
+}
+
+/* Full-screen button visibility styles */
+.fullscreen-buttons {
+  position: relative;
+  z-index: 1000;
+}
+
+.fullscreen-buttons button {
+  position: relative;
+  z-index: 1001;
+}
+
+/* Ensure buttons are visible in full-screen mode */
+:fullscreen .fullscreen-buttons,
+:-webkit-full-screen .fullscreen-buttons,
+:-moz-full-screen .fullscreen-buttons {
+  position: relative;
+  z-index: 1000;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+:fullscreen .fullscreen-buttons button,
+:-webkit-full-screen .fullscreen-buttons button,
+:-moz-full-screen .fullscreen-buttons button {
+  position: relative;
+  z-index: 1001;
+  visibility: visible !important;
+  opacity: 1 !important;
+  background: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(10px) !important;
+  border: 2px solid rgba(99, 102, 241, 0.3) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Dark mode full-screen button styles */
+[data-theme='dark'] :fullscreen .fullscreen-buttons button,
+[data-theme='dark'] :-webkit-full-screen .fullscreen-buttons button,
+[data-theme='dark'] :-moz-full-screen .fullscreen-buttons button {
+  background: rgba(15, 23, 42, 0.95) !important;
+  border: 2px solid rgba(129, 140, 248, 0.3) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Hide navbar in full-screen mode */
+:fullscreen nav,
+:-webkit-full-screen nav,
+:-moz-full-screen nav {
+  display: none !important;
+}
+
+/* Hide scroll progress bar in full-screen mode */
+:fullscreen .scroll-progress,
+:-webkit-full-screen .scroll-progress,
+:-moz-full-screen .scroll-progress {
+  display: none !important;
+}
+
+/* Hide footer in full-screen mode */
+:fullscreen footer,
+:-webkit-full-screen footer,
+:-moz-full-screen footer {
+  display: none !important;
+}
+
+/* Ensure toast messages are visible in full-screen mode */
+:fullscreen [data-sonner-toaster],
+:-webkit-full-screen [data-sonner-toaster],
+:-moz-full-screen [data-sonner-toaster] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Ensure react-hot-toast containers are visible in full-screen mode */
+:fullscreen [data-react-hot-toast],
+:-webkit-full-screen [data-react-hot-toast],
+:-moz-full-screen [data-react-hot-toast] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Target react-hot-toast's actual DOM structure */
+:fullscreen div[role='status'],
+:-webkit-full-screen div[role='status'],
+:-moz-full-screen div[role='status'] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Target any element with toast-related classes */
+:fullscreen [class*='toast'],
+:-webkit-full-screen [class*='toast'],
+:-moz-full-screen [class*='toast'] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Target react-hot-toast's portal container */
+:fullscreen #react-hot-toast,
+:-webkit-full-screen #react-hot-toast,
+:-moz-full-screen #react-hot-toast {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Ensure any toast-like notifications are visible in full-screen mode */
+:fullscreen .toast,
+:-webkit-full-screen .toast,
+:-moz-full-screen .toast {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Ensure toast containers have proper stacking context in full-screen mode */
+:fullscreen [id*='toast'],
+:-webkit-full-screen [id*='toast'],
+:-moz-full-screen [id*='toast'] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Target any element that might contain toasts */
+:fullscreen [class*='notification'],
+:-webkit-full-screen [class*='notification'],
+:-moz-full-screen [class*='notification'] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Ensure all fixed positioned elements in full screen have proper z-index */
+:fullscreen [style*='position: fixed'],
+:-webkit-full-screen [style*='position: fixed'],
+:-moz-full-screen [style*='position: fixed'] {
+  z-index: 99999 !important;
+}
+
+/* Force all toast-related elements to be visible in full screen */
+:fullscreen *[class*='toast'],
+:-webkit-full-screen *[class*='toast'],
+:-moz-full-screen *[class*='toast'] {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  z-index: 99999 !important;
+}
+
+/* Target react-hot-toast's specific portal structure */
+:fullscreen div[data-testid='toast'],
+:-webkit-full-screen div[data-testid='toast'],
+:-moz-full-screen div[data-testid='toast'] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Ensure any element with toast-related attributes is visible */
+:fullscreen [data-toast],
+:-webkit-full-screen [data-toast],
+:-moz-full-screen [data-toast] {
+  position: fixed !important;
+  z-index: 99999 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}

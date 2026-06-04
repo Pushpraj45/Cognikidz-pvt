@@ -1,0 +1,23 @@
+{
+  "imageAlt": "Các hoạt động phát triển trẻ em",
+  "mainTitle": "Bắt Đầu Hành Trình Của Con Bạn Ngay Hôm Nay",
+  "description": "Tham gia cùng hàng nghìn gia đình tin tưởng CogniKidz về đánh giá và hỗ trợ phát triển trẻ em toàn diện.",
+  "buttons": {
+    "getStarted": "Bắt Đầu",
+    "createAccount": "Tạo Tài Khoản Miễn Phí"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "Đánh Giá Dựa Trên Bằng Chứng",
+      "description": "Công cụ của chúng tôi được xây dựng dựa trên nhiều thập kỷ nghiên cứu và được xác thực bởi các chuyên gia phát triển trẻ em trên toàn thế giới."
+    },
+    "privateSecure": {
+      "title": "Riêng Tư & An Toàn",
+      "description": "Dữ liệu của con bạn được bảo vệ với bảo mật cấp doanh nghiệp và các biện pháp bảo mật tuân thủ HIPAA."
+    },
+    "actionable": {
+      "title": "Thông Tin Chi Tiết Hữu Ích",
+      "description": "Nhận các đề xuất được cá nhân hóa và các bước tiếp theo dựa trên kết quả đánh giá riêng của con bạn."
+    }
+  }
+}

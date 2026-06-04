@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "મૂલ્યાંકન",
+    "pricing": "કિંમત",
+    "resources": "સ્રોતો",
+    "support": "આધાર",
+    "contact": "સંપર્ક",
+    "faq": "વારંવાર પૂછાતા પ્રશ્નો",
+    "login": "લૉગિન",
+    "get_started": "શરુ કરો",
+    "logout": "લૉગઆઉટ",
+    "language": "ભાષા"
+  },
+  "footer": {
+    "tagline": "સંશોધન પર આધારિત મૂલ્યાંકનો દ્વારા વિકાસમાં ભિન્નતા ધરાવતા બાળકો માટે વહેલી ઓળખ અને સહારો.",
+    "quick_links": "ઝડપી લિંક્સ",
+    "legal": "કાયદાકીય",
+    "privacy": "ગોપનીયતા નીતિ",
+    "terms": "સેવાની શરતો",
+    "cookies": "કુકી નીતિ",
+    "all_rights": "બધા હક્કો સુરક્ષિત.",
+    "hipaa": "HIPAA-તૈયાર",
+    "gdpr": "GDPR-અનુકૂલ"
+  },
+  "actions": {
+    "start_assessment": "મૂલ્યાંકન શરૂ કરો",
+    "start_free": "મફત મૂલ્યાંકન શરૂ કરો",
+    "buy_and_start": "ખરીદો અને શરૂ કરો",
+    "get_package": "પેકેજ મેળવો",
+    "view_in_dashboard": "ડેશબોર્ડમાં જુઓ",
+    "buy_more": "વધુ ખરીદો",
+    "buy_again": "ફરીથી ખરીદો",
+    "start_now": "હમણાં જ શરૂ કરો",
+    "add_to_calendar": "કૅલેન્ડરમાં ઉમેરો",
+    "close": "બંધ કરો",
+    "cancel": "રદ કરો",
+    "create_child_profile": "બાળ પ્રોફાઇલ બનાવો"
+  },
+  "generic": {
+    "loading": "લોડ થઇ રહ્યું છે...",
+    "free": "મફત",
+    "all": "બધા",
+    "autism": "ઓટિઝમ",
+    "adhd": "એડીએચડી",
+    "dyslexia": "ડિસ્લેક્સિયા",
+    "general": "સામાન્ય"
+  },
+  "trustedByFamilies": "કુટુંબો દ્વારા વિશ્વસનીય"
+}

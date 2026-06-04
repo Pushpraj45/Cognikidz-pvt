@@ -1,0 +1,23 @@
+{
+  "imageAlt": "Activités de développement de l'enfant",
+  "mainTitle": "Commencez le voyage de votre enfant dès aujourd'hui",
+  "description": "Rejoignez des milliers de familles qui font confiance à CogniKidz pour une évaluation complète du développement de l'enfant et un accompagnement personnalisé.",
+  "buttons": {
+    "getStarted": "Commencer",
+    "createAccount": "Créer un compte gratuit"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "Évaluations fondées sur des preuves",
+      "description": "Nos outils reposent sur des décennies de recherche et sont validés par des experts en développement de l'enfant à travers le monde."
+    },
+    "privateSecure": {
+      "title": "Privé et sécurisé",
+      "description": "Les données de votre enfant sont protégées par une sécurité de niveau entreprise et des mesures de confidentialité conformes à la norme HIPAA."
+    },
+    "actionable": {
+      "title": "Informations exploitables",
+      "description": "Recevez des recommandations personnalisées et les prochaines étapes en fonction des résultats uniques de l'évaluation de votre enfant."
+    }
+  }
+}

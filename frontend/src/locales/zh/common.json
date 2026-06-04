@@ -1,0 +1,46 @@
+{
+  "app": { "name": "CogniKidz" },
+  "nav": {
+    "assessments": "评估",
+    "pricing": "定价",
+    "resources": "资源",
+    "support": "支持",
+    "login": "登录",
+    "get_started": "开始",
+    "logout": "退出",
+    "language": "语言"
+  },
+  "footer": {
+    "tagline": "通过基于研究的评估，及早识别并支持发展差异儿童。",
+    "quick_links": "快速链接",
+    "legal": "法律",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 政策",
+    "all_rights": "版权所有。"
+  },
+  "actions": {
+    "start_assessment": "开始评估",
+    "start_free": "开始免费评估",
+    "buy_and_start": "购买并开始",
+    "get_package": "获取套餐",
+    "view_in_dashboard": "在控制台中查看",
+    "buy_more": "购买更多",
+    "buy_again": "再次购买",
+    "start_now": "立即开始",
+    "add_to_calendar": "添加到日历",
+    "close": "关闭",
+    "cancel": "取消",
+    "create_child_profile": "创建儿童档案"
+  },
+  "generic": {
+    "loading": "加载中...",
+    "free": "免费",
+    "all": "全部",
+    "autism": "自闭症",
+    "adhd": "多动症",
+    "dyslexia": "读写困难",
+    "general": "通用"
+  },
+  "trustedByFamilies": "深受家庭信赖"
+}

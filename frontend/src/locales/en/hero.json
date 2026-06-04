@@ -1,0 +1,16 @@
+{
+  "badge": "AI-Powered Child Development",
+  "title": {
+    "unlocking": "Unlocking",
+    "everyChilds": "Every Child's",
+    "uniquePotential": "Unique Potential"
+  },
+  "description": "Advanced AI-driven assessments and personalized insights to support your child's developmental journey with evidence-based tools trusted by families worldwide.",
+  "features": ["AI-powered assessments", "Personalized insights", "Evidence-based tools"],
+  "cta": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "scrollToExplore": "Scroll to Explore",
+    "interactiveDemo": "Interactive Demo"
+  }
+}

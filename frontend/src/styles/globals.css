@@ -1,0 +1,188 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: 145, 59, 251;
+  --secondary: 129, 230, 217;
+  --success: 34, 197, 94;
+  --danger: 231, 70, 70;
+  --background: 255, 255, 255;
+  --card: 243, 244, 246;
+  --foreground: 33, 33, 33;
+  --border: 229, 231, 235;
+  --muted: 156, 163, 175;
+  --text: 31, 41, 55;
+  --shadow: 226, 232, 240;
+  --surface: 248, 250, 252;
+}
+
+.dark {
+  --primary: 122, 67, 182;
+  --secondary: 99, 179, 237;
+  --success: 52, 211, 153;
+  --danger: 248, 114, 114;
+  --background: 17, 24, 39;
+  --card: 31, 41, 55;
+  --foreground: 243, 244, 246;
+  --border: 55, 65, 81;
+  --muted: 107, 114, 128;
+  --text: 229, 231, 235;
+  --shadow: 15, 23, 42;
+  --surface: 17, 24, 39;
+}
+
+@layer utilities {
+  .bg-primary {
+    @apply bg-[rgba(var(--primary),1)];
+  }
+  .bg-secondary {
+    @apply bg-[rgba(var(--secondary),1)];
+  }
+  .bg-success {
+    @apply bg-[rgba(var(--success),1)];
+  }
+  .bg-danger {
+    @apply bg-[rgba(var(--danger),1)];
+  }
+  .bg-background {
+    @apply bg-[rgba(var(--background),1)];
+  }
+  .bg-card {
+    @apply bg-[rgba(var(--card),1)];
+  }
+  .bg-foreground {
+    @apply bg-[rgba(var(--foreground),1)];
+  }
+  .border-primary {
+    @apply border-[rgba(var(--primary),1)];
+  }
+  .border-secondary {
+    @apply border-[rgba(var(--secondary),1)];
+  }
+  .border-background {
+    @apply border-[rgba(var(--background),1)];
+  }
+  .border-card {
+    @apply border-[rgba(var(--card),1)];
+  }
+  .border-foreground {
+    @apply border-[rgba(var(--foreground),1)];
+  }
+  .border-border {
+    @apply border-[rgba(var(--border),1)];
+  }
+  .text-primary {
+    @apply text-[rgba(var(--primary),1)];
+  }
+  .text-secondary {
+    @apply text-[rgba(var(--secondary),1)];
+  }
+  .text-success {
+    @apply text-[rgba(var(--success),1)];
+  }
+  .text-danger {
+    @apply text-[rgba(var(--danger),1)];
+  }
+  .text-foreground {
+    @apply text-[rgba(var(--foreground),1)];
+  }
+  .text-background {
+    @apply text-[rgba(var(--background),1)];
+  }
+  .text-text {
+    @apply text-[rgba(var(--text),1)];
+  }
+  .text-muted {
+    @apply text-[rgba(var(--muted),1)];
+  }
+  .text-surface {
+    @apply text-[rgba(var(--surface),1)];
+  }
+  .ring-primary {
+    @apply ring-[rgba(var(--primary),1)];
+  }
+  .ring-secondary {
+    @apply ring-[rgba(var(--secondary),1)];
+  }
+  /* Hide on mobile */
+  .mobile-hidden {
+    @apply hidden sm:block;
+  }
+
+  /* Hide on desktop */
+  .desktop-hidden {
+    @apply block sm:hidden;
+  }
+
+  /* Container with responsive padding */
+  .responsive-container {
+    @apply px-4 sm:px-6 md:px-8 lg:px-12 mx-auto max-w-7xl;
+  }
+
+  /* Responsive text sizes */
+  .responsive-heading {
+    @apply text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold;
+  }
+
+  .responsive-subheading {
+    @apply text-xl sm:text-2xl md:text-3xl font-semibold;
+  }
+
+  /* Flex column on mobile, row on desktop */
+  .responsive-flex {
+    @apply flex flex-col sm:flex-row;
+  }
+
+  /* Grid with responsive columns */
+  .responsive-grid {
+    @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6;
+  }
+
+  /* Touch-friendly buttons for mobile */
+  .touch-button {
+    @apply py-3 px-4 sm:py-2 sm:px-3 rounded-lg;
+  }
+}
+
+/* Custom animations */
+@keyframes slow-pulse {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-slow-pulse {
+  animation: slow-pulse 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}
+
+@keyframes spin-slow {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 12s linear infinite;
+}

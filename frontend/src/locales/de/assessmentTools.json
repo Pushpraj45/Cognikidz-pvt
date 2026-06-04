@@ -1,0 +1,41 @@
+{
+  "badge": "Evidenzbasierte Tools",
+  "title": "Umfassende Bewertungssuite",
+  "subtitle": "Forschungsbasierte Tools zur Identifizierung von Entwicklungsmustern und zur Bereitstellung umsetzbarer Einsichten für die einzigartigen Bedürfnisse Ihres Kindes.",
+  "tools": {
+    "adhd": {
+      "title": "ADHS-Bewertung",
+      "subtitle": "Aufmerksamkeit & Fokus",
+      "description": "Umfassende Beurteilung von Aufmerksamkeit, Hyperaktivität und exekutiven Funktionen durch validierte Screening-Tools und interaktive Bewertungen.",
+      "features": [
+        "Bewertung der Aufmerksamkeitsspanne",
+        "Screening von Hyperaktivität",
+        "Tests exekutiver Funktionen"
+      ],
+      "learnMore": "Mehr erfahren"
+    },
+    "autism": {
+      "title": "Autismus-Screening",
+      "subtitle": "Sozial & Kommunikation",
+      "description": "Früherkennung von Merkmalen des Autismus-Spektrums mittels evidenzbasierter Bewertungsprotokolle und KI-gestützter Analyse.",
+      "features": [
+        "Muster sozialer Interaktion",
+        "Kommunikationsbewertung",
+        "Verhaltensbeobachtung"
+      ],
+      "learnMore": "Mehr erfahren"
+    },
+    "dyslexia": {
+      "title": "Legasthenie-Screening",
+      "subtitle": "Lesen & Sprache",
+      "description": "Spezialisierte Bewertung bei Leseschwierigkeiten und Herausforderungen in der Sprachverarbeitung durch Tests zur phonologischen Bewusstheit.",
+      "features": [
+        "Phonologische Bewusstheit",
+        "Leseflüssigkeitstests",
+        "Bewertung der Sprachverarbeitung"
+      ],
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "viewAll": "Alle Bewertungen anzeigen"
+}

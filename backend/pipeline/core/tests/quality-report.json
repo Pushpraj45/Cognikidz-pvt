@@ -1,0 +1,285 @@
+{
+  "timestamp": "2025-06-24T11:25:47.357Z",
+  "summary": {
+    "unitTests": {
+      "total": 20,
+      "passed": 19,
+      "passRate": "95.0"
+    },
+    "integrationTests": {
+      "total": 15,
+      "passed": 14,
+      "passRate": "93.3"
+    },
+    "qualityScore": 88,
+    "grade": "B"
+  },
+  "testResults": {
+    "unit": [
+      {
+        "file": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\tests\\unit\\scoring\\risk-calculator.test.js",
+        "result": {
+          "passed": 7,
+          "failed": 1,
+          "total": 8,
+          "duration": 929
+        },
+        "timestamp": "2025-06-24T11:25:47.327Z"
+      },
+      {
+        "file": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\tests\\unit\\summary\\ai-service.test.js",
+        "result": {
+          "passed": 12,
+          "failed": 0,
+          "total": 12,
+          "duration": 640
+        },
+        "timestamp": "2025-06-24T11:25:47.329Z"
+      }
+    ],
+    "integration": [
+      {
+        "file": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\tests\\integration\\orchestrator.test.js",
+        "result": {
+          "passed": 14,
+          "failed": 1,
+          "total": 15,
+          "duration": 731
+        },
+        "timestamp": "2025-06-24T11:25:47.331Z"
+      }
+    ],
+    "performance": []
+  },
+  "qualityMetrics": {
+    "codeComplexity": {
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\assessment-orchestrator-backup.js": {
+        "lines": 1486,
+        "functions": 42,
+        "complexity": 164,
+        "maintainability": 0,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\assessment-orchestrator-backup.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\data\\charts.js": {
+        "lines": 58,
+        "functions": 3,
+        "complexity": 2,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\data\\charts.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\data\\progress.js": {
+        "lines": 50,
+        "functions": 4,
+        "complexity": 2,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\data\\progress.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\orchestrator.js": {
+        "lines": 258,
+        "functions": 20,
+        "complexity": 10,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\orchestrator.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\question-generator.js": {
+        "lines": 427,
+        "functions": 10,
+        "complexity": 47,
+        "maintainability": 80,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\question-generator.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\recommendations\\engine.js": {
+        "lines": 57,
+        "functions": 2,
+        "complexity": 6,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\recommendations\\engine.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\recommendations\\scheduler.js": {
+        "lines": 52,
+        "functions": 1,
+        "complexity": 7,
+        "maintainability": 92,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\recommendations\\scheduler.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\response-processor.js": {
+        "lines": 460,
+        "functions": 17,
+        "complexity": 43,
+        "maintainability": 78,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\response-processor.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\scoring\\domain-scorer.js": {
+        "lines": 143,
+        "functions": 2,
+        "complexity": 8,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\scoring\\domain-scorer.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\scoring\\findings.js": {
+        "lines": 38,
+        "functions": 2,
+        "complexity": 4,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\scoring\\findings.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\scoring\\risk-calculator.js": {
+        "lines": 65,
+        "functions": 8,
+        "complexity": 5,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\scoring\\risk-calculator.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\session\\completer.js": {
+        "lines": 164,
+        "functions": 2,
+        "complexity": 14,
+        "maintainability": 91,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\session\\completer.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\session\\processor.js": {
+        "lines": 139,
+        "functions": 1,
+        "complexity": 16,
+        "maintainability": 46,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\session\\processor.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\session\\starter.js": {
+        "lines": 117,
+        "functions": 1,
+        "complexity": 14,
+        "maintainability": 56,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\session\\starter.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\summary\\ai-service.js": {
+        "lines": 313,
+        "functions": 8,
+        "complexity": 31,
+        "maintainability": 91,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\summary\\ai-service.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\summary\\generator.js": {
+        "lines": 271,
+        "functions": 3,
+        "complexity": 44,
+        "maintainability": 46,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\summary\\generator.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\summary\\parser.js": {
+        "lines": 157,
+        "functions": 3,
+        "complexity": 21,
+        "maintainability": 92,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\summary\\parser.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\flow-control.js": {
+        "lines": 53,
+        "functions": 1,
+        "complexity": 12,
+        "maintainability": 67,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\flow-control.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\formatters.js": {
+        "lines": 25,
+        "functions": 1,
+        "complexity": 1,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\formatters.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\session-utils.js": {
+        "lines": 40,
+        "functions": 3,
+        "complexity": 2,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\session-utils.js"
+      },
+      "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\validators.js": {
+        "lines": 41,
+        "functions": 1,
+        "complexity": 4,
+        "maintainability": 100,
+        "path": "C:\\Users\\saksh\\Documents\\dev\\github\\Cognikidz-dev\\backend\\pipeline\\core\\utils\\validators.js"
+      }
+    },
+    "testCoverage": {},
+    "performance": {
+      "responseProcessing": 88,
+      "summaryGeneration": 675,
+      "riskCalculation": 56,
+      "memoryUsage": 66
+    },
+    "modularity": {}
+  },
+  "recommendations": [
+    {
+      "type": "complexity",
+      "severity": "high",
+      "message": "Module assessment-orchestrator-backup.js has high complexity (164). Consider refactoring."
+    },
+    {
+      "type": "size",
+      "severity": "medium",
+      "message": "Module assessment-orchestrator-backup.js is large (1486 lines). Consider splitting into smaller modules."
+    },
+    {
+      "type": "maintainability",
+      "severity": "high",
+      "message": "Module assessment-orchestrator-backup.js has low maintainability (0%). Needs refactoring."
+    },
+    {
+      "type": "complexity",
+      "severity": "high",
+      "message": "Module question-generator.js has high complexity (47). Consider refactoring."
+    },
+    {
+      "type": "size",
+      "severity": "medium",
+      "message": "Module question-generator.js is large (427 lines). Consider splitting into smaller modules."
+    },
+    {
+      "type": "complexity",
+      "severity": "high",
+      "message": "Module response-processor.js has high complexity (43). Consider refactoring."
+    },
+    {
+      "type": "size",
+      "severity": "medium",
+      "message": "Module response-processor.js is large (460 lines). Consider splitting into smaller modules."
+    },
+    {
+      "type": "maintainability",
+      "severity": "high",
+      "message": "Module processor.js has low maintainability (46%). Needs refactoring."
+    },
+    {
+      "type": "maintainability",
+      "severity": "high",
+      "message": "Module starter.js has low maintainability (56%). Needs refactoring."
+    },
+    {
+      "type": "complexity",
+      "severity": "high",
+      "message": "Module ai-service.js has high complexity (31). Consider refactoring."
+    },
+    {
+      "type": "size",
+      "severity": "medium",
+      "message": "Module ai-service.js is large (313 lines). Consider splitting into smaller modules."
+    },
+    {
+      "type": "complexity",
+      "severity": "high",
+      "message": "Module generator.js has high complexity (44). Consider refactoring."
+    },
+    {
+      "type": "maintainability",
+      "severity": "high",
+      "message": "Module generator.js has low maintainability (46%). Needs refactoring."
+    },
+    {
+      "type": "complexity",
+      "severity": "high",
+      "message": "Module parser.js has high complexity (21). Consider refactoring."
+    }
+  ]
+}

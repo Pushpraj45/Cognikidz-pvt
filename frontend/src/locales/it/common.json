@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "Valutazioni",
+    "pricing": "Prezzi",
+    "resources": "Risorse",
+    "support": "Supporto",
+    "contact": "Contatti",
+    "faq": "Domande frequenti",
+    "login": "Accedi",
+    "get_started": "Inizia",
+    "logout": "Esci",
+    "language": "Lingua"
+  },
+  "footer": {
+    "tagline": "Individuazione precoce e supporto per bambini con differenze di sviluppo tramite valutazioni basate sulla ricerca.",
+    "quick_links": "Link rapidi",
+    "legal": "Legale",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "cookies": "Informativa sui cookie",
+    "all_rights": "Tutti i diritti riservati.",
+    "hipaa": "Conforme HIPAA",
+    "gdpr": "Conforme GDPR"
+  },
+  "actions": {
+    "start_assessment": "Inizia valutazione",
+    "start_free": "Inizia valutazione gratuita",
+    "buy_and_start": "Acquista e inizia",
+    "get_package": "Ottieni pacchetto",
+    "view_in_dashboard": "Visualizza nel pannello",
+    "buy_more": "Acquista di più",
+    "buy_again": "Acquista di nuovo",
+    "start_now": "Inizia ora",
+    "add_to_calendar": "Aggiungi al calendario",
+    "close": "Chiudi",
+    "cancel": "Annulla",
+    "create_child_profile": "Crea profilo bambino"
+  },
+  "generic": {
+    "loading": "Caricamento...",
+    "free": "Gratuito",
+    "all": "Tutti",
+    "autism": "Autismo",
+    "adhd": "ADHD",
+    "dyslexia": "Dislessia",
+    "general": "Generale"
+  },
+  "trustedByFamilies": "Fidato dalle famiglie"
+}

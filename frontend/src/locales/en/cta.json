@@ -1,0 +1,23 @@
+{
+  "imageAlt": "Child development activities",
+  "mainTitle": "Start Your Child's Journey Today",
+  "description": "Join thousands of families who trust CogniKidz for comprehensive child development assessment and support.",
+  "buttons": {
+    "getStarted": "Get Started",
+    "createAccount": "Create Free Account"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "Evidence-Based Assessments",
+      "description": "Our tools are built on decades of research and validated by child development experts worldwide."
+    },
+    "privateSecure": {
+      "title": "Private & Secure",
+      "description": "Your child's data is protected with enterprise-grade security and HIPAA-compliant privacy measures."
+    },
+    "actionable": {
+      "title": "Actionable Insights",
+      "description": "Receive personalized recommendations and next steps based on your child's unique assessment results."
+    }
+  }
+}

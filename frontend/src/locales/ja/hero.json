@@ -1,0 +1,16 @@
+{
+  "badge": "AI駆動の子どもの発達",
+  "title": {
+    "unlocking": "解き放つ",
+    "everyChilds": "すべての子どもの",
+    "uniquePotential": "ユニークな可能性"
+  },
+  "description": "世界中の家族に信頼されているエビデンスベースのツールで、お子様の発達の旅をサポートする高度なAI駆動の評価とパーソナライズされた洞察。",
+  "features": ["AI駆動の評価", "パーソナライズされた洞察", "エビデンスベースのツール"],
+  "cta": {
+    "getStarted": "始める",
+    "learnMore": "詳しく見る",
+    "scrollToExplore": "スクロールして探索",
+    "interactiveDemo": "インタラクティブデモ"
+  }
+}

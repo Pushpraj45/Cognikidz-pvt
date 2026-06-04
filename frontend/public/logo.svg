@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Circle -->
+  <circle cx="256" cy="256" r="240" stroke="#4F46E5" stroke-width="24" fill="#EEF2FF" />
+  
+  <!-- Eyes -->
+  <circle cx="160" cy="200" r="36" fill="#4F46E5" />
+  <circle cx="352" cy="200" r="36" fill="#4F46E5" />
+  
+  <!-- Smile -->
+  <path d="M144 320C144 320 192 384 256 384C320 384 368 320 368 320" stroke="#4F46E5" stroke-width="20" stroke-linecap="round" />
+  
+  <!-- Brain Patterns -->
+  <path d="M160 120L120 80M352 120L392 80M160 400L120 440M352 400L392 440" stroke="#4F46E5" stroke-width="16" stroke-linecap="round" />
+  
+  <!-- Cognitive Rays -->
+  <circle cx="256" cy="256" r="140" stroke="#4F46E5" stroke-width="8" stroke-dasharray="20,30" opacity="0.6" />
+</svg> 

@@ -1,0 +1,24 @@
+{
+  "badge": "Progresso in Tempo Reale",
+  "title": "Traccia il Progresso",
+  "effortlessly": "Senza Sforzo",
+  "subtitle": "Monitora il viaggio di sviluppo del tuo bambino con la nostra dashboard completa e il sistema intelligente di tracciamento del progresso.",
+  "features": {
+    "liveDashboard": {
+      "title": "Dashboard Live",
+      "subtitle": "Tempo reale",
+      "description": "Monitora il progresso del tuo bambino in tempo reale con grafici interattivi, tracciamento delle tappe e analisi complete."
+    },
+    "smartReports": {
+      "title": "Report Intelligenti",
+      "subtitle": "Generati da AI",
+      "description": "Ricevi report dettagliati generati da AI che forniscono approfondimenti sullo sviluppo del tuo bambino e raccomandazioni personalizzate."
+    },
+    "progressTimeline": {
+      "title": "Timeline del Progresso",
+      "subtitle": "Storico",
+      "description": "Visualizza il viaggio di sviluppo del tuo bambino nel tempo con il tracciamento dettagliato della timeline e i risultati delle tappe."
+    }
+  },
+  "cta": "Visualizza Dashboard"
+}

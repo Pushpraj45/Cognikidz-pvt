@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "Precios transparentes",
+    "title_lead": "Elige tu",
+    "title_highlight": "plan de evaluación",
+    "subtitle": "Accede a evaluaciones del desarrollo infantil a precios transparentes y asequibles. Elige evaluaciones individuales o paquetes combinados con gran valor."
+  },
+  "filters": { "individual": "Individual", "packages": "Paquetes" },
+  "individual": {
+    "title_lead": "Evaluaciones",
+    "title_highlight": "individuales",
+    "subtitle": "Elige evaluaciones específicas según las necesidades de tu hijo. Comienza con nuestra evaluación general gratuita o selecciona evaluaciones especializadas.",
+    "you_have_left": "Te quedan {{count}}"
+  },
+  "packages": {
+    "title_lead": "Paquetes",
+    "title_highlight": "de valor",
+    "subtitle": "Ahorra más con nuestros paquetes completos de evaluación. Varias evaluaciones juntas a precios con descuento.",
+    "most_popular": "Más popular",
+    "best_value": "Mejor valor",
+    "complete_suite": "Suite completa",
+    "included": "Evaluaciones incluidas:",
+    "features": "Funciones adicionales:",
+    "save": "Ahorra"
+  },
+  "cta": {
+    "ready": "¿Listo para comenzar?",
+    "body": "Elige el plan de evaluación que mejor se adapte a tu hijo."
+  },
+  "success": { "title": "Pago exitoso" },
+  "labels": { "loading_pricing": "Cargando información de precios", "free": "Gratis" }
+}

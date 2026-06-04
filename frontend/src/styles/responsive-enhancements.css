@@ -1,0 +1,102 @@
+/* Mobile-First Responsive Enhancements for CogniKidz */
+
+/* Global Mobile Improvements */
+@media (max-width: 768px) {
+  /* Enhanced text readability on small screens */
+  .text-xl {
+    font-size: 1.1rem !important;
+  }
+
+  .text-2xl {
+    font-size: 1.3rem !important;
+  }
+
+  .text-3xl {
+    font-size: 1.5rem !important;
+  }
+
+  /* Better padding and margins on mobile */
+  .px-4 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Enhanced button spacing */
+  .flex.flex-col.sm\\:flex-row {
+    gap: 0.75rem !important;
+  }
+
+  .flex.flex-col.sm\\:flex-row button,
+  .flex.flex-col.sm\\:flex-row a {
+    width: 100% !important;
+    justify-content: center !important;
+    text-align: center !important;
+  }
+
+  /* Better card layouts */
+  .grid.grid-cols-1.md\\:grid-cols-2,
+  .grid.grid-cols-1.md\\:grid-cols-3,
+  .grid.grid-cols-1.lg\\:grid-cols-2,
+  .grid.grid-cols-1.lg\\:grid-cols-3 {
+    grid-template-columns: 1fr !important;
+    gap: 1rem !important;
+  }
+
+  /* Enhanced form elements */
+  input[type='text'],
+  input[type='email'],
+  input[type='password'],
+  select,
+  textarea {
+    min-height: 48px !important;
+    font-size: 16px !important;
+    padding: 0.75rem !important;
+  }
+
+  /* Better navigation */
+  .container.mx-auto {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Enhanced modal and popup layouts */
+  .glassmorphism-card {
+    margin: 0.5rem !important;
+    border-radius: 1rem !important;
+  }
+}
+
+/* Touch-friendly enhancements */
+@media (hover: none) {
+  button,
+  a,
+  [role='button'] {
+    min-height: 44px !important;
+    min-width: 44px !important;
+  }
+}
+
+/* Enhanced focus states for better keyboard navigation */
+/* Only show focus outline for keyboard navigation, not mouse clicks */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #6366f1 !important;
+  outline-offset: 2px !important;
+}
+
+/* Remove default focus outline for mouse interactions */
+button:focus:not(:focus-visible),
+a:focus:not(:focus-visible),
+input:focus:not(:focus-visible),
+select:focus:not(:focus-visible),
+textarea:focus:not(:focus-visible) {
+  outline: none !important;
+}
+
+/* Remove webkit tap highlight */
+* {
+  -webkit-tap-highlight-color: transparent !important;
+}

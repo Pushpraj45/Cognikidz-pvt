@@ -1,0 +1,41 @@
+{
+  "badge": "Herramientas basadas en evidencia",
+  "title": "Suite integral de evaluaciones",
+  "subtitle": "Herramientas respaldadas por la investigación para identificar patrones del desarrollo y ofrecer insights accionables para las necesidades únicas de tu hijo.",
+  "tools": {
+    "adhd": {
+      "title": "Evaluación de TDAH",
+      "subtitle": "Atención y enfoque",
+      "description": "Evaluación integral de la atención, la hiperactividad y la función ejecutiva mediante herramientas de cribado validadas y evaluaciones interactivas.",
+      "features": [
+        "Evaluación del lapso de atención",
+        "Cribado de hiperactividad",
+        "Pruebas de función ejecutiva"
+      ],
+      "learnMore": "Más información"
+    },
+    "autism": {
+      "title": "Cribado de autismo",
+      "subtitle": "Social y comunicación",
+      "description": "Cribado de detección temprana de características del espectro autista mediante protocolos de evaluación basados en evidencia y análisis con IA.",
+      "features": [
+        "Patrones de interacción social",
+        "Evaluación de la comunicación",
+        "Observación del comportamiento"
+      ],
+      "learnMore": "Más información"
+    },
+    "dyslexia": {
+      "title": "Cribado de dislexia",
+      "subtitle": "Lectura y lenguaje",
+      "description": "Evaluación especializada de dificultades de lectura y procesamiento del lenguaje mediante pruebas de conciencia fonológica.",
+      "features": [
+        "Conciencia fonológica",
+        "Pruebas de fluidez lectora",
+        "Evaluación del procesamiento del lenguaje"
+      ],
+      "learnMore": "Más información"
+    }
+  },
+  "viewAll": "Ver todas las evaluaciones"
+}

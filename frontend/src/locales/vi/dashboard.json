@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "Tổng Quan",
+    "assessments": "Đánh Giá Của Bạn",
+    "children": "Trẻ Em",
+    "history": "Lịch Sử"
+  },
+  "assessments": {
+    "remaining": "Còn lại {{base}}",
+    "buy_more": "Mua thêm",
+    "no_purchases": "Chưa có mua hàng. Xem các gói và bắt đầu.",
+    "combo_package": "Gói Tổng Hợp",
+    "individual": "Đánh Giá Cá Nhân",
+    "view": "Xem",
+    "details": "Chi Tiết",
+    "start": "Bắt Đầu"
+  },
+  "history": {
+    "timeline": "Dòng Thời Gian",
+    "select_child": "Vui lòng chọn một trẻ để xem dòng thời gian của họ.",
+    "none_title": "Không tìm thấy đánh giá nào cho trẻ này",
+    "none_body": "Trẻ này chưa hoàn thành bất kỳ đánh giá nào. Bắt đầu đánh giá để theo dõi tiến độ và sự phát triển của trẻ.",
+    "new_assessment": "Đánh Giá Mới"
+  },
+  "children": {
+    "management": "Quản Lý Trẻ Em",
+    "profiles": "Hồ Sơ Trẻ Em",
+    "add_child": "Thêm Trẻ",
+    "name": "Tên",
+    "dob": "Ngày Sinh",
+    "age": "Tuổi",
+    "gender": "Giới Tính",
+    "grade": "Lớp",
+    "actions": "Thao Tác",
+    "view": "Xem",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "deleting": "Đang xóa...",
+    "not_set": "Chưa đặt",
+    "years": "tuổi",
+    "refreshing": "Đang làm mới...",
+    "loading": "Đang tải hồ sơ trẻ em...",
+    "none": "Không tìm thấy hồ sơ trẻ em nào. Thêm trẻ đầu tiên của bạn để bắt đầu."
+  }
+}

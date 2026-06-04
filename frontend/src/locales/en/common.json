@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "Assessments",
+    "pricing": "Pricing",
+    "resources": "Resources",
+    "support": "Support",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "login": "Login",
+    "get_started": "Get Started",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "footer": {
+    "tagline": "Early detection and support for children with developmental differences through research-backed assessments.",
+    "quick_links": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "all_rights": "All rights reserved.",
+    "hipaa": "HIPAA-Ready",
+    "gdpr": "GDPR-Compliant"
+  },
+  "actions": {
+    "start_assessment": "Start Assessment",
+    "start_free": "Start Free Assessment",
+    "buy_and_start": "Buy & Start",
+    "get_package": "Get Package",
+    "view_in_dashboard": "View in Dashboard",
+    "buy_more": "Buy More",
+    "buy_again": "Buy Again",
+    "start_now": "Start now",
+    "add_to_calendar": "Add to calendar",
+    "close": "Close",
+    "cancel": "Cancel",
+    "create_child_profile": "Create Child Profile"
+  },
+  "generic": {
+    "loading": "Loading...",
+    "free": "Free",
+    "all": "All",
+    "autism": "Autism",
+    "adhd": "ADHD",
+    "dyslexia": "Dyslexia",
+    "general": "General"
+  },
+  "trustedByFamilies": "Trusted by Families"
+}

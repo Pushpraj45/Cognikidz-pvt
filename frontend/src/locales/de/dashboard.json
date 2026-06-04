@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "Übersicht",
+    "assessments": "Deine Bewertungen",
+    "children": "Kinder",
+    "history": "Verlauf"
+  },
+  "assessments": {
+    "remaining": "{{base}} verbleibend",
+    "buy_more": "Mehr kaufen",
+    "no_purchases": "Noch keine Käufe. Pläne ansehen und loslegen.",
+    "combo_package": "Kombi-Paket",
+    "individual": "Einzelbewertung",
+    "view": "Ansehen",
+    "details": "Details",
+    "start": "Starten"
+  },
+  "history": {
+    "timeline": "Zeitachse",
+    "select_child": "Bitte ein Kind auswählen, um die Zeitleiste zu sehen.",
+    "none_title": "Keine Bewertungen für dieses Kind gefunden",
+    "none_body": "Dieses Kind hat noch keine Bewertungen abgeschlossen. Starten Sie eine Bewertung, um Fortschritt und Entwicklung zu verfolgen.",
+    "new_assessment": "Neue Bewertung"
+  },
+  "children": {
+    "management": "Kinderverwaltung",
+    "profiles": "Kinderprofile",
+    "add_child": "Kind hinzufügen",
+    "name": "Name",
+    "dob": "Geburtsdatum",
+    "age": "Alter",
+    "gender": "Geschlecht",
+    "grade": "Klasse",
+    "actions": "Aktionen",
+    "view": "Ansehen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "deleting": "Wird gelöscht...",
+    "not_set": "Nicht festgelegt",
+    "years": "Jahre",
+    "refreshing": "Aktualisiere...",
+    "loading": "Kinderprofile werden geladen...",
+    "none": "Keine Kinderprofile gefunden. Fügen Sie das erste Kind hinzu, um zu starten."
+  }
+}

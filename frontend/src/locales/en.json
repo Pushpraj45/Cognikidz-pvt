@@ -1,0 +1,439 @@
+{
+  "assessment": {
+    "consent": {
+      "title": "Parental Consent Required",
+      "intro": "Before proceeding with the assessment, please review and accept the following:",
+      "points": [
+        "This assessment is for screening purposes only and is not a substitute for professional medical advice",
+        "Your responses will be used to generate an initial assessment report",
+        "All data will be processed according to our privacy policy",
+        "You can stop the assessment at any time and your progress will be saved",
+        "Results should be discussed with a qualified healthcare professional"
+      ],
+      "decline": "Decline",
+      "consent": "I Agree"
+    },
+    "quiz": {
+      "help": "Help & Examples",
+      "next": "Next",
+      "previous": "Previous",
+      "submit": "Submit",
+      "saveExit": "Save & Exit",
+      "validation": {
+        "required": "Please answer this question to continue"
+      },
+      "milestones": {
+        "quarter": "Great! You've completed 25% of the assessment.",
+        "half": "Halfway there! Keep going!",
+        "threeQuarters": "Almost done! Just a few more questions left.",
+        "complete": "Assessment complete! Your report is being generated..."
+      }
+    },
+    "complete": {
+      "title": "Assessment Complete",
+      "subtitle": "Your personalized report is ready",
+      "generating": "Your report is being generated...",
+      "riskLevel": "Risk Level",
+      "riskScore": "Risk Score",
+      "summary": "Summary",
+      "recommendations": "Recommendations",
+      "nextSteps": "Next Steps",
+      "download": "Download PDF Report",
+      "dashboard": "Back to Dashboard"
+    },
+    "paused": {
+      "title": "Assessment Paused",
+      "subtitle": "Your progress has been saved",
+      "resumeTitle": "Resume Your Assessment",
+      "resumeDescription": "You can resume your assessment at any time. All your previous answers have been saved.",
+      "resumeButton": "Resume Assessment",
+      "dashboardButton": "Back to Dashboard",
+      "progress": "Progress",
+      "complete": "Complete",
+      "resume": "Resume Assessment",
+      "exit": "Exit Assessment"
+    },
+    "pageTitles": {
+      "chooseType": "Choose Assessment Type - CogniKidz",
+      "inProgress": "Assessment in Progress - CogniKidz"
+    },
+    "metaDescriptions": {
+      "chooseType": "Choose the appropriate assessment type for your child",
+      "inProgress": "Complete your child's developmental assessment"
+    },
+    "loading": "Loading your assessment...",
+    "error": {
+      "loadFailed": "Failed to load assessment",
+      "initFailed": "Failed to initialize assessment",
+      "noSessionId": "No session ID returned from assessment creation"
+    },
+    "disorderSelector": {
+      "badge": "Assessment Tools",
+      "title": "Specialized",
+      "subtitle": "Our scientifically validated screening tools are designed to identify developmental differences early, giving you the insights you need to support your child's unique journey",
+      "startAssessment": "Start Assessment"
+    }
+  },
+  "howItWorks": {
+    "title": "How CogniKidz Works",
+    "subtitle": "See how our platform guides you through the assessment process in just 4 simple steps",
+    "interactiveDemo": "Interactive Demo",
+    "step": "Step",
+    "of": "of",
+    "stepLabel": "Step",
+    "ofLabel": "of",
+    "steps": {
+      "step1": {
+        "title": "Create Your Child's Profile",
+        "description": "Set up a secure profile with basic information about your child. Our platform ensures complete privacy and data security.",
+        "features": ["Secure & Private", "Multiple Children Support", "Easy Setup Process"]
+      },
+      "step2": {
+        "title": "Complete Assessment Forms",
+        "description": "Fill out research-based assessment forms designed by developmental experts. Takes only 20-35 minutes.",
+        "features": [
+          "Research-Based Questions",
+          "15-20 Minute Completion",
+          "Mobile-Friendly Interface"
+        ]
+      },
+      "step3": {
+        "title": "Interactive Assessment Questions",
+        "description": "Engage with carefully designed questions assessing various developmental aspects, with real-time progress tracking.",
+        "features": [
+          "Interactive Question Format",
+          "Real-Time Progress Tracking",
+          "Scientifically Validated"
+        ]
+      },
+      "step4": {
+        "title": "Get Detailed Report",
+        "description": "Receive comprehensive insights and personalized recommendations based on your assessment results.",
+        "features": ["Detailed Insights", "Personalized Recommendations", "Actionable Next Steps"]
+      }
+    }
+  },
+  "hero": {
+    "badge": "Research Backed",
+    "title": {
+      "unlocking": "Unlocking",
+      "everyChilds": "Every Child's",
+      "uniquePotential": "Unique Potential"
+    },
+    "description": "Early identification tools for ADHD, Autism, and Dyslexia with personalized guidance for your child's developmental journey.",
+    "features": ["Research-Based Assessment", "Personalized Insights", "Expert-Guided Support"],
+    "cta": {
+      "getStarted": "Get Started",
+      "learnMore": "Learn More",
+      "scrollToExplore": "Scroll to explore more",
+      "interactiveDemo": "Interactive Demo"
+    }
+  },
+  "common": {
+    "trustedByFamilies": "Trusted by Families",
+    "freeAssessment": "Free Assessment"
+  },
+  "features": {
+    "ai": "AI",
+    "proven": "Proven",
+    "realTimeAnalysis": "Real-time Analysis",
+    "childDevelopment": "Child Development"
+  },
+  "progressTracking": {
+    "badge": "Dashboard Management",
+    "title": "Track Progress Effortlessly",
+    "subtitle": "Comprehensive dashboard tools for monitoring your child's developmental journey",
+    "effortlessly": "Effortlessly",
+    "features": {
+      "liveDashboard": {
+        "title": "Live Dashboard",
+        "subtitle": "Real-Time Insights",
+        "description": "Monitor development milestones with visual progress tracking"
+      },
+      "smartReports": {
+        "title": "Smart Reports",
+        "subtitle": "Expert Analysis",
+        "description": "AI-powered recommendations based on assessment results"
+      },
+      "progressTimeline": {
+        "title": "Progress Timeline",
+        "subtitle": "Development Tracking",
+        "description": "Celebrate achievements and track developmental patterns"
+      }
+    },
+    "cta": "Explore Dashboard"
+  },
+  "assessmentTools": {
+    "badge": "Research-Based Tools",
+    "title": "Specialized Assessment Tools",
+    "subtitle": "Professional-grade screening tools designed to identify developmental patterns early, giving you the insights you need to support your child's unique journey",
+    "tools": {
+      "adhd": {
+        "title": "ADHD Assessment",
+        "subtitle": "Attention & Focus",
+        "description": "Identify attention difficulties and hyperactivity patterns with our research-supported screening tool based on Vanderbilt Assessment Scale and DSM-5 criteria.",
+        "features": [
+          "Based on Vanderbilt Assessment Scale and DSM-5 criteria",
+          "Ages 4-17 years",
+          "15-20 minute completion"
+        ],
+        "learnMore": "Learn More"
+      },
+      "autism": {
+        "title": "Autism Screening",
+        "subtitle": "Social & Communication",
+        "description": "Assess social communication and behavioral patterns for autism spectrum disorders using recognized clinical tools.",
+        "features": [
+          "Based on M-CHAT and CARS scales",
+          "Ages 18 months-6 years",
+          "20-30 minute completion"
+        ],
+        "learnMore": "Learn More"
+      },
+      "dyslexia": {
+        "title": "Dyslexia Screening",
+        "subtitle": "Reading & Processing",
+        "description": "Early identification of potential reading and language processing difficulties for better educational support and intervention.",
+        "features": [
+          "Based on DIBELS and phonological awareness tests",
+          "Ages 5-9 years",
+          "15-20 minute completion"
+        ],
+        "learnMore": "Learn More"
+      }
+    },
+    "viewAll": "View All Assessments"
+  },
+  "cta": {
+    "imageAlt": "Happy children playing and learning",
+    "title": "Every Child Deserves to Thrive",
+    "subtitle": "Join thousands of parents who have found clarity and support for their children's unique developmental needs.",
+    "mainTitle": "Start Your Child's Assessment Journey Today",
+    "description": "The earlier we can identify developmental differences, the more effectively we can support your child's growth and unlock their full potential.",
+    "features": {
+      "evidenceBased": {
+        "title": "Evidence-Based Assessment",
+        "description": "Designed by developmental experts and validated by clinical research"
+      },
+      "privateSecure": {
+        "title": "Completely Private & Secure",
+        "description": "Your child's information is protected with enterprise-grade security"
+      },
+      "actionable": {
+        "title": "Actionable Recommendations",
+        "description": "Get practical activities, resources, and personalized next steps"
+      }
+    },
+    "buttons": {
+      "getStarted": "Get Started",
+      "createAccount": "Create Free Account"
+    }
+  },
+  "nav": {
+    "assessments": "Assessments",
+    "pricing": "Pricing",
+    "resources": "Resources",
+    "support": "Support",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "overview": "Overview",
+    "recentAssessments": "Recent Assessments",
+    "upcomingAssessments": "Upcoming Assessments",
+    "progress": "Progress",
+    "reports": "Reports",
+    "children": "Children",
+    "addChild": "Add Child",
+    "editChild": "Edit Child",
+    "deleteChild": "Delete Child",
+    "noChildren": "No children found",
+    "noAssessments": "No assessments found",
+    "startNewAssessment": "Start New Assessment",
+    "viewReport": "View Report",
+    "downloadReport": "Download Report",
+    "assessmentStatus": {
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "pending": "Pending",
+      "cancelled": "Cancelled"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Choose the right plan for your child's development",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save",
+    "popular": "Popular",
+    "features": {
+      "basic": "Basic",
+      "pro": "Pro",
+      "enterprise": "Enterprise"
+    },
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "period": "month",
+        "description": "For basic assessments",
+        "features": ["1 child", "Basic reports", "Limited support"]
+      },
+      "basic": {
+        "name": "Basic",
+        "price": "$19",
+        "period": "month",
+        "description": "For individual families",
+        "features": ["Up to 3 children", "Detailed reports", "Email support", "Progress tracking"]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$39",
+        "period": "month",
+        "description": "For professional use",
+        "features": [
+          "Unlimited children",
+          "Advanced reports",
+          "Priority support",
+          "AI recommendations",
+          "Export options"
+        ]
+      }
+    },
+    "cta": {
+      "getStarted": "Get Started",
+      "choosePlan": "Choose Plan",
+      "contactSales": "Contact Sales"
+    }
+  },
+  "support": {
+    "title": "Support & Help",
+    "subtitle": "We're here to help you",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "help": "Help",
+    "feedback": "Feedback",
+    "email": "Email",
+    "phone": "Phone",
+    "chat": "Chat",
+    "hours": "Hours",
+    "responseTime": "Response Time",
+    "categories": {
+      "technical": "Technical Issues",
+      "billing": "Billing",
+      "assessment": "Assessment",
+      "general": "General"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "subtitle": "Welcome back to your account",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "rememberMe": "Remember me",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up",
+      "or": "or",
+      "googleLogin": "Login with Google"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Start your journey",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "agreeToTerms": "I agree to the terms and conditions",
+      "submit": "Create Account",
+      "alreadyHaveAccount": "Already have an account?",
+      "login": "Login",
+      "or": "or",
+      "googleSignup": "Sign up with Google"
+    },
+    "verification": {
+      "title": "Email Verification",
+      "subtitle": "Verify your email",
+      "message": "We've sent a verification link to your email",
+      "resend": "Resend",
+      "checkSpam": "Check spam folder"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "children": "Children",
+    "settings": "Settings",
+    "preferences": "Preferences",
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "security": "Security",
+    "deleteAccount": "Delete Account",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About",
+    "team": "Team",
+    "careers": "Careers",
+    "contact": "Contact",
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "assessments": "Assessments",
+    "reports": "Reports",
+    "support": "Support",
+    "help": "Help",
+    "documentation": "Documentation",
+    "api": "API",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "copyright": "© 2024 CogniKidz. All rights reserved."
+  },
+  "errors": {
+    "general": "Something went wrong",
+    "network": "Network error",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden",
+    "notFound": "Not found",
+    "serverError": "Server error",
+    "validation": "Validation error",
+    "required": "This field is required",
+    "invalidEmail": "Invalid email",
+    "passwordMismatch": "Passwords don't match",
+    "weakPassword": "Password is too weak"
+  },
+  "success": {
+    "saved": "Saved",
+    "updated": "Updated",
+    "deleted": "Deleted",
+    "created": "Created",
+    "sent": "Sent",
+    "verified": "Verified"
+  },
+  "loading": {
+    "general": "Loading...",
+    "saving": "Saving...",
+    "deleting": "Deleting...",
+    "sending": "Sending...",
+    "verifying": "Verifying..."
+  }
+}

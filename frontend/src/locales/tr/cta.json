@@ -1,0 +1,23 @@
+{
+  "imageAlt": "Çocuk gelişimi aktiviteleri",
+  "mainTitle": "Çocuğunuzun Yolculuğuna Bugün Başlayın",
+  "description": "Kapsamlı çocuk gelişimi değerlendirmesi ve desteği için CogniKidz'e güvenen binlerce aileye katılın.",
+  "buttons": {
+    "getStarted": "Başlayın",
+    "createAccount": "Ücretsiz Hesap Oluşturun"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "Kanıta Dayalı Değerlendirmeler",
+      "description": "Araçlarımız on yıllık araştırmalara dayanır ve dünya çapında çocuk gelişimi uzmanları tarafından doğrulanır."
+    },
+    "privateSecure": {
+      "title": "Gizli ve Güvenli",
+      "description": "Çocuğunuzun verileri kurumsal düzeyde güvenlik ve HIPAA uyumlu gizlilik önlemleri ile korunur."
+    },
+    "actionable": {
+      "title": "Harekete Geçirilebilir İçgörüler",
+      "description": "Çocuğunuzun benzersiz değerlendirme sonuçlarına dayalı kişiselleştirilmiş öneriler ve sonraki adımlar alın."
+    }
+  }
+}

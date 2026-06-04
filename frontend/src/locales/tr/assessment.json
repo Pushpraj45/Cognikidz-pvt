@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "Değerlendirme için Çocuk Seçin",
+    "loading": "Profiller yükleniyor...",
+    "no_profiles": "Çocuk profili bulunamadı. Lütfen önce bir profil oluşturun.",
+    "cancel": "İptal",
+    "create_child": "Çocuk Profili Oluştur",
+    "continue": "Devam Et",
+    "age_years": "{{count}} yaşında"
+  },
+  "toasts": {
+    "select_child": "Devam etmek için lütfen bir çocuk seçin",
+    "purchase_required": "Bu değerlendirmeyi başlatmak için satın alma gerekli",
+    "verify_failed": "Erişim doğrulanamadı. Lütfen tekrar deneyin."
+  },
+  "types": {
+    "general-form": {
+      "name": "Genel Gelişim Değerlendirmesi",
+      "description": "Birden fazla alanda kapsamlı gelişimsel tarama",
+      "duration": "10-15 dakika"
+    },
+    "autism-form": {
+      "name": "Otizm Form Tabanlı Değerlendirme",
+      "description": "Gelişimsel değerlendirme yoluyla otizm spektrum bozukluğu taraması",
+      "duration": "10-15 dakika"
+    },
+    "autism-image": {
+      "name": "Otizm Görsel Tabanlı Değerlendirme",
+      "description": "Sosyal anlayış değerlendirmesi için yapay zeka destekli görsel karşılaştırma görevleri",
+      "duration": "15-20 dakika"
+    },
+    "adhd-form": {
+      "name": "DEHB Form Tabanlı Değerlendirme",
+      "description": "Anket tabanlı değerlendirme yoluyla kapsamlı DEHB taraması",
+      "duration": "15-20 dakika"
+    },
+    "adhd-game": {
+      "name": "DEHB Oyun Tabanlı Değerlendirme",
+      "description": "Dikkat ve yönetici işlevi değerlendirmek için tasarlanmış interaktif oyunlar",
+      "duration": "20-25 dakika"
+    },
+    "dyslexia-form": {
+      "name": "Disleksi Form Tabanlı Değerlendirme",
+      "description": "Okuma ve dil işleme odaklı tarama",
+      "duration": "15-20 dakika"
+    },
+    "dyslexia-game": {
+      "name": "Disleksi Oyun Tabanlı Değerlendirme",
+      "description": "Fonolojik farkındalık ve hafızayı değerlendiren interaktif görevler",
+      "duration": "20-25 dakika"
+    }
+  },
+  "page": {
+    "loading_setup": "Değerlendirmeniz hazırlanıyor...",
+    "loading": "Değerlendirme yükleniyor...",
+    "loading_hint": "Bu birkaç dakika sürebilir",
+    "error_title": "Değerlendirme Yüklenirken Hata",
+    "try_again": "Tekrar Dene",
+    "back_to_assessments": "Değerlendirmelere Geri Dön",
+    "in_progress_title": "Değerlendirme Devam Ediyor",
+    "in_progress_hint": "Lütfen her soruyu düşünceli bir şekilde cevaplayın. Yanıtlarınız bize en doğru değerlendirmeyi sağlamamıza yardımcı olur.",
+    "choose_title": "Değerlendirme Türünü Seçin - CogniKidz",
+    "choose_desc": "Çocuğunuz için uygun değerlendirme türünü seçin"
+  }
+}

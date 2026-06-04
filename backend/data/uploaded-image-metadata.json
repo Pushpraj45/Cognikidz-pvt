@@ -1,0 +1,477 @@
+[
+  {
+    "setId": "autism-set-001",
+    "assessmentType": "autism",
+    "setNumber": 1,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-001/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-001/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "001",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-001/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-001/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "001",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "A young child is upset and crying, with tears streaming down their cheeks.\r\nTheir mouth is wide open in distress, and their eyebrows are tightly furrowed.\r\nThe child is wearing a pink shirt and has pigtails, captured against a white background.",
+      "positive": "Five children are standing close together outdoors, smiling and enjoying each other’s company.\r\nThey have their arms around each other in a friendly pose, showing joy and togetherness.\r\nThe background features a sunny, natural landscape with hills and trees."
+    }
+  },
+  {
+    "setId": "autism-set-002",
+    "assessmentType": "autism",
+    "setNumber": 2,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-002/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-002/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "002",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-002/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-002/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "002",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "Several colorful toy trains made of wood are arranged neatly on a table.\r\nEach train has a unique design, featuring blue, red, and white colors with detailed markings.\r\nThe setting is indoors, likely in a playroom or learning space for children.",
+      "positive": "A group of young children is holding hands and playing together in a grassy field.\r\nThey are smiling and appear joyful, engaging in what looks like a group circle game.\r\nThe scene reflects happiness, social interaction, and active outdoor play."
+    }
+  },
+  {
+    "setId": "autism-set-003",
+    "assessmentType": "autism",
+    "setNumber": 3,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-003/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-003/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "003",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-003/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-003/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "003",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This is a vibrant abstract artwork featuring a stained-glass style geometric pattern.\r\nIt contains bold colors like red, orange, yellow, green, blue, and purple separated by thick black lines.\r\nThe image evokes creativity, visual stimulation, and is suitable for visual perception assessments.",
+      "positive": "A young child with curly hair and bright blue eyes expresses excitement and joy.\r\nThe child’s mouth is open in a happy shout or surprise, and they are wearing a white shirt.\r\nThe background is softly blurred, drawing full attention to the child’s expressive face."
+    }
+  },
+  {
+    "setId": "autism-set-004",
+    "assessmentType": "autism",
+    "setNumber": 4,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-004/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-004/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "004",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-004/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-004/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "004",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This is a colorful wooden educational board designed to teach children about time, days, months, seasons, and weather.\r\nIt includes interactive dials and sliders for engagement, enhancing fine motor skills and cognitive understanding.\r\nPerfect for preschoolers, it introduces basic concepts through play-based learning.",
+      "positive": "A warm and emotional moment is captured as a mother lovingly hugs her young child on a cozy couch.\r\nThe child rests peacefully in her arms, showing affection and a strong sense of security.\r\nNatural lighting from the window adds a serene, intimate atmosphere to the scene."
+    }
+  },
+  {
+    "setId": "autism-set-005",
+    "assessmentType": "autism",
+    "setNumber": 5,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-005/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-005/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "005",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-005/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-005/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "005",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image showcases a set of children's mosaic pegboard toys with various colorful designs. The collection includes pictures of animals, vehicles, a house, and a UFO. These toys are designed for toddlers to develop fine motor skills by placing large, colorful button-like pegs into the boards.",
+      "positive": "This is a cartoon illustration of a young boy with auburn hair, appearing overjoyed. He is depicted in a dynamic, happy pose with his arms wide open and a big smile. The character is wearing a red shirt, matching shorts, and blue sneakers."
+    }
+  },
+  {
+    "setId": "autism-set-006",
+    "assessmentType": "autism",
+    "setNumber": 6,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-006/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-006/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "006",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-006/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-006/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "006",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image displays a colorful set of the English alphabet in uppercase and numbers zero through nine. Made from a foam-like material, they are designed as simple, bold learning tools for children. The vibrant colors make them engaging for educational play.",
+      "positive": "a classroom, a female teacher reads a picture book to young children. The children are seated on the floor, captivated by the story she is telling. Educational charts on the wall suggest a learning environment."
+    }
+  },
+  {
+    "setId": "autism-set-007",
+    "assessmentType": "autism",
+    "setNumber": 7,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-007/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-007/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "007",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-007/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-007/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "007",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image shows a white ceiling fan in operation, with its blades creating a circular blur due to motion. The fan, which includes a light fixture, is mounted on a vaulted ceiling made of light-colored wooden planks. The perspective is looking up from below the fan.",
+      "positive": "This is a portrait of a young girl with an expression of extreme surprise or excitement. She has her hands on her cheeks and her mouth wide open against a bright blue background. Her hair is styled in two pigtails, and she's wearing a multi-colored striped shirt."
+    }
+  },
+  {
+    "setId": "autism-set-008",
+    "assessmentType": "autism",
+    "setNumber": 8,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-008/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-008/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "008",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-008/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-008/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "008",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image captures a stunning, immersive installation of countless colorful hanging lights. The glowing bulbs create a magical cascade of vibrant colors, including yellow, pink, and blue, against a dark backdrop. A reflective, tiled floor mirrors the beautiful illumination from above.",
+      "positive": "This is a heartwarming photo of a diverse group of children happily posing together outdoors. They are piled playfully on a grassy lawn, all smiling directly at the camera. The sunny, natural setting with trees in the background suggests a fun day at a park."
+    }
+  },
+  {
+    "setId": "autism-set-009",
+    "assessmentType": "autism",
+    "setNumber": 9,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-009/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-009/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "009",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-009/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-009/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "009",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image displays colorful wooden blocks stacked in ascending order, resembling a bar chart against a white background. A hand is pictured placing the final teal block onto the tallest stack, suggesting growth or completion. The blocks transition in color from yellow and red to pink and teal.",
+      "positive": "This is a tender studio portrait of a woman and a baby lying on a white blanket. The woman, who appears to be of Caucasian descent with long brown hair, is smiling warmly at the baby. The infant, with a tuft of dark hair in a tiny ponytail, gazes back at her."
+    }
+  },
+  {
+    "setId": "autism-set-010",
+    "assessmentType": "autism",
+    "setNumber": 10,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-010/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-010/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "010",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-010/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-010/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "010",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This close-up photo focuses on a pair of weathered hands carefully holding three metal gears. The hands are positioned over a larger piece of machinery, suggesting a workshop setting. The image evokes themes of engineering, craftsmanship, and intricate mechanics.",
+      "positive": "This is a studio portrait of a young man with glasses and a beard, set against a vibrant blue background. He is wearing a blue sweater and smiling cheerfully at the camera. His right hand is raised in a friendly waving gesture."
+    }
+  },
+  {
+    "setId": "autism-set-012",
+    "assessmentType": "autism",
+    "setNumber": 12,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-012/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-012/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "012",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-012/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-012/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "012",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This is a cheerful, low-angle shot of a diverse group of smiling children huddled together outdoors. They appear to be from various ethnic backgrounds, all looking happily towards the camera. The bright backlighting from the sun gives the image a warm and joyful feeling.",
+      "positive": "This image displays a large quantity of LEGO bricks neatly arranged by color on a white surface. The bricks form distinct vertical piles that create a gradient, moving from green through yellow, red, pink, and blue. The top-down perspective highlights the organized and colorful assortment of the building blocks."
+    }
+  },
+  {
+    "setId": "autism-set-013",
+    "assessmentType": "autism",
+    "setNumber": 13,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-013/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-013/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "013",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-013/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-013/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "013",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "A young child with curly hair is captured outdoors, laughing with delight while playing with soap bubbles. The child, who appears to be of Caucasian descent, is wearing a blue striped shirt and reaching out to the numerous iridescent bubbles floating around them. The background is a soft-focus green, indicating a park or garden setting",
+      "positive": "This image shows a dark-colored ceiling fan in motion, with its spinning blades creating a circular blur. The fan is mounted on a wooden plank ceiling with exposed beams, contributing to a rustic aesthetic. Below the fan, track lights are visible, and a warm-toned wall can be seen in the lower part of the frame."
+    }
+  },
+  {
+    "setId": "autism-set-019",
+    "assessmentType": "autism",
+    "setNumber": 19,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-019/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-019/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "019",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-019/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-019/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "019",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image captures an appreciative audience in what appears to be a theater or auditorium. The focus is on three smiling women in the foreground, who seem to be of diverse backgrounds, clapping enthusiastically. The warm lighting and blurred crowd behind them suggest a live performance has just concluded.",
+      "positive": "This photo shows an intricate electronics project, possibly for a design and technology class, laid out on a table. The device is made of laser-cut wood, featuring an Arduino board, various wires, and colorful marbles in railed slots. It looks like a type of marble sorting machine or a kinetic sculpture in the process of being built."
+    }
+  },
+  {
+    "setId": "autism-set-022",
+    "assessmentType": "autism",
+    "setNumber": 22,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-022/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-022/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "022",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-022/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-022/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "022",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This is a colorful illustration of Swiper, the mischievous fox character from the animated children's series \"Dora the Explorer.\" He is depicted with his signature blue mask and gloves, sporting a sneaky grin. The background is a simple cartoon landscape with green hills and a tree.",
+      "positive": "This image shows a high-angle view of a wooden chessboard set mid-game, isolated on a white background. The classic Staunton-style pieces, one set light and the other dark, are arranged in a specific game position. The board is framed and includes algebraic notation along the edges."
+    }
+  },
+  {
+    "setId": "autism-set-024",
+    "assessmentType": "autism",
+    "setNumber": 24,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-024/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-024/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "024",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-024/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-024/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "024",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This is a dynamic and joyful photograph of a group of young girls at a birthday party. The children, who appear to be from diverse backgrounds, are excitedly jumping and reaching for colorful balloons. The festive scene is set against a white wall decorated with a \"Happy Birthday\" banner and rainbow garlands.",
+      "positive": "This image displays a colorful, square-shaped coil spring toy, similar to a Slinky, against a clean white background. The plastic toy features a bright rainbow color gradient and is posed in its characteristic arched shape. A slight reflection of the toy is visible on the surface beneath it."
+    }
+  },
+  {
+    "setId": "autism-set-030",
+    "assessmentType": "autism",
+    "setNumber": 30,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-030/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-030/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "030",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-030/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-030/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "030",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image captures a joyful puppet show or workshop, with an animated man, who appears to be of Caucasian descent, leading a group of children. The children, who seem to be from diverse backgrounds, are laughing and interacting with colorful hand puppets. The warm, focused lighting highlights the excitement and creative energy of the event.",
+      "positive": "This is a product shot of a large, colorful marble run toy set against a white background. The intricate structure is assembled from various brightly colored plastic tubes, funnels, and tracks. Several marbles are depicted in motion, about to drop into the funnels at the top of the run."
+    }
+  },
+  {
+    "setId": "autism-set-032",
+    "assessmentType": "autism",
+    "setNumber": 32,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-032/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-032/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "032",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-032/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-032/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "032",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This is a profile studio portrait of a young woman set against a vibrant yellow background. The woman, who appears to be of Black descent with short, curly hair, is holding her hand near her mouth as if calling out or sharing a secret. Her wide-eyed, open-mouthed expression conveys a sense of excitement or surprise.",
+      "positive": "This photograph displays three small, cylindrical LED lights with shiny metallic housings. Two of the lights are emitting a strong purplish-blue glow, while the third emits a red light. The setup, with one light casting a beam, suggests they are either mini flashlights or components for a DIY electronics project."
+    }
+  },
+  {
+    "setId": "autism-set-035",
+    "assessmentType": "autism",
+    "setNumber": 35,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-035/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-035/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "035",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-035/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-035/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "035",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This is a warm illustration of a family of four sharing a festive meal. The scene depicts two adults and two children, who could be of Caucasian or East Asian descent, gathered around a dining table laden with food. The father is carving what appears to be a roast bird, while the rest of the family looks on with smiles, evoking a sense of togetherness.",
+      "positive": "This image shows a brightly colored educational clock designed for teaching children how to tell time. The face is segmented into various colors, with large, easy-to-read numbers for hours and labeled minutes on the outer ring. Helpful learning aids such as \"past,\" \"to,\" \"quarter,\" and \"half\" are printed on the clock to guide young learners."
+    }
+  },
+  {
+    "setId": "autism-set-039",
+    "assessmentType": "autism",
+    "setNumber": 39,
+    "s3Results": {
+      "negative": {
+        "s3Key": "assessment-images/autism/set-039/negative.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-039/negative.jpg",
+        "assessmentType": "autism",
+        "setNumber": "039",
+        "imageType": "negative"
+      },
+      "positive": {
+        "s3Key": "assessment-images/autism/set-039/positive.jpg",
+        "publicUrl": "https://cognkidz-prod-store.s3.eu-north-1.amazonaws.com/assessment-images/autism/set-039/positive.jpg",
+        "assessmentType": "autism",
+        "setNumber": "039",
+        "imageType": "positive"
+      }
+    },
+    "descriptions": {
+      "negative": "This image captures a heartwarming moment between a young boy and a dog on a lush green lawn. The boy, who appears to be of Caucasian descent, is kneeling while holding out a bowl for a Jack Russell Terrier to drink or eat from. The gentle interaction, set against a backdrop of green foliage, highlights the bond between a child and a pet.",
+      "positive": "This photo shows a complex gearbox made from 3D-printed components, sitting on the bed of a 3D printer. The intricate device features a series of large, interlocking gears in bright primary colors—red, yellow, and blue. The overall construction showcases a sophisticated mechanical assembly, likely a hobbyist or engineering project."
+    }
+  }
+]

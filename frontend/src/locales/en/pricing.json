@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "Transparent Pricing",
+    "title_lead": "Choose Your",
+    "title_highlight": "Assessment Plan",
+    "subtitle": "Access professional child development assessments at transparent, affordable prices. Choose individual assessments or value-packed combo packages."
+  },
+  "filters": {
+    "individual": "Individual",
+    "packages": "Packages"
+  },
+  "individual": {
+    "title_lead": "Individual",
+    "title_highlight": "Assessments",
+    "subtitle": "Choose specific assessments based on your child's needs. Start with our free general development assessment or select specialized assessments.",
+    "you_have_left": "You have {{count}} left"
+  },
+  "packages": {
+    "title_lead": "Value",
+    "title_highlight": "Packages",
+    "subtitle": "Save more with our comprehensive assessment packages. Multiple assessments bundled together at discounted rates.",
+    "most_popular": "Most Popular",
+    "best_value": "Best Value",
+    "complete_suite": "Complete Suite",
+    "included": "Included Assessments:",
+    "features": "Additional Features:",
+    "save": "Save"
+  },
+  "cta": {
+    "ready": "Ready to Get Started?",
+    "body": "Choose the assessment plan that best fits your child's needs. All assessments are designed by child development experts and provide detailed, actionable insights."
+  },
+  "success": {
+    "title": "Payment successful"
+  },
+  "labels": {
+    "loading_pricing": "Loading pricing information",
+    "free": "Free"
+  }
+}

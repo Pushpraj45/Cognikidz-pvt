@@ -1,0 +1,65 @@
+{
+  "header": {
+    "badge": "Yardım ve Destek",
+    "title_lead": "Size nasıl",
+    "title_highlight": "yardımcı olabiliriz?",
+    "subtitle": "Hızlı cevaplar bulun veya destek ekibimizle iletişime geçin"
+  },
+  "tabs": {
+    "faq": "SSS",
+    "contact": "Bize Ulaşın",
+    "about": "Hakkımızda"
+  },
+  "contact": {
+    "send_us": "Bize mesaj gönderin",
+    "name": "Ad",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Mesaj Gönder",
+    "get_in_touch": "İletişime geçin",
+    "email_label": "E-posta",
+    "phone_label": "Telefon",
+    "office_label": "Ofis",
+    "response_time": "Yanıt Süresi",
+    "response_copy": "Genellikle iş günlerinde 24 saat içinde yanıt veririz."
+  },
+  "about": {
+    "about_mission": "Misyonumuz Hakkında",
+    "about": "Hakkımızda",
+    "our_mission": "Misyonumuz",
+    "our_story": "Hikayemiz",
+    "our_values": "Değerlerimiz",
+    "principles": "Yaptığımız her şeyi yönlendiren ilkeler",
+    "what_we_do": "Ne Yapıyoruz",
+    "early_detection": "Erken Tespit",
+    "personalized_insights": "Kişiselleştirilmiş İçgörüler",
+    "expert_guidance": "Uzman Rehberliği",
+    "ongoing_support": "Sürekli Destek",
+    "cta": {
+      "header": "Misyonumuza Katılın",
+      "start": "Yolculuğunuza Başlayın",
+      "start_assessment": "Değerlendirmeyi Başlat"
+    },
+    "mission_description": "CogniKidz'de, her çocuğun tam potansiyeline ulaşma fırsatını hak ettiğine inanıyoruz. Misyonumuz, öğrenme farklılıklarının erken tespitini, konum veya kaynaklardan bağımsız olarak tüm aileler için erişilebilir kılmaktır.",
+    "mission_continuation": "Bilimsel olarak doğrulanmış değerlendirme araçlarımız aracılığıyla, ebeveynleri daha erken müdahale, kişiselleştirilmiş destek stratejileri ve çeşitli öğrenme ihtiyaçları olan çocuklar için daha iyi sonuçlara yol açabilecek içgörülerle güçlendirmeyi amaçlıyoruz.",
+    "mission_commitment": "Klinik uzmanlık ile günlük ebeveynlik arasındaki boşluğu kapatmaya, ailelerin çocuklarının benzersiz bilişsel profillerini anlamasını ve desteklemesini kolaylaştırmaya kararlıyız.",
+    "story_intro": "Çocuk gelişimini dönüştürme misyonu haline gelen bir üniversite projesinden doğdu",
+    "story_beginning": "CogniKidz, bir üniversite proje sergisinde iddialı bir fikir olarak başladı. O zamanlar ikinci sınıfta olan Pushpraj, başkalarının gözden kaçırdığı bir fırsat gördü. Proje sergi grubunda çocuk gelişimi değerlendirme araçları için bu yenilikçi konsept varken, hiç kimse bunu büyük ölçekte inşa etmeye hazır değildi.",
+    "story_vision": "Ancak Pushpraj bu fikrin gerçek bir fark yaratma potansiyeline sahip olduğunu biliyordu. Vizyonunu yurt arkadaşları - Devendra, Aman ve Tanjul ile paylaştı. Birlikte başkalarının göremediği şeyi gördüler - ailelerin çocuklarının gelişimini anlamasına ve desteklemesine gerçekten yardımcı olabilecek bir şey yaratma olasılığını.",
+    "story_development": "Devendra, kapsamlı platformumuz haline gelecek şeyin temelini atarak ilk web sayfasını geliştirme görevini üstlendi. Bir üniversite projesi olarak başlayan şey, çocukların tam potansiyellerine ulaşmasına yardımcı olmaya odaklanmış misyon odaklı bir platforma dönüştü.",
+    "story_current": "Bugün, çocuk gelişimi verilerini yönetmek ve her çocuğun benzersiz potansiyelini ortaya çıkarmaya yardımcı olacak yenilikçi yollar bulmak üzerinde çalışıyoruz. Üniversite yurdu fikrinden ailelere hizmet veren bir platforma yolculuğumuz, çocuk gelişimi değerlendirmesini erişilebilir, bilimsel olarak sağlam ve her yerdeki ebeveynler için gerçekten yardımcı kılma taahhüdümüzü yansıtıyor.",
+    "values_intro": "Yaptığımız her şeyi yönlendiren ilkeler",
+    "scientific_excellence": "Bilimsel Mükemmellik",
+    "scientific_excellence_desc": "Tüm araçlarımız hakem değerlendirmeli araştırmalara dayanır ve klinik titizlikle doğrulanır.",
+    "accessibility": "Erişilebilirlik",
+    "accessibility_desc": "Araçlarımızı tüm geçmiş ve koşullardaki aileler için mevcut kılmaya kararlıyız.",
+    "empowerment": "Güçlendirme",
+    "empowerment_desc": "Ebeveynlere sadece veri değil, çocuklarını daha iyi desteklemeleri için harekete geçirilebilir içgörüler vermeye inanıyoruz.",
+    "early_detection_desc": "DEHB, Otizm ve Disleksi için bilimsel olarak doğrulanmış tarama araçları sağlayarak ebeveynlerin potansiyel öğrenme farklılıklarını erken tespit etmesine yardımcı oluyoruz.",
+    "personalized_insights_desc": "Yapay zeka destekli değerlendirmelerimiz, her çocuğun benzersiz profiline özel harekete geçirilebilir önerilerle detaylı raporlar sağlar.",
+    "expert_guidance_desc": "Klinik uzmanlık ile günlük ebeveynlik arasındaki boşluğu kapatarak, profesyonel içgörüleri tüm aileler için erişilebilir kılıyoruz.",
+    "ongoing_support_desc": "Değerlendirmelerin ötesinde, ailelerin çocuklarının gelişimsel yolculuğunda gezinmesine yardımcı olmak için kaynaklar, makaleler ve destek sağlıyoruz.",
+    "join_mission": "Misyonumuza Katılın",
+    "join_mission_desc": "Destek arayan bir ebeveyn, eğitim veya psikoloji alanında bir profesyonel veya çocukların gelişmesine yardımcı olmaya tutkulu biri olun, sizi topluluğumuza katılmaya davet ediyoruz."
+  }
+}

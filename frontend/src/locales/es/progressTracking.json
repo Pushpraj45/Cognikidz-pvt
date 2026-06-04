@@ -1,0 +1,24 @@
+{
+  "badge": "Progreso en tiempo real",
+  "title": "Seguimiento del progreso",
+  "effortlessly": "sin esfuerzo",
+  "subtitle": "Supervisa el desarrollo de tu hijo con nuestro panel integral y un sistema inteligente de seguimiento del progreso.",
+  "features": {
+    "liveDashboard": {
+      "title": "Panel en vivo",
+      "subtitle": "Tiempo real",
+      "description": "Supervisa el progreso de tu hijo en tiempo real con gráficos interactivos, seguimiento de hitos y analíticas completas."
+    },
+    "smartReports": {
+      "title": "Informes inteligentes",
+      "subtitle": "Generados por IA",
+      "description": "Recibe informes detallados generados por IA que ofrecen información sobre el desarrollo de tu hijo y recomendaciones personalizadas."
+    },
+    "progressTimeline": {
+      "title": "Cronología del progreso",
+      "subtitle": "Histórico",
+      "description": "Visualiza el recorrido de desarrollo de tu hijo a lo largo del tiempo con una cronología detallada y logros de hitos."
+    }
+  },
+  "cta": "Ver panel"
+}

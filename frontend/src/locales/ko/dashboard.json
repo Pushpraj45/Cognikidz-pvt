@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "개요",
+    "assessments": "평가",
+    "children": "아동",
+    "history": "기록"
+  },
+  "assessments": {
+    "remaining": "{{base}} 남음",
+    "buy_more": "더 구매하기",
+    "no_purchases": "아직 구매한 것이 없습니다. 계획을 둘러보고 시작하세요.",
+    "combo_package": "콤보 패키지",
+    "individual": "개별 평가",
+    "view": "보기",
+    "details": "상세정보",
+    "start": "시작"
+  },
+  "history": {
+    "timeline": "타임라인",
+    "select_child": "타임라인을 보려면 아동을 선택해 주세요.",
+    "none_title": "이 아동에 대한 평가를 찾을 수 없습니다",
+    "none_body": "이 아동은 아직 평가를 완료하지 않았습니다. 진행 상황과 발달을 추적하기 위해 평가를 시작하세요.",
+    "new_assessment": "새 평가"
+  },
+  "children": {
+    "management": "아동 관리",
+    "profiles": "아동 프로필",
+    "add_child": "아동 추가",
+    "name": "이름",
+    "dob": "생년월일",
+    "age": "나이",
+    "gender": "성별",
+    "grade": "학년",
+    "actions": "작업",
+    "view": "보기",
+    "edit": "편집",
+    "delete": "삭제",
+    "deleting": "삭제 중...",
+    "not_set": "설정되지 않음",
+    "years": "세",
+    "refreshing": "새로고침 중...",
+    "loading": "아동 프로필을 불러오는 중...",
+    "none": "아동 프로필을 찾을 수 없습니다. 시작하려면 첫 번째 아동을 추가하세요."
+  }
+}

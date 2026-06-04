@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "Tarification transparente",
+    "title_lead": "Choisissez votre",
+    "title_highlight": "plan d'évaluation",
+    "subtitle": "Accédez à des évaluations du développement de l'enfant à des prix transparents et abordables. Choisissez des évaluations individuelles ou des packs combinés."
+  },
+  "filters": { "individual": "Individuel", "packages": "Forfaits" },
+  "individual": {
+    "title_lead": "Évaluations",
+    "title_highlight": "individuelles",
+    "subtitle": "Choisissez des évaluations spécifiques selon les besoins de votre enfant. Commencez par notre évaluation générale gratuite ou sélectionnez des évaluations spécialisées.",
+    "you_have_left": "Il vous en reste {{count}}"
+  },
+  "packages": {
+    "title_lead": "Forfaits",
+    "title_highlight": "avantage",
+    "subtitle": "Économisez davantage avec nos forfaits d'évaluation complets. Plusieurs évaluations regroupées à tarif réduit.",
+    "most_popular": "Le plus populaire",
+    "best_value": "Meilleur rapport qualité/prix",
+    "complete_suite": "Suite complète",
+    "included": "Évaluations incluses :",
+    "features": "Fonctionnalités supplémentaires :",
+    "save": "Économisez"
+  },
+  "cta": {
+    "ready": "Prêt à commencer ?",
+    "body": "Choisissez le plan d'évaluation le mieux adapté à votre enfant."
+  },
+  "success": { "title": "Paiement réussi" },
+  "labels": { "loading_pricing": "Chargement des informations tarifaires", "free": "Gratuit" }
+}

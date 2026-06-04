@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "Оценки",
+    "pricing": "Цены",
+    "resources": "Ресурсы",
+    "support": "Поддержка",
+    "contact": "Контакты",
+    "faq": "Вопросы и ответы",
+    "login": "Войти",
+    "get_started": "Начать",
+    "logout": "Выйти",
+    "language": "Язык"
+  },
+  "footer": {
+    "tagline": "Раннее выявление и поддержка детей с особенностями развития с помощью исследований и оценок.",
+    "quick_links": "Быстрые ссылки",
+    "legal": "Правовая информация",
+    "privacy": "Политика конфиденциальности",
+    "terms": "Условия обслуживания",
+    "cookies": "Политика Cookie",
+    "all_rights": "Все права защищены.",
+    "hipaa": "HIPAA-готово",
+    "gdpr": "Соответствует GDPR"
+  },
+  "actions": {
+    "start_assessment": "Начать оценку",
+    "start_free": "Начать бесплатную оценку",
+    "buy_and_start": "Купить и начать",
+    "get_package": "Получить пакет",
+    "view_in_dashboard": "Смотреть в панели",
+    "buy_more": "Купить больше",
+    "buy_again": "Купить снова",
+    "start_now": "Начать сейчас",
+    "add_to_calendar": "Добавить в календарь",
+    "close": "Закрыть",
+    "cancel": "Отмена",
+    "create_child_profile": "Создать профиль ребёнка"
+  },
+  "generic": {
+    "loading": "Загрузка...",
+    "free": "Бесплатно",
+    "all": "Все",
+    "autism": "Аутизм",
+    "adhd": "СДВГ",
+    "dyslexia": "Дислексия",
+    "general": "Общее"
+  },
+  "trustedByFamilies": "Доверено семьями"
+}

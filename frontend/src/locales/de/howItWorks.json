@@ -1,0 +1,38 @@
+{
+  "title": "So funktioniert es",
+  "subtitle": "Einfache Schritte, um mit unserer umfassenden Bewertungsplattform das Potenzial Ihres Kindes zu entfalten.",
+  "stepLabel": "Schritt",
+  "ofLabel": "von",
+  "step1": {
+    "title": "Kinderprofil erstellen",
+    "description": "Legen Sie das Profil Ihres Kindes mit Basisinformationen, Entwicklungshistorie und spezifischen Anliegen an, um die Bewertung zu personalisieren.",
+    "features": [
+      "Sichere Profilerstellung",
+      "Nachverfolgung der Entwicklungshistorie",
+      "Personalisierte Einrichtung"
+    ]
+  },
+  "step2": {
+    "title": "Bewertungstyp wählen",
+    "description": "Wählen Sie aus unserer umfassenden Suite evidenzbasierter Bewertungen, zugeschnitten auf die Bedürfnisse und das Entwicklungsstadium Ihres Kindes.",
+    "features": ["Mehrere Bewertungsoptionen", "Altersgerechte Inhalte", "Evidenzbasierte Methodik"]
+  },
+  "step3": {
+    "title": "Interaktive Bewertung durchführen",
+    "description": "Nutzen Sie unsere KI-gestützten Tools über interaktive Spiele, Fragebögen und Multimedia-Aktivitäten – informativ und kindgerecht gestaltet.",
+    "features": [
+      "Interaktive Spiele und Aktivitäten",
+      "KI-gestützte Analyse",
+      "Kinderfreundliche Oberfläche"
+    ]
+  },
+  "step4": {
+    "title": "Detaillierten Bericht erhalten",
+    "description": "Erhalten Sie umfassende Einblicke und personalisierte Empfehlungen auf Basis der Bewertungsergebnisse Ihres Kindes – inklusive nächster Schritte und Ressourcen.",
+    "features": [
+      "Detaillierter Analysebericht",
+      "Personalisierte Empfehlungen",
+      "Konkrete nächste Schritte"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "badge": "Développement de l'enfant propulsé par l'IA",
+  "title": {
+    "unlocking": "Libérer",
+    "everyChilds": "le potentiel unique",
+    "uniquePotential": "de chaque enfant"
+  },
+  "description": "Évaluations avancées propulsées par l’IA et informations personnalisées pour accompagner le parcours de développement de votre enfant grâce à des outils fondés sur des preuves et approuvés par des familles du monde entier.",
+  "features": [
+    "Évaluations propulsées par l'IA",
+    "Informations personnalisées",
+    "Outils fondés sur des preuves"
+  ],
+  "cta": {
+    "getStarted": "Commencer",
+    "learnMore": "En savoir plus",
+    "scrollToExplore": "Faites défiler pour explorer",
+    "interactiveDemo": "Démo interactive"
+  }
+}

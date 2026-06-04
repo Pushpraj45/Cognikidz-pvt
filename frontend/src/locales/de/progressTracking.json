@@ -1,0 +1,24 @@
+{
+  "badge": "Fortschritt in Echtzeit",
+  "title": "Fortschritt verfolgen",
+  "effortlessly": "mühelos",
+  "subtitle": "Begleiten Sie die Entwicklungsreise Ihres Kindes mit unserem umfassenden Dashboard und intelligentem Fortschritts-Tracking.",
+  "features": {
+    "liveDashboard": {
+      "title": "Live-Dashboard",
+      "subtitle": "Echtzeit",
+      "description": "Verfolgen Sie den Fortschritt Ihres Kindes in Echtzeit – mit interaktiven Diagrammen, Meilenstein-Tracking und umfassender Analytik."
+    },
+    "smartReports": {
+      "title": "Intelligente Berichte",
+      "subtitle": "KI-generiert",
+      "description": "Erhalten Sie detaillierte, KI-generierte Berichte mit Einblicken in die Entwicklung Ihres Kindes und personalisierten Empfehlungen."
+    },
+    "progressTimeline": {
+      "title": "Fortschritts-Zeitleiste",
+      "subtitle": "Historisch",
+      "description": "Betrachten Sie die Entwicklungsreise Ihres Kindes im Zeitverlauf mit detaillierter Zeitleiste und Meilensteinen."
+    }
+  },
+  "cta": "Dashboard anzeigen"
+}

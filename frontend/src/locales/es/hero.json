@@ -1,0 +1,20 @@
+{
+  "badge": "Desarrollo infantil con IA",
+  "title": {
+    "unlocking": "Desbloqueando",
+    "everyChilds": "el potencial de cada",
+    "uniquePotential": "niño"
+  },
+  "description": "Evaluaciones impulsadas por IA y conocimientos personalizados para apoyar el desarrollo de tu hijo con herramientas basadas en evidencia en las que confían familias de todo el mundo.",
+  "features": [
+    "Evaluaciones con IA",
+    "Información personalizada",
+    "Herramientas basadas en evidencia"
+  ],
+  "cta": {
+    "getStarted": "Comenzar",
+    "learnMore": "Más información",
+    "scrollToExplore": "Desplázate para explorar",
+    "interactiveDemo": "Demostración interactiva"
+  }
+}

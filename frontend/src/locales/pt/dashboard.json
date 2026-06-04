@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "Visão Geral",
+    "assessments": "Suas Avaliações",
+    "children": "Crianças",
+    "history": "Histórico"
+  },
+  "assessments": {
+    "remaining": "{{base}} restantes",
+    "buy_more": "Comprar mais",
+    "no_purchases": "Nenhuma compra ainda. Navegue pelos planos e comece.",
+    "combo_package": "Pacote Combinado",
+    "individual": "Avaliação Individual",
+    "view": "Ver",
+    "details": "Detalhes",
+    "start": "Iniciar"
+  },
+  "history": {
+    "timeline": "Linha do Tempo",
+    "select_child": "Por favor, selecione uma criança para ver sua linha do tempo.",
+    "none_title": "Nenhuma avaliação encontrada para esta criança",
+    "none_body": "Esta criança ainda não completou nenhuma avaliação. Inicie uma avaliação para acompanhar seu progresso e desenvolvimento.",
+    "new_assessment": "Nova Avaliação"
+  },
+  "children": {
+    "management": "Gerenciamento de Crianças",
+    "profiles": "Perfis das Crianças",
+    "add_child": "Adicionar Criança",
+    "name": "Nome",
+    "dob": "Data de Nascimento",
+    "age": "Idade",
+    "gender": "Gênero",
+    "grade": "Série",
+    "actions": "Ações",
+    "view": "Ver",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "deleting": "Excluindo...",
+    "not_set": "Não definido",
+    "years": "anos",
+    "refreshing": "Atualizando...",
+    "loading": "Carregando perfis das crianças...",
+    "none": "Nenhum perfil de criança encontrado. Adicione sua primeira criança para começar."
+  }
+}

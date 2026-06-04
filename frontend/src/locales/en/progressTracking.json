@@ -1,0 +1,24 @@
+{
+  "badge": "Real-Time Progress",
+  "title": "Track Progress",
+  "effortlessly": "Effortlessly",
+  "subtitle": "Monitor your child's developmental journey with our comprehensive dashboard and intelligent progress tracking system.",
+  "features": {
+    "liveDashboard": {
+      "title": "Live Dashboard",
+      "subtitle": "Real-time",
+      "description": "Monitor your child's progress in real-time with interactive charts, milestone tracking, and comprehensive analytics."
+    },
+    "smartReports": {
+      "title": "Smart Reports",
+      "subtitle": "AI-Generated",
+      "description": "Receive detailed, AI-generated reports that provide insights into your child's development and personalized recommendations."
+    },
+    "progressTimeline": {
+      "title": "Progress Timeline",
+      "subtitle": "Historical",
+      "description": "View your child's developmental journey over time with detailed timeline tracking and milestone achievements."
+    }
+  },
+  "cta": "View Dashboard"
+}

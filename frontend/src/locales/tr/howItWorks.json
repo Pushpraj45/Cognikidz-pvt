@@ -1,0 +1,42 @@
+{
+  "title": "Nasıl Çalışır",
+  "subtitle": "Kapsamlı değerlendirme platformumuzla çocuğunuzun potansiyelini açmak için basit adımlar.",
+  "stepLabel": "Adım",
+  "ofLabel": "/",
+  "step1": {
+    "title": "Çocuk Profili Oluşturun",
+    "description": "Değerlendirme deneyimini kişiselleştirmek için temel bilgiler, gelişimsel geçmiş ve endişe duyulan belirli alanlarla çocuğunuzun profilini oluşturun.",
+    "features": [
+      "Güvenli profil oluşturma",
+      "Gelişimsel geçmiş takibi",
+      "Kişiselleştirilmiş deneyim kurulumu"
+    ]
+  },
+  "step2": {
+    "title": "Değerlendirme Türünü Seçin",
+    "description": "Çocuğunuzun belirli ihtiyaçlarına ve gelişimsel aşamasına uyarlanmış kanıta dayalı değerlendirmelerin kapsamlı paketimizden seçim yapın.",
+    "features": [
+      "Birden fazla değerlendirme seçeneği",
+      "Yaşa uygun içerik",
+      "Kanıta dayalı metodoloji"
+    ]
+  },
+  "step3": {
+    "title": "İnteraktif Değerlendirmeyi Tamamlayın",
+    "description": "Hem eğlenceli hem de bilgilendirici olacak şekilde tasarlanmış interaktif oyunlar, anketler ve multimedya aktiviteleri aracılığıyla yapay zeka destekli değerlendirme araçlarımızla etkileşime geçin.",
+    "features": [
+      "İnteraktif oyunlar ve aktiviteler",
+      "Yapay zeka destekli analiz",
+      "Çocuk dostu arayüz"
+    ]
+  },
+  "step4": {
+    "title": "Detaylı Rapor Alın",
+    "description": "Sonraki adımlar ve kaynaklar dahil olmak üzere çocuğunuzun değerlendirme sonuçlarına dayalı kapsamlı içgörüler ve kişiselleştirilmiş öneriler alın.",
+    "features": [
+      "Detaylı analiz raporu",
+      "Kişiselleştirilmiş öneriler",
+      "Harekete geçirilebilir sonraki adımlar"
+    ]
+  }
+}

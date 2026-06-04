@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "투명한 가격",
+    "title_lead": "평가 계획을",
+    "title_highlight": "선택하세요",
+    "subtitle": "투명하고 합리적인 가격으로 전문적인 아동 발달 평가에 접근하세요. 개별 평가 또는 가치가 담긴 콤보 패키지를 선택하세요."
+  },
+  "filters": {
+    "individual": "개별",
+    "packages": "패키지"
+  },
+  "individual": {
+    "title_lead": "개별",
+    "title_highlight": "평가",
+    "subtitle": "아동의 요구사항에 따라 특정 평가를 선택하세요. 무료 일반 발달 평가로 시작하거나 전문 평가를 선택하세요.",
+    "you_have_left": "{{count}}개 남음"
+  },
+  "packages": {
+    "title_lead": "가치",
+    "title_highlight": "패키지",
+    "subtitle": "포괄적인 평가 패키지로 더 많은 비용을 절약하세요. 여러 평가가 할인된 요금으로 묶여 있습니다.",
+    "most_popular": "가장 인기",
+    "best_value": "최고 가치",
+    "complete_suite": "완전한 세트",
+    "included": "포함된 평가:",
+    "features": "추가 기능:",
+    "save": "절약"
+  },
+  "cta": {
+    "ready": "시작할 준비가 되셨나요?",
+    "body": "아동의 요구사항에 가장 적합한 평가 계획을 선택하세요. 모든 평가는 아동 발달 전문가들이 설계했으며 상세하고 실행 가능한 통찰력을 제공합니다."
+  },
+  "success": {
+    "title": "결제 성공"
+  },
+  "labels": {
+    "loading_pricing": "가격 정보 불러오는 중",
+    "free": "무료"
+  }
+}

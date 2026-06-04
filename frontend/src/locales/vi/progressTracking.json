@@ -1,0 +1,24 @@
+{
+  "badge": "Tiến Độ Thời Gian Thực",
+  "title": "Theo Dõi Tiến Độ",
+  "effortlessly": "Dễ Dàng",
+  "subtitle": "Theo dõi hành trình phát triển của con bạn với bảng điều khiển toàn diện và hệ thống theo dõi tiến độ thông minh của chúng tôi.",
+  "features": {
+    "liveDashboard": {
+      "title": "Bảng Điều Khiển Trực Tiếp",
+      "subtitle": "Thời gian thực",
+      "description": "Theo dõi tiến độ của con bạn trong thời gian thực với biểu đồ tương tác, theo dõi các cột mốc và phân tích toàn diện."
+    },
+    "smartReports": {
+      "title": "Báo Cáo Thông Minh",
+      "subtitle": "Được Tạo Bởi AI",
+      "description": "Nhận các báo cáo chi tiết được tạo bởi AI cung cấp thông tin chi tiết về sự phát triển của con bạn và các đề xuất được cá nhân hóa."
+    },
+    "progressTimeline": {
+      "title": "Dòng Thời Gian Tiến Độ",
+      "subtitle": "Lịch Sử",
+      "description": "Xem hành trình phát triển của con bạn theo thời gian với theo dõi dòng thời gian chi tiết và thành tựu cột mốc."
+    }
+  },
+  "cta": "Xem Bảng Điều Khiển"
+}

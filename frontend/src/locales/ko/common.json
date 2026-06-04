@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "평가",
+    "pricing": "가격",
+    "resources": "자료실",
+    "support": "지원",
+    "contact": "문의하기",
+    "faq": "자주 묻는 질문",
+    "login": "로그인",
+    "get_started": "시작하기",
+    "logout": "로그아웃",
+    "language": "언어"
+  },
+  "footer": {
+    "tagline": "연구 기반 평가를 통해 발달 차이를 보이는 아동의 조기 발견과 지원을 돕습니다.",
+    "quick_links": "바로가기",
+    "legal": "법률",
+    "privacy": "개인정보 처리방침",
+    "terms": "서비스 약관",
+    "cookies": "쿠키 정책",
+    "all_rights": "모든 권리 보유.",
+    "hipaa": "HIPAA 준수",
+    "gdpr": "GDPR 준수"
+  },
+  "actions": {
+    "start_assessment": "평가 시작",
+    "start_free": "무료 평가 시작",
+    "buy_and_start": "구매하고 시작",
+    "get_package": "패키지 받기",
+    "view_in_dashboard": "대시보드에서 보기",
+    "buy_more": "더 구매하기",
+    "buy_again": "다시 구매하기",
+    "start_now": "지금 시작",
+    "add_to_calendar": "캘린더에 추가",
+    "close": "닫기",
+    "cancel": "취소",
+    "create_child_profile": "아동 프로필 만들기"
+  },
+  "generic": {
+    "loading": "불러오는 중...",
+    "free": "무료",
+    "all": "전체",
+    "autism": "자폐스펙트럼",
+    "adhd": "ADHD",
+    "dyslexia": "난독증",
+    "general": "일반"
+  },
+  "trustedByFamilies": "가족이 신뢰하는 서비스"
+}

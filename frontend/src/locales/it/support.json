@@ -1,0 +1,65 @@
+{
+  "header": {
+    "badge": "Aiuto e supporto",
+    "title_lead": "Come possiamo",
+    "title_highlight": "aiutarti?",
+    "subtitle": "Trova risposte rapide o contatta il nostro team di supporto"
+  },
+  "tabs": {
+    "faq": "Domande frequenti",
+    "contact": "Contattaci",
+    "about": "Informazioni"
+  },
+  "contact": {
+    "send_us": "Inviaci un messaggio",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Messaggio",
+    "send": "Invia messaggio",
+    "get_in_touch": "Mettiti in contatto",
+    "email_label": "E-mail",
+    "phone_label": "Telefono",
+    "office_label": "Ufficio",
+    "response_time": "Tempo di risposta",
+    "response_copy": "Di norma rispondiamo entro 24 ore nei giorni lavorativi."
+  },
+  "about": {
+    "about_mission": "La nostra missione",
+    "about": "Informazioni",
+    "our_mission": "La nostra missione",
+    "our_story": "La nostra storia",
+    "our_values": "I nostri valori",
+    "principles": "I principi che guidano tutto ciò che facciamo",
+    "what_we_do": "Cosa facciamo",
+    "early_detection": "Individuazione precoce",
+    "personalized_insights": "Approfondimenti personalizzati",
+    "expert_guidance": "Guida degli esperti",
+    "ongoing_support": "Supporto continuo",
+    "cta": {
+      "header": "Unisciti alla nostra missione",
+      "start": "Inizia il tuo percorso",
+      "start_assessment": "Inizia valutazione"
+    },
+    "mission_description": "In CogniKidz crediamo che ogni bambino meriti l’opportunità di raggiungere il proprio pieno potenziale. La nostra missione è rendere l’identificazione precoce delle differenze di apprendimento accessibile a tutte le famiglie, indipendentemente dal luogo o dalle risorse.",
+    "mission_continuation": "Attraverso i nostri strumenti di valutazione scientificamente validati, intendiamo offrire ai genitori spunti che portino a interventi più precoci, strategie di supporto personalizzate e risultati migliori per bambini con esigenze di apprendimento diverse.",
+    "mission_commitment": "Siamo impegnati a colmare il divario tra competenza clinica e vita quotidiana dei genitori, facilitando la comprensione e il supporto del profilo cognitivo unico di ogni bambino.",
+    "story_intro": "Nata da un progetto universitario diventato una missione per trasformare lo sviluppo infantile",
+    "story_beginning": "CogniKidz è iniziata come un’idea ambiziosa durante un’esposizione universitaria. Pushpraj, allora al secondo anno, vide un’opportunità che altri trascurarono. Pur avendo un concetto innovativo di strumenti di valutazione dello sviluppo, nessuno era pronto a costruirlo su larga scala.",
+    "story_vision": "Ma Pushpraj sapeva che questa idea poteva fare la differenza. Condivise la sua visione con i compagni di dormitorio – Devendra, Aman e Tanjul. Insieme videro la possibilità di creare qualcosa che aiutasse davvero le famiglie a comprendere e sostenere lo sviluppo dei bambini.",
+    "story_development": "Devendra accettò la sfida di sviluppare la prima pagina web, ponendo le basi della nostra piattaforma completa. Ciò che è iniziato come progetto universitario è diventato una piattaforma guidata da una missione: aiutare i bambini a raggiungere il loro pieno potenziale.",
+    "story_current": "Oggi gestiamo dati sullo sviluppo dei bambini e cerchiamo modi innovativi per valorizzare il potenziale unico di ciascuno. Il nostro percorso, da un’idea in dormitorio a una piattaforma per le famiglie, riflette l’impegno per valutazioni accessibili, solide scientificamente e davvero utili.",
+    "values_intro": "I principi che guidano tutto ciò che facciamo",
+    "scientific_excellence": "Eccellenza scientifica",
+    "scientific_excellence_desc": "Tutti i nostri strumenti si basano su ricerche sottoposte a peer review e sono validati con rigore clinico.",
+    "accessibility": "Accessibilità",
+    "accessibility_desc": "Ci impegniamo a rendere i nostri strumenti disponibili alle famiglie di ogni provenienza e condizione.",
+    "empowerment": "Responsabilizzazione",
+    "empowerment_desc": "Crediamo nel fornire ai genitori approfondimenti attuabili, non solo dati, per sostenerli meglio nel supporto ai figli.",
+    "early_detection_desc": "Forniamo strumenti di screening scientificamente validati per ADHD, autismo e dislessia, aiutando i genitori a identificare precocemente le possibili differenze di apprendimento.",
+    "personalized_insights_desc": "Le nostre valutazioni basate sull’IA forniscono report dettagliati con raccomandazioni attuabili, adattate al profilo unico di ogni bambino.",
+    "expert_guidance_desc": "Colmiamo il divario tra competenza clinica e quotidianità genitoriale, rendendo accessibili a tutte le famiglie le conoscenze professionali.",
+    "ongoing_support_desc": "Oltre alle valutazioni, offriamo risorse, articoli e supporto per aiutare le famiglie nel percorso di sviluppo del bambino.",
+    "join_mission": "Unisciti alla nostra missione",
+    "join_mission_desc": "Che tu sia un genitore in cerca di supporto, un professionista dell’educazione o della psicologia, o semplicemente una persona appassionata al benessere dei bambini, ti invitiamo a unirti alla nostra comunità."
+  }
+}

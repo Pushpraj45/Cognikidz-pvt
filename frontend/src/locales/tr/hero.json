@@ -1,0 +1,20 @@
+{
+  "badge": "Yapay Zeka Destekli Çocuk Gelişimi",
+  "title": {
+    "unlocking": "Her Çocuğun",
+    "everyChilds": "Benzersiz",
+    "uniquePotential": "Potansiyelini Açıyor"
+  },
+  "description": "Dünya çapında ailelerin güvendiği kanıta dayalı araçlarla çocuğunuzun gelişimsel yolculuğunu desteklemek için gelişmiş yapay zeka destekli değerlendirmeler ve kişiselleştirilmiş içgörüler.",
+  "features": [
+    "Yapay zeka destekli değerlendirmeler",
+    "Kişiselleştirilmiş içgörüler",
+    "Kanıta dayalı araçlar"
+  ],
+  "cta": {
+    "getStarted": "Başlayın",
+    "learnMore": "Daha Fazla Bilgi",
+    "scrollToExplore": "Keşfetmek için Kaydırın",
+    "interactiveDemo": "İnteraktif Demo"
+  }
+}

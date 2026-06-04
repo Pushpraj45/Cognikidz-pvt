@@ -1,0 +1,65 @@
+{
+  "header": {
+    "badge": "Help & Support",
+    "title_lead": "How can we",
+    "title_highlight": "help you?",
+    "subtitle": "Find quick answers or get in touch with our support team"
+  },
+  "tabs": {
+    "faq": "FAQ",
+    "contact": "Contact Us",
+    "about": "About"
+  },
+  "contact": {
+    "send_us": "Send us a message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "get_in_touch": "Get in touch",
+    "email_label": "Email",
+    "phone_label": "Phone",
+    "office_label": "Office",
+    "response_time": "Response Time",
+    "response_copy": "We typically respond within 24 hours during business days."
+  },
+  "about": {
+    "about_mission": "About Our Mission",
+    "about": "About",
+    "our_mission": "Our Mission",
+    "our_story": "Our Story",
+    "our_values": "Our Values",
+    "principles": "The principles that guide everything we do",
+    "what_we_do": "What We Do",
+    "early_detection": "Early Detection",
+    "personalized_insights": "Personalized Insights",
+    "expert_guidance": "Expert Guidance",
+    "ongoing_support": "Ongoing Support",
+    "cta": {
+      "header": "Join Our Mission",
+      "start": "Start Your Journey",
+      "start_assessment": "Start Assessment"
+    },
+    "mission_description": "At CogniKidz, we believe every child deserves the opportunity to reach their full potential. Our mission is to make early identification of learning differences accessible to all families, regardless of location or resources.",
+    "mission_continuation": "Through our scientifically validated assessment tools, we aim to empower parents with insights that can lead to earlier intervention, personalized support strategies, and better outcomes for children with diverse learning needs.",
+    "mission_commitment": "We're committed to bridging the gap between clinical expertise and everyday parenting, making it easier for families to understand and support their children's unique cognitive profiles.",
+    "story_intro": "Born from a college project that became a mission to transform child development",
+    "story_beginning": "CogniKidz began as an ambitious idea during a college project exhibition. Pushpraj, then in his second year of college, saw an opportunity that others overlooked. While his project exhibition group had this innovative concept for child development assessment tools, nobody was ready to build it on a large scale.",
+    "story_vision": "But Pushpraj knew this idea had the potential to make a real difference. He shared his vision with his hostel mates - Devendra, Aman, and Tanjul. Together, they saw what others couldn't - the possibility of creating something that could truly help families understand and support their children's development.",
+    "story_development": "Devendra took on the challenge of developing the initial webpage, laying the foundation for what would become our comprehensive platform. What started as a college project has evolved into a mission-driven platform focused on helping children reach their full potential.",
+    "story_current": "Today, we are working on managing child development data and finding innovative ways to help bring out each child's unique potential. Our journey from a college dormitory idea to a platform serving families reflects our commitment to making child development assessment accessible, scientifically sound, and truly helpful for parents everywhere.",
+    "values_intro": "The principles that guide everything we do",
+    "scientific_excellence": "Scientific Excellence",
+    "scientific_excellence_desc": "All our tools are grounded in peer-reviewed research and validated with clinical rigor.",
+    "accessibility": "Accessibility",
+    "accessibility_desc": "We're committed to making our tools available to families of all backgrounds and circumstances.",
+    "empowerment": "Empowerment",
+    "empowerment_desc": "We believe in giving parents actionable insights, not just data, empowering them to better support their children.",
+    "early_detection_desc": "We provide scientifically validated screening tools for ADHD, Autism, and Dyslexia, helping parents identify potential learning differences early.",
+    "personalized_insights_desc": "Our AI-powered assessments provide detailed reports with actionable recommendations tailored to each child's unique profile.",
+    "expert_guidance_desc": "We bridge the gap between clinical expertise and everyday parenting, making professional insights accessible to all families.",
+    "ongoing_support_desc": "Beyond assessments, we provide resources, articles, and support to help families navigate their child's developmental journey.",
+    "join_mission": "Join Our Mission",
+    "join_mission_desc": "Whether you're a parent seeking support, a professional in education or psychology, or someone passionate about helping children thrive, we invite you to join our community."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "header": {
+    "badge": "Hilfe & Support",
+    "title_lead": "Wie können wir",
+    "title_highlight": "Ihnen helfen?",
+    "subtitle": "Finden Sie schnelle Antworten oder kontaktieren Sie unser Support-Team"
+  },
+  "tabs": {
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "about": "Über"
+  },
+  "contact": {
+    "send_us": "Schicken Sie uns eine Nachricht",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "get_in_touch": "Kontakt aufnehmen",
+    "email_label": "E-Mail",
+    "phone_label": "Telefon",
+    "office_label": "Büro",
+    "response_time": "Reaktionszeit",
+    "response_copy": "In der Regel antworten wir an Werktagen innerhalb von 24 Stunden."
+  },
+  "about": {
+    "about_mission": "Über unsere Mission",
+    "about": "Über",
+    "our_mission": "Unsere Mission",
+    "our_story": "Unsere Geschichte",
+    "our_values": "Unsere Werte",
+    "principles": "Die Prinzipien, die unser Handeln leiten",
+    "what_we_do": "Was wir tun",
+    "early_detection": "Früherkennung",
+    "personalized_insights": "Personalisierte Einblicke",
+    "expert_guidance": "Fachkundige Anleitung",
+    "ongoing_support": "Laufende Unterstützung",
+    "cta": {
+      "header": "Werden Sie Teil unserer Mission",
+      "start": "Starten Sie Ihre Reise",
+      "start_assessment": "Bewertung starten"
+    },
+    "mission_description": "Bei CogniKidz glauben wir, dass jedes Kind die Chance verdient, sein volles Potenzial auszuschöpfen. Unsere Mission ist es, die frühzeitige Erkennung von Lernunterschieden für alle Familien zugänglich zu machen – unabhängig von Standort oder Ressourcen.",
+    "mission_continuation": "Mit unseren wissenschaftlich validierten Bewertungswerkzeugen möchten wir Eltern Erkenntnisse an die Hand geben, die zu früheren Interventionen, personalisierten Unterstützungsstrategien und besseren Ergebnissen für Kinder mit vielfältigen Lernbedürfnissen führen können.",
+    "mission_commitment": "Wir setzen uns dafür ein, die Lücke zwischen klinischer Expertise und dem Alltag von Eltern zu schließen und Familien das Verständnis und die Unterstützung des einzigartigen kognitiven Profils ihrer Kinder zu erleichtern.",
+    "story_intro": "Entstanden aus einem Hochschulprojekt, das zur Mission wurde, die kindliche Entwicklung zu transformieren",
+    "story_beginning": "CogniKidz begann als ehrgeizige Idee während einer Hochschulausstellung. Pushpraj, damals im zweiten Studienjahr, sah eine Chance, die andere übersahen. Obwohl seine Gruppe ein innovatives Konzept für Bewertungswerkzeuge zur kindlichen Entwicklung hatte, war niemand bereit, es in großem Maßstab umzusetzen.",
+    "story_vision": "Doch Pushpraj wusste, dass diese Idee einen echten Unterschied machen könnte. Er teilte seine Vision mit seinen Mitbewohnern – Devendra, Aman und Tanjul. Gemeinsam sahen sie, was andere nicht sahen: die Möglichkeit, etwas zu schaffen, das Familien wirklich hilft, die Entwicklung ihrer Kinder zu verstehen und zu unterstützen.",
+    "story_development": "Devendra nahm die Herausforderung an, die erste Webseite zu entwickeln und legte damit den Grundstein für unsere umfassende Plattform. Was als Hochschulprojekt begann, hat sich zu einer missionsgetriebenen Plattform entwickelt, die Kindern hilft, ihr volles Potenzial zu erreichen.",
+    "story_current": "Heute arbeiten wir an der Verwaltung von Entwicklungsdaten von Kindern und suchen nach innovativen Wegen, um das einzigartige Potenzial jedes Kindes zu fördern. Unser Weg von einer Wohnheim-Idee zu einer Plattform für Familien zeigt unser Engagement für zugängliche, wissenschaftlich fundierte und wirklich hilfreiche Entwicklungsbewertungen.",
+    "values_intro": "Die Prinzipien, die unser Handeln leiten",
+    "scientific_excellence": "Wissenschaftliche Exzellenz",
+    "scientific_excellence_desc": "Alle unsere Tools basieren auf begutachteter Forschung und sind mit klinischer Strenge validiert.",
+    "accessibility": "Barrierefreiheit",
+    "accessibility_desc": "Wir setzen uns dafür ein, unsere Tools Familien mit allen Hintergründen und Lebenslagen zugänglich zu machen.",
+    "empowerment": "Befähigung",
+    "empowerment_desc": "Wir glauben daran, Eltern umsetzbare Einblicke zu geben – nicht nur Daten –, damit sie ihre Kinder besser unterstützen können.",
+    "early_detection_desc": "Wir bieten wissenschaftlich validierte Screening-Tools für ADHS, Autismus und Legasthenie an, um Eltern bei der frühzeitigen Erkennung möglicher Lernunterschiede zu unterstützen.",
+    "personalized_insights_desc": "Unsere KI-gestützten Bewertungen liefern detaillierte Berichte mit umsetzbaren Empfehlungen, die auf das einzigartige Profil jedes Kindes zugeschnitten sind.",
+    "expert_guidance_desc": "Wir schließen die Lücke zwischen klinischer Expertise und dem Alltag von Eltern und machen professionelle Erkenntnisse für alle Familien zugänglich.",
+    "ongoing_support_desc": "Über Bewertungen hinaus bieten wir Ressourcen, Artikel und Unterstützung, um Familien auf der Entwicklungsreise ihrer Kinder zu begleiten.",
+    "join_mission": "Werden Sie Teil unserer Mission",
+    "join_mission_desc": "Ob Sie als Elternteil Unterstützung suchen, als Fachkraft in Bildung oder Psychologie tätig sind oder sich dafür begeistern, Kindern beim Gedeihen zu helfen – wir laden Sie ein, unserer Community beizutreten."
+  }
+}

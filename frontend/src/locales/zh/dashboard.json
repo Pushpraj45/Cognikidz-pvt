@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "概览",
+    "assessments": "您的评估",
+    "children": "儿童",
+    "history": "历史记录"
+  },
+  "assessments": {
+    "remaining": "剩余 {{base}}",
+    "buy_more": "购买更多",
+    "no_purchases": "尚未购买。浏览计划并开始使用。",
+    "combo_package": "组合套餐",
+    "individual": "单独评估",
+    "view": "查看",
+    "details": "详情",
+    "start": "开始"
+  },
+  "history": {
+    "timeline": "时间线",
+    "select_child": "请选择一个儿童以查看其时间线。",
+    "none_title": "未找到此儿童的评估",
+    "none_body": "此儿童尚未完成任何评估。开始评估以追踪其进展和发展。",
+    "new_assessment": "新的评估"
+  },
+  "children": {
+    "management": "儿童管理",
+    "profiles": "儿童档案",
+    "add_child": "添加儿童",
+    "name": "姓名",
+    "dob": "出生日期",
+    "age": "年龄",
+    "gender": "性别",
+    "grade": "年级",
+    "actions": "操作",
+    "view": "查看",
+    "edit": "编辑",
+    "delete": "删除",
+    "deleting": "删除中...",
+    "not_set": "未设置",
+    "years": "岁",
+    "refreshing": "刷新中...",
+    "loading": "加载儿童档案中...",
+    "none": "未找到儿童档案。添加您的第一个儿童以开始。"
+  }
+}

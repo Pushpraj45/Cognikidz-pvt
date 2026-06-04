@@ -1,0 +1,42 @@
+{
+  "title": "Come Funziona",
+  "subtitle": "Passi semplici per sbloccare il potenziale del tuo bambino con la nostra piattaforma di valutazione completa.",
+  "stepLabel": "Passo",
+  "ofLabel": "di",
+  "step1": {
+    "title": "Crea Profilo del Bambino",
+    "description": "Configura il profilo del tuo bambino con informazioni di base, storia dello sviluppo e aree specifiche di preoccupazione per personalizzare l'esperienza di valutazione.",
+    "features": [
+      "Creazione profilo sicura",
+      "Tracciamento storia dello sviluppo",
+      "Configurazione esperienza personalizzata"
+    ]
+  },
+  "step2": {
+    "title": "Scegli Tipo di Valutazione",
+    "description": "Seleziona dalla nostra suite completa di valutazioni basate su evidenze, adattate alle esigenze specifiche del tuo bambino e alla fase di sviluppo.",
+    "features": [
+      "Multiple opzioni di valutazione",
+      "Contenuto appropriato all'età",
+      "Metodologia basata su evidenze"
+    ]
+  },
+  "step3": {
+    "title": "Completa Valutazione Interattiva",
+    "description": "Interagisci con i nostri strumenti di valutazione alimentati da AI attraverso giochi interattivi, questionari e attività multimediali progettate per essere sia divertenti che informative.",
+    "features": [
+      "Giochi e attività interattive",
+      "Analisi alimentata da AI",
+      "Interfaccia a misura di bambino"
+    ]
+  },
+  "step4": {
+    "title": "Ricevi Report Dettagliato",
+    "description": "Ottieni approfondimenti completi e raccomandazioni personalizzate basate sui risultati della valutazione del tuo bambino, inclusi i prossimi passi e le risorse.",
+    "features": [
+      "Report di analisi dettagliato",
+      "Raccomandazioni personalizzate",
+      "Prossimi passi azionabili"
+    ]
+  }
+}

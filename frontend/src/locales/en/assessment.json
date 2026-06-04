@@ -1,0 +1,137 @@
+{
+  "child_selector": {
+    "title": "Select Child for Assessment",
+    "loading": "Loading profiles...",
+    "no_profiles": "No child profiles found. Please create a profile first.",
+    "cancel": "Cancel",
+    "create_child": "Create Child Profile",
+    "continue": "Continue",
+    "age_years": "{{count}} years old"
+  },
+  "toasts": {
+    "select_child": "Please select a child to continue",
+    "purchase_required": "Purchase required to start this assessment",
+    "verify_failed": "Unable to verify access. Please try again."
+  },
+  "types": {
+    "general-form": {
+      "name": "General Development Assessment",
+      "description": "Comprehensive developmental screening across multiple domains",
+      "duration": "10-15 minutes"
+    },
+    "autism-form": {
+      "name": "Autism Form-based Assessment",
+      "description": "Autism spectrum disorder screening through developmental assessment",
+      "duration": "10-15 minutes"
+    },
+    "autism-image": {
+      "name": "Autism Image-based Assessment",
+      "description": "AI-powered image comparison tasks for social understanding evaluation",
+      "duration": "15-20 minutes"
+    },
+    "adhd-form": {
+      "name": "ADHD Form-based Assessment",
+      "description": "Comprehensive ADHD screening through questionnaire-based assessment",
+      "duration": "15-20 minutes"
+    },
+    "adhd-game": {
+      "name": "ADHD Game-based Assessment",
+      "description": "Interactive games designed to assess attention and executive function",
+      "duration": "20-25 minutes"
+    },
+    "dyslexia-form": {
+      "name": "Dyslexia Form-based Assessment",
+      "description": "Screening focused on reading and language processing",
+      "duration": "15-20 minutes"
+    },
+    "dyslexia-game": {
+      "name": "Dyslexia Game-based Assessment",
+      "description": "Interactive tasks assessing phonological awareness and memory",
+      "duration": "20-25 minutes"
+    }
+  },
+  "page": {
+    "loading_setup": "Setting up your assessment...",
+    "loading": "Loading assessment...",
+    "loading_hint": "This may take a few moments",
+    "error_title": "Error Loading Assessment",
+    "try_again": "Try Again",
+    "back_to_assessments": "Back to Assessments",
+    "in_progress_title": "Assessment in Progress",
+    "in_progress_hint": "Please answer each question thoughtfully. Your responses help us provide the most accurate assessment.",
+    "choose_title": "Choose Assessment Type - CogniKidz",
+    "choose_desc": "Select the appropriate assessment type for your child"
+  },
+  "question_card": {
+    "title": "Assessment for {{childName}}",
+    "progress": "Question {{current}} of {{total}}",
+    "progress_percentage": "{{percentage}}% Complete",
+    "select_number": "Select a Number:",
+    "choose_number_hint": "Choose one of the numbers below (1-5)",
+    "scale_labels": {
+      "1": "Never",
+      "2": "Rarely", 
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Always"
+    },
+    "scale_descriptions": {
+      "1": "Not at all",
+      "2": "Once in a while",
+      "3": "Moderately",
+      "4": "Quite often", 
+      "5": "Very frequently"
+    },
+    "response_recorded": "Response recorded! • Scale: {{value}}/5",
+    "need_help": "Need help with this question",
+    "save_exit": "Save and Exit",
+    "discard_exit": "Discard and Exit",
+    "continue": "Continue",
+    "help_title": "Need Help? 🤔",
+    "help_subtitle": "We're here to guide you",
+    "help_description": "This question helps us understand how {{childName}} handles {{skill}}.",
+    "help_examples": "💡 Consider these examples:",
+    "help_always": "😊 If they always exhibit this behavior, select \"Very Often\"",
+    "help_rarely": "🤷 If they rarely show this behavior, select \"Rarely\"",
+    "help_reminder": "🎯 Remember, there are no right or wrong answers. Your honest observations help us provide better insights for {{childName}}.",
+    "help_contact": "📧 Need more help? Contact us at",
+    "help_email": "support@cognikidz.com",
+    "got_it": "Got it",
+    "assessment_in_progress": "Assessment in Progress",
+    "self_care_independence": "Self-care independence",
+    "assessment_for": "Assessment for {{childName}}",
+    "answer_provided": "Answer provided",
+    "characters": "{{count}} characters",
+    "question_type_not_supported": "Question type \"{{type}}\" is not yet supported.",
+    "contact_support_message": "Please contact support if you encounter this message.",
+    "text_placeholder": "Type your detailed answer here... Take your time to provide as much information as you'd like.",
+    "selected": "Selected",
+    "scale_options": {
+      "1": "1",
+      "2": "2", 
+      "3": "3",
+      "4": "4",
+      "5": "5"
+    },
+    "scale_values": {
+      "1": "1",
+      "2": "2",
+      "3": "3", 
+      "4": "4",
+      "5": "5"
+    },
+    "question": "Question",
+    "question_label": "Question"
+  },
+  "buttons": {
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "exit": "Exit",
+    "help": "Help",
+    "close": "Close"
+  }
+}

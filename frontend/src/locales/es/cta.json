@@ -1,0 +1,23 @@
+{
+  "imageAlt": "Actividades de desarrollo infantil",
+  "mainTitle": "Comienza hoy el camino de tu hijo",
+  "description": "Únete a miles de familias que confían en CogniKidz para evaluaciones y apoyo integral del desarrollo infantil.",
+  "buttons": {
+    "getStarted": "Comenzar",
+    "createAccount": "Crear cuenta gratuita"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "Evaluaciones basadas en evidencia",
+      "description": "Nuestras herramientas se basan en décadas de investigación y han sido validadas por expertos en desarrollo infantil de todo el mundo."
+    },
+    "privateSecure": {
+      "title": "Privado y seguro",
+      "description": "Los datos de tu hijo están protegidos con seguridad de nivel empresarial y medidas de privacidad compatibles con HIPAA."
+    },
+    "actionable": {
+      "title": "Información accionable",
+      "description": "Recibe recomendaciones personalizadas y próximos pasos según los resultados únicos de la evaluación de tu hijo."
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "मूल्यमापन",
+    "pricing": "किंमत",
+    "resources": "संसाधने",
+    "support": "मदत",
+    "contact": "संपर्क",
+    "faq": "नेहमी विचारले जाणारे प्रश्न",
+    "login": "लॉगिन",
+    "get_started": "सुरू करा",
+    "logout": "लॉगआउट",
+    "language": "भाषा"
+  },
+  "footer": {
+    "tagline": "संशोधन-आधारित मूल्यमापनांद्वारे विकासात्मक फरक असलेल्या मुलांसाठी लवकर ओळख आणि समर्थन.",
+    "quick_links": "जलद दुवे",
+    "legal": "कानूनी",
+    "privacy": "गोपनीयता धोरण",
+    "terms": "सेवा अटी",
+    "cookies": "कुकी धोरण",
+    "all_rights": "सर्व हक्क राखीव.",
+    "hipaa": "HIPAA-सज्ज",
+    "gdpr": "GDPR-अनुरूप"
+  },
+  "actions": {
+    "start_assessment": "मूल्यमापन सुरू करा",
+    "start_free": "मोफत मूल्यमापन सुरू करा",
+    "buy_and_start": "खरेदी करा आणि सुरू करा",
+    "get_package": "पॅकेज मिळवा",
+    "view_in_dashboard": "डॅशबोर्डमध्ये पहा",
+    "buy_more": "अजून खरेदी करा",
+    "buy_again": "पुन्हा खरेदी करा",
+    "start_now": "आत्ताच सुरू करा",
+    "add_to_calendar": "कॅलेंडरमध्ये जोडा",
+    "close": "बंद करा",
+    "cancel": "रद्द करा",
+    "create_child_profile": "बाल प्रोफाइल तयार करा"
+  },
+  "generic": {
+    "loading": "लोड होत आहे...",
+    "free": "मोफत",
+    "all": "सर्व",
+    "autism": "ऑटिझम",
+    "adhd": "एडीएचडी",
+    "dyslexia": "डिस्लेक्सिया",
+    "general": "सामान्य"
+  },
+  "trustedByFamilies": "कुटुंबांचा विश्वास"
+}

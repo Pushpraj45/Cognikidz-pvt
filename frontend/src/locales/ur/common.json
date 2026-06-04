@@ -1,0 +1,45 @@
+{
+  "app": { "name": "CogniKidz" },
+  "nav": {
+    "assessments": "تشخیصات",
+    "pricing": "قیمتیں",
+    "resources": "وسائل",
+    "support": "مدد",
+    "login": "لاگ اِن",
+    "get_started": "شروع کریں",
+    "logout": "لاگ آؤٹ",
+    "language": "زبان"
+  },
+  "footer": {
+    "tagline": "تحقیقی بنیادوں پر مبنی تشخیصات کے ذریعے بچوں کی نشوونما میں فرق کے لیے بروقت شناخت اور مدد۔",
+    "quick_links": "فوری روابط",
+    "legal": "قانونی",
+    "privacy": "رازداری کی پالیسی",
+    "terms": "سروس کی شرائط",
+    "cookies": "کوکی پالیسی",
+    "all_rights": "جملہ حقوق محفوظ ہیں۔"
+  },
+  "actions": {
+    "start_assessment": "تشخیص شروع کریں",
+    "start_free": "مفت تشخیص شروع کریں",
+    "buy_and_start": "خریدیں اور شروع کریں",
+    "get_package": "پیکج حاصل کریں",
+    "view_in_dashboard": "ڈیش بورڈ میں دیکھیں",
+    "buy_more": "مزید خریدیں",
+    "buy_again": "دوبارہ خریدیں",
+    "start_now": "ابھی شروع کریں",
+    "add_to_calendar": "کیلنڈر میں شامل کریں",
+    "close": "بند کریں",
+    "cancel": "منسوخ کریں",
+    "create_child_profile": "بچے کی پروفائل بنائیں"
+  },
+  "generic": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "free": "مفت",
+    "all": "تمام",
+    "autism": "آٹزم",
+    "adhd": "اے ڈی ایچ ڈی",
+    "dyslexia": "ڈیسیلیکشیا",
+    "general": "عام"
+  }
+}

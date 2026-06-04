@@ -1,0 +1,16 @@
+{
+  "badge": "人工智能驱动的儿童发展",
+  "title": {
+    "unlocking": "开启",
+    "everyChilds": "每个孩子的",
+    "uniquePotential": "独特潜能"
+  },
+  "description": "使用先进的人工智能评估和个性化见解，通过全球家庭信赖的循证工具，支持您孩子的发展历程。",
+  "features": ["人工智能评估", "个性化见解", "循证工具"],
+  "cta": {
+    "getStarted": "立即开始",
+    "learnMore": "了解更多",
+    "scrollToExplore": "向下滚动探索",
+    "interactiveDemo": "互动演示"
+  }
+}

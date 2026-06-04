@@ -1,0 +1,16 @@
+{
+  "badge": "Phát Triển Trẻ Em Bằng AI",
+  "title": {
+    "unlocking": "Khai Mở",
+    "everyChilds": "Tiềm Năng",
+    "uniquePotential": "Của Mỗi Trẻ"
+  },
+  "description": "Đánh giá dựa trên AI tiên tiến và thông tin chi tiết được cá nhân hóa để hỗ trợ hành trình phát triển của con bạn với các công cụ dựa trên bằng chứng được tin cậy bởi các gia đình trên toàn thế giới.",
+  "features": ["Đánh giá bằng AI", "Thông tin chi tiết cá nhân hóa", "Công cụ dựa trên bằng chứng"],
+  "cta": {
+    "getStarted": "Bắt Đầu",
+    "learnMore": "Tìm Hiểu Thêm",
+    "scrollToExplore": "Cuộn Để Khám Phá",
+    "interactiveDemo": "Demo Tương Tác"
+  }
+}

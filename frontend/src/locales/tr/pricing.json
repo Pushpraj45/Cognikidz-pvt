@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "Şeffaf Fiyatlandırma",
+    "title_lead": "Değerlendirme",
+    "title_highlight": "Planınızı Seçin",
+    "subtitle": "Profesyonel çocuk gelişimi değerlendirmelerine şeffaf, uygun fiyatlarla erişin. Bireysel değerlendirmeleri veya değer paketi kombinasyon paketlerini seçin."
+  },
+  "filters": {
+    "individual": "Bireysel",
+    "packages": "Paketler"
+  },
+  "individual": {
+    "title_lead": "Bireysel",
+    "title_highlight": "Değerlendirmeler",
+    "subtitle": "Çocuğunuzun ihtiyaçlarına göre belirli değerlendirmeleri seçin. Ücretsiz genel gelişim değerlendirmemizle başlayın veya uzmanlaşmış değerlendirmeleri seçin.",
+    "you_have_left": "{{count}} adet kaldı"
+  },
+  "packages": {
+    "title_lead": "Değer",
+    "title_highlight": "Paketleri",
+    "subtitle": "Kapsamlı değerlendirme paketlerimizle daha fazla tasarruf edin. Birden fazla değerlendirme indirimli oranlarla bir arada paketlenir.",
+    "most_popular": "En Popüler",
+    "best_value": "En İyi Değer",
+    "complete_suite": "Tam Paket",
+    "included": "Dahil Olan Değerlendirmeler:",
+    "features": "Ek Özellikler:",
+    "save": "Tasarruf"
+  },
+  "cta": {
+    "ready": "Başlamaya Hazır mısınız?",
+    "body": "Çocuğunuzun ihtiyaçlarına en uygun değerlendirme planını seçin. Tüm değerlendirmeler çocuk gelişimi uzmanları tarafından tasarlanmıştır ve detaylı, harekete geçirilebilir içgörüler sağlar."
+  },
+  "success": {
+    "title": "Ödeme başarılı"
+  },
+  "labels": {
+    "loading_pricing": "Fiyat bilgileri yükleniyor",
+    "free": "Ücretsiz"
+  }
+}

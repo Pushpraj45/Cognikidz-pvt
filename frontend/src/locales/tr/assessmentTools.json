@@ -1,0 +1,37 @@
+{
+  "badge": "Kanıta Dayalı Araçlar",
+  "title": "Kapsamlı Değerlendirme Paketi",
+  "subtitle": "Gelişimsel kalıpları tanımlamak ve çocuğunuzun benzersiz ihtiyaçları için harekete geçirilebilir içgörüler sağlamak üzere tasarlanmış araştırma destekli araçlar.",
+  "tools": {
+    "adhd": {
+      "title": "DEHB Değerlendirmesi",
+      "subtitle": "Dikkat ve Odaklanma",
+      "description": "Doğrulanmış tarama araçları ve interaktif değerlendirmeler aracılığıyla dikkat, hiperaktivite ve yönetici işlevin kapsamlı değerlendirmesi.",
+      "features": [
+        "Dikkat süresi değerlendirmesi",
+        "Hiperaktivite taraması",
+        "Yönetici işlev testleri"
+      ],
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "autism": {
+      "title": "Otizm Taraması",
+      "subtitle": "Sosyal ve İletişim",
+      "description": "Kanıta dayalı değerlendirme protokolleri ve yapay zeka destekli analiz kullanarak otizm spektrum özellikleri için erken tespit taraması.",
+      "features": ["Sosyal etkileşim kalıpları", "İletişim değerlendirmesi", "Davranışsal gözlem"],
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "dyslexia": {
+      "title": "Disleksi Taraması",
+      "subtitle": "Okuma ve Dil",
+      "description": "Fonolojik farkındalık testi aracılığıyla okuma zorlukları ve dil işleme zorlukları için uzmanlaşmış değerlendirme.",
+      "features": [
+        "Fonolojik farkındalık",
+        "Okuma akıcılığı testleri",
+        "Dil işleme değerlendirmesi"
+      ],
+      "learnMore": "Daha Fazla Bilgi"
+    }
+  },
+  "viewAll": "Tüm Değerlendirmeleri Görüntüle"
+}

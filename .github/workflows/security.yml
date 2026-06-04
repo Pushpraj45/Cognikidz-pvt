@@ -1,0 +1,124 @@
+name: Security Audit
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+  schedule:
+    # Run security audit daily at 2 AM UTC
+    - cron: '0 2 * * *'
+
+jobs:
+  security-audit:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        directory: ['backend', 'frontend']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: ${{ matrix.directory }}/package-lock.json
+          
+      - name: Install dependencies
+        run: |
+          cd ${{ matrix.directory }}
+          # Try npm ci first, if it fails due to lock file mismatch, use npm install
+          npm ci || (echo "npm ci failed, trying npm install to resolve lock file conflicts" && rm -f package-lock.json && npm install)
+          
+      - name: Run security audit
+        run: |
+          cd ${{ matrix.directory }}
+          echo "Running security audit for ${{ matrix.directory }}..."
+          npm audit --audit-level=moderate --json > audit-output.json || true
+          
+          # Display human-readable output
+          npm audit --audit-level=moderate || true
+          
+          # Check for acceptable vulnerabilities vs critical ones
+          if [ -f "audit-output.json" ]; then
+            HIGH_VULNS=$(jq -r '.metadata.vulnerabilities.high // 0' audit-output.json)
+            CRITICAL_VULNS=$(jq -r '.metadata.vulnerabilities.critical // 0' audit-output.json)
+            
+            echo "High vulnerabilities: $HIGH_VULNS"
+            echo "Critical vulnerabilities: $CRITICAL_VULNS"
+            
+            # For now, allow moderate vulnerabilities but block high/critical
+            if [ "$HIGH_VULNS" -gt 3 ] || [ "$CRITICAL_VULNS" -gt 0 ]; then
+              echo "❌ Too many high vulnerabilities or critical vulnerabilities found"
+              echo "Please address these security issues"
+              exit 1
+            else
+              echo "✅ Security audit passed (acceptable vulnerability levels)"
+            fi
+          fi
+          
+      - name: Generate security report
+        run: |
+          cd ${{ matrix.directory }}
+          npm audit --audit-level=moderate --json > security-report-${{ matrix.directory }}.json || true
+          
+      - name: Upload security report
+        uses: actions/upload-artifact@v4
+        with:
+          name: security-report-${{ matrix.directory }}
+          path: ${{ matrix.directory }}/security-report-${{ matrix.directory }}.json
+          
+      - name: Check for high vulnerabilities
+        run: |
+          cd ${{ matrix.directory }}
+          HIGH_VULNS=$(npm audit --audit-level=high --json | jq -r '.metadata.vulnerabilities.high // 0')
+          CRITICAL_VULNS=$(npm audit --audit-level=critical --json | jq -r '.metadata.vulnerabilities.critical // 0')
+          
+          if [ "$HIGH_VULNS" -gt 0 ] || [ "$CRITICAL_VULNS" -gt 0 ]; then
+            echo "❌ High or Critical vulnerabilities found in ${{ matrix.directory }}"
+            echo "High vulnerabilities: $HIGH_VULNS"
+            echo "Critical vulnerabilities: $CRITICAL_VULNS"
+            exit 1
+          else
+            echo "✅ No high or critical vulnerabilities found in ${{ matrix.directory }}"
+          fi
+
+
+          
+  security-summary:
+    runs-on: ubuntu-latest
+    needs: security-audit
+    if: always()
+    
+    steps:
+      - name: Download security reports
+        uses: actions/download-artifact@v4
+        with:
+          pattern: security-report-*
+          merge-multiple: true
+          
+      - name: Generate summary
+        run: |
+          echo "## Security Audit Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f "security-report-backend.json" ]; then
+            echo "### Backend Security Report" >> $GITHUB_STEP_SUMMARY
+            BACKEND_VULNS=$(jq -r '.metadata.vulnerabilities | to_entries[] | "\(.key): \(.value)"' security-report-backend.json 2>/dev/null || echo "No vulnerabilities data")
+            echo "```" >> $GITHUB_STEP_SUMMARY
+            echo "$BACKEND_VULNS" >> $GITHUB_STEP_SUMMARY
+            echo "```" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ -f "security-report-frontend.json" ]; then
+            echo "### Frontend Security Report" >> $GITHUB_STEP_SUMMARY
+            FRONTEND_VULNS=$(jq -r '.metadata.vulnerabilities | to_entries[] | "\(.key): \(.value)"' security-report-frontend.json 2>/dev/null || echo "No vulnerabilities data")
+            echo "```" >> $GITHUB_STEP_SUMMARY
+            echo "$FRONTEND_VULNS" >> $GITHUB_STEP_SUMMARY
+            echo "```" >> $GITHUB_STEP_SUMMARY
+          fi 

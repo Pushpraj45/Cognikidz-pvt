@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "Aperçu",
+    "assessments": "Vos évaluations",
+    "children": "Enfants",
+    "history": "Historique"
+  },
+  "assessments": {
+    "remaining": "{{base}} restants",
+    "buy_more": "Acheter plus",
+    "no_purchases": "Aucun achat pour le moment. Parcourez les plans et commencez.",
+    "combo_package": "Forfait combiné",
+    "individual": "Évaluation individuelle",
+    "view": "Voir",
+    "details": "Détails",
+    "start": "Démarrer"
+  },
+  "history": {
+    "timeline": "Chronologie",
+    "select_child": "Veuillez sélectionner un enfant pour voir sa chronologie.",
+    "none_title": "Aucune évaluation trouvée pour cet enfant",
+    "none_body": "Cet enfant n'a pas encore terminé d'évaluation.",
+    "new_assessment": "Nouvelle évaluation"
+  },
+  "children": {
+    "management": "Gestion des enfants",
+    "profiles": "Profils des enfants",
+    "add_child": "Ajouter un enfant",
+    "name": "Nom",
+    "dob": "Date de naissance",
+    "age": "Âge",
+    "gender": "Genre",
+    "grade": "Classe",
+    "actions": "Actions",
+    "view": "Voir",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "deleting": "Suppression...",
+    "not_set": "Non défini",
+    "years": "ans",
+    "refreshing": "Actualisation...",
+    "loading": "Chargement des profils d'enfants...",
+    "none": "Aucun profil d'enfant. Ajoutez le premier pour commencer."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "badge": "Gerçek Zamanlı İlerleme",
+  "title": "İlerlemeyi Takip Edin",
+  "effortlessly": "Kolayca",
+  "subtitle": "Çocuğunuzun gelişimsel yolculuğunu kapsamlı panelimiz ve akıllı ilerleme takip sistemi ile izleyin.",
+  "features": {
+    "liveDashboard": {
+      "title": "Canlı Panel",
+      "subtitle": "Gerçek zamanlı",
+      "description": "İnteraktif grafikler, kilometre taşı takibi ve kapsamlı analitiklerle çocuğunuzun ilerlemesini gerçek zamanlı olarak izleyin."
+    },
+    "smartReports": {
+      "title": "Akıllı Raporlar",
+      "subtitle": "Yapay Zeka Üretimi",
+      "description": "Çocuğunuzun gelişimi hakkında içgörüler ve kişiselleştirilmiş öneriler sunan detaylı, yapay zeka tarafından üretilen raporlar alın."
+    },
+    "progressTimeline": {
+      "title": "İlerleme Zaman Çizelgesi",
+      "subtitle": "Geçmiş",
+      "description": "Detaylı zaman çizelgesi takibi ve kilometre taşı başarıları ile çocuğunuzun zaman içindeki gelişimsel yolculuğunu görüntüleyin."
+    }
+  },
+  "cta": "Paneli Görüntüle"
+}

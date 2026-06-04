@@ -1,0 +1,41 @@
+{
+  "badge": "Strumenti Basati su Evidenze",
+  "title": "Suite di Valutazione Completa",
+  "subtitle": "Strumenti supportati dalla ricerca, progettati per identificare pattern di sviluppo e fornire approfondimenti azionabili per le esigenze uniche del tuo bambino.",
+  "tools": {
+    "adhd": {
+      "title": "Valutazione ADHD",
+      "subtitle": "Attenzione e Focus",
+      "description": "Valutazione completa di attenzione, iperattività e funzione esecutiva attraverso strumenti di screening validati e valutazioni interattive.",
+      "features": [
+        "Valutazione durata attenzione",
+        "Screening iperattività",
+        "Test funzione esecutiva"
+      ],
+      "learnMore": "Scopri di Più"
+    },
+    "autism": {
+      "title": "Screening Autismo",
+      "subtitle": "Sociale e Comunicazione",
+      "description": "Screening di rilevamento precoce per caratteristiche dello spettro autistico utilizzando protocolli di valutazione basati su evidenze e analisi alimentata da AI.",
+      "features": [
+        "Pattern interazione sociale",
+        "Valutazione comunicazione",
+        "Osservazione comportamentale"
+      ],
+      "learnMore": "Scopri di Più"
+    },
+    "dyslexia": {
+      "title": "Screening Dislessia",
+      "subtitle": "Lettura e Linguaggio",
+      "description": "Valutazione specializzata per difficoltà di lettura e sfide di elaborazione linguistica attraverso test di consapevolezza fonologica.",
+      "features": [
+        "Consapevolezza fonologica",
+        "Test fluidità lettura",
+        "Valutazione elaborazione linguistica"
+      ],
+      "learnMore": "Scopri di Più"
+    }
+  },
+  "viewAll": "Visualizza Tutte le Valutazioni"
+}

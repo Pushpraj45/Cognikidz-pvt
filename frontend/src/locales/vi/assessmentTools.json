@@ -1,0 +1,33 @@
+{
+  "badge": "Công Cụ Dựa Trên Bằng Chứng",
+  "title": "Bộ Công Cụ Đánh Giá Toàn Diện",
+  "subtitle": "Các công cụ dựa trên nghiên cứu được thiết kế để xác định mô hình phát triển và cung cấp thông tin chi tiết hữu ích cho nhu cầu riêng của con bạn.",
+  "tools": {
+    "adhd": {
+      "title": "Đánh Giá ADHD",
+      "subtitle": "Sự Tập Trung & Chú Ý",
+      "description": "Đánh giá toàn diện về sự chú ý, tăng động và chức năng điều hành thông qua các công cụ sàng lọc đã được xác thực và đánh giá tương tác.",
+      "features": [
+        "Đánh giá khả năng tập trung",
+        "Sàng lọc tăng động",
+        "Kiểm tra chức năng điều hành"
+      ],
+      "learnMore": "Tìm Hiểu Thêm"
+    },
+    "autism": {
+      "title": "Sàng Lọc Tự Kỷ",
+      "subtitle": "Xã Hội & Giao Tiếp",
+      "description": "Sàng lọc phát hiện sớm các đặc điểm phổ tự kỷ sử dụng các giao thức đánh giá dựa trên bằng chứng và phân tích bằng AI.",
+      "features": ["Mô hình tương tác xã hội", "Đánh giá giao tiếp", "Quan sát hành vi"],
+      "learnMore": "Tìm Hiểu Thêm"
+    },
+    "dyslexia": {
+      "title": "Sàng Lọc Chứng Khó Đọc",
+      "subtitle": "Đọc & Ngôn Ngữ",
+      "description": "Đánh giá chuyên biệt về khó khăn trong đọc và thách thức xử lý ngôn ngữ thông qua kiểm tra nhận thức âm vị.",
+      "features": ["Nhận thức âm vị", "Kiểm tra độ trôi chảy khi đọc", "Đánh giá xử lý ngôn ngữ"],
+      "learnMore": "Tìm Hiểu Thêm"
+    }
+  },
+  "viewAll": "Xem Tất Cả Đánh Giá"
+}

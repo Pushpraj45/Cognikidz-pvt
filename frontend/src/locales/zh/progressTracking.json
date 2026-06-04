@@ -1,0 +1,24 @@
+{
+  "badge": "实时进展",
+  "title": "追踪进展",
+  "effortlessly": "轻松简单",
+  "subtitle": "通过我们的综合仪表板和智能进展追踪系统监控您孩子的发展历程。",
+  "features": {
+    "liveDashboard": {
+      "title": "实时仪表板",
+      "subtitle": "实时",
+      "description": "通过互动图表、里程碑追踪和全面分析实时监控您孩子的进展。"
+    },
+    "smartReports": {
+      "title": "智能报告",
+      "subtitle": "AI生成",
+      "description": "接收由AI生成的详细报告，提供关于您孩子发展的见解和个性化建议。"
+    },
+    "progressTimeline": {
+      "title": "进展时间线",
+      "subtitle": "历史记录",
+      "description": "通过详细的时间线追踪和里程碑成就查看您孩子的发展历程。"
+    }
+  },
+  "cta": "查看仪表板"
+}

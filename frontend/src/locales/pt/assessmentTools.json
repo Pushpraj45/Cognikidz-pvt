@@ -1,0 +1,41 @@
+{
+  "badge": "Ferramentas Baseadas em Evidências",
+  "title": "Suite de Avaliação Abrangente",
+  "subtitle": "Ferramentas respaldadas por pesquisa projetadas para identificar padrões de desenvolvimento e fornecer insights acionáveis para as necessidades únicas do seu filho.",
+  "tools": {
+    "adhd": {
+      "title": "Avaliação de TDAH",
+      "subtitle": "Atenção e Foco",
+      "description": "Avaliação abrangente de atenção, hiperatividade e função executiva através de ferramentas de triagem validadas e avaliações interativas.",
+      "features": [
+        "Avaliação da capacidade de atenção",
+        "Triagem de hiperatividade",
+        "Testes de função executiva"
+      ],
+      "learnMore": "Saiba Mais"
+    },
+    "autism": {
+      "title": "Triagem de Autismo",
+      "subtitle": "Social e Comunicação",
+      "description": "Triagem de detecção precoce para características do espectro autista usando protocolos de avaliação baseados em evidências e análise alimentada por IA.",
+      "features": [
+        "Padrões de interação social",
+        "Avaliação da comunicação",
+        "Observação comportamental"
+      ],
+      "learnMore": "Saiba Mais"
+    },
+    "dyslexia": {
+      "title": "Triagem de Dislexia",
+      "subtitle": "Leitura e Linguagem",
+      "description": "Avaliação especializada para dificuldades de leitura e desafios de processamento de linguagem através de testes de consciência fonológica.",
+      "features": [
+        "Consciência fonológica",
+        "Testes de fluência de leitura",
+        "Avaliação do processamento de linguagem"
+      ],
+      "learnMore": "Saiba Mais"
+    }
+  },
+  "viewAll": "Ver Todas as Avaliações"
+}

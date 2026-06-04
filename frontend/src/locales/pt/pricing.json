@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "Preços Transparentes",
+    "title_lead": "Escolha Seu",
+    "title_highlight": "Plano de Avaliação",
+    "subtitle": "Acesse avaliações profissionais de desenvolvimento infantil a preços transparentes e acessíveis. Escolha avaliações individuais ou pacotes combinados com muito valor."
+  },
+  "filters": {
+    "individual": "Individual",
+    "packages": "Pacotes"
+  },
+  "individual": {
+    "title_lead": "Avaliações",
+    "title_highlight": "Individuais",
+    "subtitle": "Escolha avaliações específicas baseadas nas necessidades do seu filho. Comece com nossa avaliação gratuita de desenvolvimento geral ou selecione avaliações especializadas.",
+    "you_have_left": "Você tem {{count}} restantes"
+  },
+  "packages": {
+    "title_lead": "Pacotes de",
+    "title_highlight": "Valor",
+    "subtitle": "Economize mais com nossos pacotes de avaliação abrangentes. Múltiplas avaliações agrupadas com tarifas com desconto.",
+    "most_popular": "Mais Popular",
+    "best_value": "Melhor Valor",
+    "complete_suite": "Suite Completa",
+    "included": "Avaliações Incluídas:",
+    "features": "Recursos Adicionais:",
+    "save": "Economize"
+  },
+  "cta": {
+    "ready": "Pronto para Começar?",
+    "body": "Escolha o plano de avaliação que melhor se adapta às necessidades do seu filho. Todas as avaliações são projetadas por especialistas em desenvolvimento infantil e fornecem insights detalhados e acionáveis."
+  },
+  "success": {
+    "title": "Pagamento bem-sucedido"
+  },
+  "labels": {
+    "loading_pricing": "Carregando informações de preços",
+    "free": "Grátis"
+  }
+}

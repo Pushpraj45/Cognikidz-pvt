@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "Đánh Giá",
+    "pricing": "Bảng Giá",
+    "resources": "Tài Nguyên",
+    "support": "Hỗ Trợ",
+    "contact": "Liên Hệ",
+    "faq": "Câu Hỏi Thường Gặp",
+    "login": "Đăng Nhập",
+    "get_started": "Bắt Đầu",
+    "logout": "Đăng Xuất",
+    "language": "Ngôn Ngữ"
+  },
+  "footer": {
+    "tagline": "Phát hiện sớm và hỗ trợ trẻ có sự khác biệt về phát triển thông qua các đánh giá dựa trên nghiên cứu.",
+    "quick_links": "Liên Kết Nhanh",
+    "legal": "Pháp Lý",
+    "privacy": "Chính Sách Bảo Mật",
+    "terms": "Điều Khoản Dịch Vụ",
+    "cookies": "Chính Sách Cookie",
+    "all_rights": "Đã đăng ký bản quyền.",
+    "hipaa": "Tuân Thủ HIPAA",
+    "gdpr": "Tuân Thủ GDPR"
+  },
+  "actions": {
+    "start_assessment": "Bắt Đầu Đánh Giá",
+    "start_free": "Bắt Đầu Đánh Giá Miễn Phí",
+    "buy_and_start": "Mua & Bắt Đầu",
+    "get_package": "Nhận Gói",
+    "view_in_dashboard": "Xem trong Bảng Điều Khiển",
+    "buy_more": "Mua Thêm",
+    "buy_again": "Mua Lại",
+    "start_now": "Bắt Đầu Ngay",
+    "add_to_calendar": "Thêm vào lịch",
+    "close": "Đóng",
+    "cancel": "Hủy",
+    "create_child_profile": "Tạo Hồ Sơ Trẻ"
+  },
+  "generic": {
+    "loading": "Đang tải...",
+    "free": "Miễn Phí",
+    "all": "Tất Cả",
+    "autism": "Tự Kỷ",
+    "adhd": "ADHD",
+    "dyslexia": "Khó Đọc",
+    "general": "Tổng Quát"
+  },
+  "trustedByFamilies": "Được Tin Cậy Bởi Các Gia Đình"
+}

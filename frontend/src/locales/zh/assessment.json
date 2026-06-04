@@ -1,0 +1,16 @@
+{
+  "child_selector": {
+    "title": "选择要评估的儿童",
+    "loading": "正在加载档案...",
+    "no_profiles": "未找到儿童档案。请先创建档案。",
+    "cancel": "取消",
+    "create_child": "创建儿童档案",
+    "continue": "继续",
+    "age_years": "{{count}} 岁"
+  },
+  "toasts": {
+    "select_child": "请选择一个儿童以继续",
+    "purchase_required": "需要购买才能开始此评估",
+    "verify_failed": "无法验证访问权限。请重试。"
+  }
+}

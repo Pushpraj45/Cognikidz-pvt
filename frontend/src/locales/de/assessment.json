@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "Kind für Bewertung auswählen",
+    "loading": "Profile werden geladen...",
+    "no_profiles": "Keine Kinderprofile gefunden. Bitte zuerst ein Profil erstellen.",
+    "cancel": "Abbrechen",
+    "create_child": "Kinderprofil erstellen",
+    "continue": "Weiter",
+    "age_years": "{{count}} Jahre alt"
+  },
+  "toasts": {
+    "select_child": "Bitte ein Kind auswählen, um fortzufahren",
+    "purchase_required": "Zum Start dieser Bewertung ist ein Kauf erforderlich",
+    "verify_failed": "Zugriff konnte nicht verifiziert werden. Bitte erneut versuchen."
+  },
+  "types": {
+    "general-form": {
+      "name": "Allgemeine Entwicklungsbewertung",
+      "description": "Umfassendes Screening der Entwicklung über mehrere Bereiche",
+      "duration": "10–15 Minuten"
+    },
+    "autism-form": {
+      "name": "Autismus – Formularbasierte Bewertung",
+      "description": "Screening auf Autismus-Spektrum-Störung durch entwicklungsbezogene Bewertung",
+      "duration": "10–15 Minuten"
+    },
+    "autism-image": {
+      "name": "Autismus – Bildbasierte Bewertung",
+      "description": "KI-gestützte Bildvergleichsaufgaben zur Bewertung des sozialen Verständnisses",
+      "duration": "15–20 Minuten"
+    },
+    "adhd-form": {
+      "name": "ADHS – Formularbasierte Bewertung",
+      "description": "Umfassendes ADHS-Screening mittels fragebogenbasierter Bewertung",
+      "duration": "15–20 Minuten"
+    },
+    "adhd-game": {
+      "name": "ADHS – Spielbasierte Bewertung",
+      "description": "Interaktive Spiele zur Beurteilung von Aufmerksamkeit und exekutiven Funktionen",
+      "duration": "20–25 Minuten"
+    },
+    "dyslexia-form": {
+      "name": "Legasthenie – Formularbasierte Bewertung",
+      "description": "Screening mit Fokus auf Lesen und Sprachverarbeitung",
+      "duration": "15–20 Minuten"
+    },
+    "dyslexia-game": {
+      "name": "Legasthenie – Spielbasierte Bewertung",
+      "description": "Interaktive Aufgaben zur Beurteilung der phonologischen Bewusstheit und des Gedächtnisses",
+      "duration": "20–25 Minuten"
+    }
+  },
+  "page": {
+    "loading_setup": "Ihre Bewertung wird vorbereitet...",
+    "loading": "Bewertung wird geladen...",
+    "loading_hint": "Dies kann einen Moment dauern",
+    "error_title": "Fehler beim Laden der Bewertung",
+    "try_again": "Erneut versuchen",
+    "back_to_assessments": "Zurück zu Bewertungen",
+    "in_progress_title": "Bewertung läuft",
+    "in_progress_hint": "Bitte beantworten Sie jede Frage sorgfältig. Ihre Antworten helfen uns, die genaueste Bewertung zu liefern.",
+    "choose_title": "Bewertungstyp auswählen – CogniKidz",
+    "choose_desc": "Wählen Sie den passenden Bewertungstyp für Ihr Kind"
+  }
+}

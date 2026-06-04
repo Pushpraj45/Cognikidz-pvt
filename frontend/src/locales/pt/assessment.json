@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "Selecionar Criança para Avaliação",
+    "loading": "Carregando perfis...",
+    "no_profiles": "Nenhum perfil de criança encontrado. Por favor, crie um perfil primeiro.",
+    "cancel": "Cancelar",
+    "create_child": "Criar Perfil da Criança",
+    "continue": "Continuar",
+    "age_years": "{{count}} anos"
+  },
+  "toasts": {
+    "select_child": "Por favor, selecione uma criança para continuar",
+    "purchase_required": "Compra necessária para iniciar esta avaliação",
+    "verify_failed": "Não foi possível verificar o acesso. Por favor, tente novamente."
+  },
+  "types": {
+    "general-form": {
+      "name": "Avaliação Geral de Desenvolvimento",
+      "description": "Triagem de desenvolvimento abrangente em múltiplos domínios",
+      "duration": "10-15 minutos"
+    },
+    "autism-form": {
+      "name": "Avaliação de Autismo Baseada em Formulário",
+      "description": "Triagem do transtorno do espectro autista através de avaliação de desenvolvimento",
+      "duration": "10-15 minutos"
+    },
+    "autism-image": {
+      "name": "Avaliação de Autismo Baseada em Imagem",
+      "description": "Tarefas de comparação de imagens alimentadas por IA para avaliação da compreensão social",
+      "duration": "15-20 minutos"
+    },
+    "adhd-form": {
+      "name": "Avaliação de TDAH Baseada em Formulário",
+      "description": "Triagem abrangente de TDAH através de avaliação baseada em questionário",
+      "duration": "15-20 minutos"
+    },
+    "adhd-game": {
+      "name": "Avaliação de TDAH Baseada em Jogo",
+      "description": "Jogos interativos projetados para avaliar atenção e função executiva",
+      "duration": "20-25 minutos"
+    },
+    "dyslexia-form": {
+      "name": "Avaliação de Dislexia Baseada em Formulário",
+      "description": "Triagem focada em leitura e processamento de linguagem",
+      "duration": "15-20 minutos"
+    },
+    "dyslexia-game": {
+      "name": "Avaliação de Dislexia Baseada em Jogo",
+      "description": "Tarefas interativas avaliando consciência fonológica e memória",
+      "duration": "20-25 minutos"
+    }
+  },
+  "page": {
+    "loading_setup": "Configurando sua avaliação...",
+    "loading": "Carregando avaliação...",
+    "loading_hint": "Isso pode levar alguns momentos",
+    "error_title": "Erro ao Carregar Avaliação",
+    "try_again": "Tentar Novamente",
+    "back_to_assessments": "Voltar às Avaliações",
+    "in_progress_title": "Avaliação em Andamento",
+    "in_progress_hint": "Por favor, responda cada pergunta com atenção. Suas respostas nos ajudam a fornecer a avaliação mais precisa.",
+    "choose_title": "Escolher Tipo de Avaliação - CogniKidz",
+    "choose_desc": "Selecione o tipo de avaliação apropriado para seu filho"
+  }
+}

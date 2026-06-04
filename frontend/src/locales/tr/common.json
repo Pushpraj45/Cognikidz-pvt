@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "CogniKidz"
+  },
+  "nav": {
+    "assessments": "Değerlendirmeler",
+    "pricing": "Fiyatlandırma",
+    "resources": "Kaynaklar",
+    "support": "Destek",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "login": "Giriş yap",
+    "get_started": "Başla",
+    "logout": "Çıkış yap",
+    "language": "Dil"
+  },
+  "footer": {
+    "tagline": "Araştırmaya dayalı değerlendirmelerle gelişimsel farklılıklara sahip çocuklar için erken tespit ve destek.",
+    "quick_links": "Hızlı bağlantılar",
+    "legal": "Hukuki",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "cookies": "Çerez Politikası",
+    "all_rights": "Tüm hakları saklıdır.",
+    "hipaa": "HIPAA Uyumlu",
+    "gdpr": "GDPR Uyumlu"
+  },
+  "actions": {
+    "start_assessment": "Değerlendirmeyi başlat",
+    "start_free": "Ücretsiz değerlendirmeyi başlat",
+    "buy_and_start": "Satın al ve başlat",
+    "get_package": "Paket al",
+    "view_in_dashboard": "Panelde görüntüle",
+    "buy_more": "Daha fazla satın al",
+    "buy_again": "Tekrar satın al",
+    "start_now": "Şimdi başla",
+    "add_to_calendar": "Takvime ekle",
+    "close": "Kapat",
+    "cancel": "İptal",
+    "create_child_profile": "Çocuk profili oluştur"
+  },
+  "generic": {
+    "loading": "Yükleniyor...",
+    "free": "Ücretsiz",
+    "all": "Tümü",
+    "autism": "Otizm",
+    "adhd": "DEHB",
+    "dyslexia": "Disleksi",
+    "general": "Genel"
+  },
+  "trustedByFamilies": "Ailelerin güveni"
+}

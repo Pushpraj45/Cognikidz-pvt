@@ -1,0 +1,41 @@
+{
+  "badge": "Outils fondés sur des preuves",
+  "title": "Suite d'évaluations complètes",
+  "subtitle": "Des outils appuyés par la recherche, conçus pour identifier les schémas de développement et fournir des informations exploitables adaptées aux besoins uniques de votre enfant.",
+  "tools": {
+    "adhd": {
+      "title": "Évaluation du TDAH",
+      "subtitle": "Attention et concentration",
+      "description": "Évaluation complète de l’attention, de l’hyperactivité et des fonctions exécutives à l’aide d’outils de dépistage validés et d’évaluations interactives.",
+      "features": [
+        "Évaluation de la durée d’attention",
+        "Dépistage de l’hyperactivité",
+        "Tests des fonctions exécutives"
+      ],
+      "learnMore": "En savoir plus"
+    },
+    "autism": {
+      "title": "Dépistage de l’autisme",
+      "subtitle": "Social et communication",
+      "description": "Dépistage précoce des caractéristiques du spectre autistique à l’aide de protocoles d’évaluation fondés sur des preuves et d’analyses assistées par IA.",
+      "features": [
+        "Schémas d’interaction sociale",
+        "Évaluation de la communication",
+        "Observation comportementale"
+      ],
+      "learnMore": "En savoir plus"
+    },
+    "dyslexia": {
+      "title": "Dépistage de la dyslexie",
+      "subtitle": "Lecture et langage",
+      "description": "Évaluation spécialisée des difficultés de lecture et des troubles du traitement du langage par des tests de conscience phonologique.",
+      "features": [
+        "Conscience phonologique",
+        "Tests de fluidité en lecture",
+        "Évaluation du traitement du langage"
+      ],
+      "learnMore": "En savoir plus"
+    }
+  },
+  "viewAll": "Voir toutes les évaluations"
+}

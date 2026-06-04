@@ -1,0 +1,42 @@
+{
+  "title": "Cómo funciona",
+  "subtitle": "Pasos sencillos para desbloquear el potencial de tu hijo con nuestra plataforma integral de evaluación.",
+  "stepLabel": "Paso",
+  "ofLabel": "de",
+  "step1": {
+    "title": "Crear perfil del niño",
+    "description": "Configura el perfil de tu hijo con información básica, historial de desarrollo y áreas de interés para personalizar la experiencia de evaluación.",
+    "features": [
+      "Creación segura de perfiles",
+      "Seguimiento del historial de desarrollo",
+      "Configuración personalizada"
+    ]
+  },
+  "step2": {
+    "title": "Elegir tipo de evaluación",
+    "description": "Selecciona entre nuestra suite de evaluaciones basadas en evidencia, adaptadas a las necesidades y etapa de desarrollo de tu hijo.",
+    "features": [
+      "Múltiples opciones de evaluación",
+      "Contenido adecuado a la edad",
+      "Metodología basada en evidencia"
+    ]
+  },
+  "step3": {
+    "title": "Completar evaluación interactiva",
+    "description": "Interactúa con nuestras herramientas impulsadas por IA mediante juegos, cuestionarios y actividades multimedia diseñadas para ser divertidas e informativas.",
+    "features": [
+      "Juegos y actividades interactivas",
+      "Análisis con IA",
+      "Interfaz amigable para niños"
+    ]
+  },
+  "step4": {
+    "title": "Recibir informe detallado",
+    "description": "Obtén información integral y recomendaciones personalizadas basadas en los resultados de la evaluación de tu hijo, incluidas próximas acciones y recursos.",
+    "features": [
+      "Informe de análisis detallado",
+      "Recomendaciones personalizadas",
+      "Próximos pasos accionables"
+    ]
+  }
+}

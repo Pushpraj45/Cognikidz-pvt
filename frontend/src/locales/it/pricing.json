@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "Prezzi Trasparenti",
+    "title_lead": "Scegli Il Tuo",
+    "title_highlight": "Piano di Valutazione",
+    "subtitle": "Accedi a valutazioni professionali dello sviluppo infantile a prezzi trasparenti e accessibili. Scegli valutazioni individuali o pacchetti combinati di grande valore."
+  },
+  "filters": {
+    "individual": "Individuali",
+    "packages": "Pacchetti"
+  },
+  "individual": {
+    "title_lead": "Valutazioni",
+    "title_highlight": "Individuali",
+    "subtitle": "Scegli valutazioni specifiche in base alle esigenze del tuo bambino. Inizia con la nostra valutazione gratuita dello sviluppo generale o seleziona valutazioni specializzate.",
+    "you_have_left": "Hai {{count}} rimanenti"
+  },
+  "packages": {
+    "title_lead": "Pacchetti di",
+    "title_highlight": "Valore",
+    "subtitle": "Risparmia di più con i nostri pacchetti di valutazione completi. Multiple valutazioni raggruppate insieme a tariffe scontate.",
+    "most_popular": "Più Popolare",
+    "best_value": "Miglior Valore",
+    "complete_suite": "Suite Completa",
+    "included": "Valutazioni Incluse:",
+    "features": "Caratteristiche Aggiuntive:",
+    "save": "Risparmia"
+  },
+  "cta": {
+    "ready": "Pronto a Iniziare?",
+    "body": "Scegli il piano di valutazione che si adatta meglio alle esigenze del tuo bambino. Tutte le valutazioni sono progettate da esperti dello sviluppo infantile e forniscono approfondimenti dettagliati e azionabili."
+  },
+  "success": {
+    "title": "Pagamento riuscito"
+  },
+  "labels": {
+    "loading_pricing": "Caricamento informazioni sui prezzi",
+    "free": "Gratuito"
+  }
+}

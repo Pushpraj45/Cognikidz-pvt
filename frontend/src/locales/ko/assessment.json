@@ -1,0 +1,65 @@
+{
+  "child_selector": {
+    "title": "평가를 위한 아동 선택",
+    "loading": "프로필을 불러오는 중...",
+    "no_profiles": "아동 프로필을 찾을 수 없습니다. 먼저 프로필을 생성해 주세요.",
+    "cancel": "취소",
+    "create_child": "아동 프로필 생성",
+    "continue": "계속",
+    "age_years": "{{count}}세"
+  },
+  "toasts": {
+    "select_child": "계속하려면 아동을 선택해 주세요",
+    "purchase_required": "이 평가를 시작하려면 구매가 필요합니다",
+    "verify_failed": "접근을 확인할 수 없습니다. 다시 시도해 주세요."
+  },
+  "types": {
+    "general-form": {
+      "name": "일반 발달 평가",
+      "description": "여러 영역에 걸친 포괄적인 발달 선별검사",
+      "duration": "10-15분"
+    },
+    "autism-form": {
+      "name": "자폐증 양식 기반 평가",
+      "description": "발달 평가를 통한 자폐 스펙트럼 장애 선별검사",
+      "duration": "10-15분"
+    },
+    "autism-image": {
+      "name": "자폐증 이미지 기반 평가",
+      "description": "사회적 이해력 평가를 위한 AI 기반 이미지 비교 작업",
+      "duration": "15-20분"
+    },
+    "adhd-form": {
+      "name": "ADHD 양식 기반 평가",
+      "description": "설문지 기반 평가를 통한 포괄적인 ADHD 선별검사",
+      "duration": "15-20분"
+    },
+    "adhd-game": {
+      "name": "ADHD 게임 기반 평가",
+      "description": "주의력과 실행 기능을 평가하기 위해 설계된 대화형 게임",
+      "duration": "20-25분"
+    },
+    "dyslexia-form": {
+      "name": "난독증 양식 기반 평가",
+      "description": "읽기와 언어 처리에 중점을 둔 선별검사",
+      "duration": "15-20분"
+    },
+    "dyslexia-game": {
+      "name": "난독증 게임 기반 평가",
+      "description": "음운 인식과 기억력을 평가하는 대화형 작업",
+      "duration": "20-25분"
+    }
+  },
+  "page": {
+    "loading_setup": "평가를 설정하는 중...",
+    "loading": "평가를 불러오는 중...",
+    "loading_hint": "잠시 시간이 걸릴 수 있습니다",
+    "error_title": "평가 불러오기 오류",
+    "try_again": "다시 시도",
+    "back_to_assessments": "평가로 돌아가기",
+    "in_progress_title": "평가 진행 중",
+    "in_progress_hint": "각 질문에 신중하게 답변해 주세요. 귀하의 답변은 가장 정확한 평가를 제공하는 데 도움이 됩니다.",
+    "choose_title": "평가 유형 선택 - CogniKidz",
+    "choose_desc": "아동에게 적합한 평가 유형을 선택하세요"
+  }
+}

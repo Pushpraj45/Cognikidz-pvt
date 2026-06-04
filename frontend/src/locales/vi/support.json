@@ -1,0 +1,65 @@
+{
+  "header": {
+    "badge": "Trợ Giúp & Hỗ Trợ",
+    "title_lead": "Chúng tôi có thể",
+    "title_highlight": "giúp gì?",
+    "subtitle": "Tìm câu trả lời nhanh hoặc liên hệ với đội ngũ hỗ trợ của chúng tôi"
+  },
+  "tabs": {
+    "faq": "Câu Hỏi Thường Gặp",
+    "contact": "Liên Hệ",
+    "about": "Giới Thiệu"
+  },
+  "contact": {
+    "send_us": "Gửi tin nhắn cho chúng tôi",
+    "name": "Tên",
+    "email": "Email",
+    "message": "Tin nhắn",
+    "send": "Gửi Tin Nhắn",
+    "get_in_touch": "Liên hệ",
+    "email_label": "Email",
+    "phone_label": "Điện thoại",
+    "office_label": "Văn phòng",
+    "response_time": "Thời Gian Phản Hồi",
+    "response_copy": "Chúng tôi thường phản hồi trong vòng 24 giờ trong ngày làm việc."
+  },
+  "about": {
+    "about_mission": "Về Sứ Mệnh Của Chúng Tôi",
+    "about": "Giới Thiệu",
+    "our_mission": "Sứ Mệnh",
+    "our_story": "Câu Chuyện",
+    "our_values": "Giá Trị",
+    "principles": "Những nguyên tắc hướng dẫn mọi việc chúng tôi làm",
+    "what_we_do": "Chúng Tôi Làm Gì",
+    "early_detection": "Phát Hiện Sớm",
+    "personalized_insights": "Thông Tin Chi Tiết Cá Nhân",
+    "expert_guidance": "Hướng Dẫn Chuyên Gia",
+    "ongoing_support": "Hỗ Trợ Liên Tục",
+    "cta": {
+      "header": "Tham Gia Sứ Mệnh",
+      "start": "Bắt Đầu Hành Trình",
+      "start_assessment": "Bắt Đầu Đánh Giá"
+    },
+    "mission_description": "Tại CogniKidz, chúng tôi tin rằng mọi trẻ em đều xứng đáng có cơ hội phát huy hết tiềm năng của mình. Sứ mệnh của chúng tôi là giúp việc phát hiện sớm sự khác biệt trong học tập trở nên dễ tiếp cận với tất cả các gia đình, bất kể vị trí hay nguồn lực.",
+    "mission_continuation": "Thông qua các công cụ đánh giá được xác thực khoa học, chúng tôi hướng đến việc trao quyền cho phụ huynh với những hiểu biết có thể dẫn đến can thiệp sớm hơn, chiến lược hỗ trợ cá nhân hóa, và kết quả tốt hơn cho trẻ có nhu cầu học tập đa dạng.",
+    "mission_commitment": "Chúng tôi cam kết thu hẹp khoảng cách giữa chuyên môn lâm sàng và nuôi dạy con hàng ngày, giúp các gia đình dễ dàng hiểu và hỗ trợ hồ sơ nhận thức độc đáo của con họ.",
+    "story_intro": "Bắt đầu từ một dự án đại học trở thành sứ mệnh chuyển đổi sự phát triển trẻ em",
+    "story_beginning": "CogniKidz bắt đầu như một ý tưởng đầy tham vọng trong một cuộc triển lãm dự án đại học. Pushpraj, khi đó đang học năm hai đại học, đã nhìn thấy một cơ hội mà những người khác bỏ qua. Trong khi nhóm triển lãm dự án của anh có ý tưởng sáng tạo về công cụ đánh giá phát triển trẻ em, không ai sẵn sàng xây dựng nó ở quy mô lớn.",
+    "story_vision": "Nhưng Pushpraj biết ý tưởng này có tiềm năng tạo nên sự khác biệt thực sự. Anh chia sẻ tầm nhìn của mình với các bạn ký túc xá - Devendra, Aman và Tanjul. Cùng nhau, họ đã nhìn thấy điều mà người khác không thể - khả năng tạo ra điều gì đó thực sự có thể giúp các gia đình hiểu và hỗ trợ sự phát triển của con em họ.",
+    "story_development": "Devendra đã nhận lấy thách thức phát triển trang web ban đầu, đặt nền móng cho nền tảng toàn diện của chúng tôi ngày nay. Những gì bắt đầu như một dự án đại học đã phát triển thành một nền tảng được thúc đẩy bởi sứ mệnh tập trung vào việc giúp trẻ em đạt được tiềm năng tối đa.",
+    "story_current": "Hiện nay, chúng tôi đang làm việc về quản lý dữ liệu phát triển trẻ em và tìm kiếm những cách sáng tạo để giúp phát huy tiềm năng độc đáo của mỗi trẻ. Hành trình của chúng tôi từ một ý tưởng trong ký túc xá đến một nền tảng phục vụ các gia đình phản ánh cam kết của chúng tôi trong việc làm cho đánh giá phát triển trẻ em trở nên dễ tiếp cận, có cơ sở khoa học và thực sự hữu ích cho phụ huynh ở mọi nơi.",
+    "values_intro": "Những nguyên tắc hướng dẫn mọi việc chúng tôi làm",
+    "scientific_excellence": "Xuất Sắc Về Khoa Học",
+    "scientific_excellence_desc": "Tất cả công cụ của chúng tôi đều dựa trên nghiên cứu được đánh giá bởi đồng nghiệp và được xác thực với sự nghiêm ngặt lâm sàng.",
+    "accessibility": "Khả Năng Tiếp Cận",
+    "accessibility_desc": "Chúng tôi cam kết làm cho công cụ của mình có sẵn cho các gia đình từ mọi hoàn cảnh và điều kiện.",
+    "empowerment": "Trao Quyền",
+    "empowerment_desc": "Chúng tôi tin vào việc cung cấp cho phụ huynh những hiểu biết có thể hành động, không chỉ là dữ liệu, trao quyền cho họ để hỗ trợ con cái tốt hơn.",
+    "early_detection_desc": "Chúng tôi cung cấp các công cụ sàng lọc được xác thực khoa học cho ADHD, Tự kỷ và Chứng khó đọc, giúp phụ huynh xác định sớm các khác biệt trong học tập.",
+    "personalized_insights_desc": "Đánh giá được hỗ trợ bởi AI của chúng tôi cung cấp báo cáo chi tiết với các đề xuất có thể thực hiện được điều chỉnh cho hồ sơ độc đáo của mỗi trẻ.",
+    "expert_guidance_desc": "Chúng tôi thu hẹp khoảng cách giữa chuyên môn lâm sàng và nuôi dạy con hàng ngày, giúp các gia đình dễ dàng tiếp cận với hiểu biết chuyên môn.",
+    "ongoing_support_desc": "Ngoài đánh giá, chúng tôi cung cấp tài nguyên, bài viết và hỗ trợ để giúp các gia đình định hướng hành trình phát triển của con họ.",
+    "join_mission": "Tham Gia Sứ Mệnh",
+    "join_mission_desc": "Cho dù bạn là phụ huynh đang tìm kiếm hỗ trợ, chuyên gia trong giáo dục hoặc tâm lý học, hoặc người đam mê giúp trẻ em phát triển, chúng tôi mời bạn tham gia cộng đồng của chúng tôi."
+  }
+}

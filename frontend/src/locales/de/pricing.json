@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "badge": "Transparente Preise",
+    "title_lead": "Wähle deinen",
+    "title_highlight": "Bewertungsplan",
+    "subtitle": "Professionelle kindliche Entwicklungsbewertungen zu transparenten, erschwinglichen Preisen."
+  },
+  "filters": { "individual": "Einzeln", "packages": "Pakete" },
+  "individual": {
+    "title_lead": "Einzelne",
+    "title_highlight": "Bewertungen",
+    "subtitle": "Wähle spezifische Bewertungen nach Bedarf.",
+    "you_have_left": "Du hast noch {{count}} übrig"
+  },
+  "packages": {
+    "title_lead": "Wert",
+    "title_highlight": "Pakete",
+    "subtitle": "Mehr sparen mit umfassenden Paketen.",
+    "most_popular": "Am beliebtesten",
+    "best_value": "Bestes Preis-Leistungs-Verhältnis",
+    "complete_suite": "Komplettpaket",
+    "included": "Enthaltene Bewertungen:",
+    "features": "Zusätzliche Funktionen:",
+    "save": "Sparen"
+  },
+  "cta": { "ready": "Bereit zu starten?", "body": "Wähle den besten Plan für dein Kind." },
+  "success": { "title": "Zahlung erfolgreich" },
+  "labels": { "loading_pricing": "Lade Preisinformationen", "free": "Kostenlos" }
+}

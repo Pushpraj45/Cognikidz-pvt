@@ -1,0 +1,23 @@
+{
+  "imageAlt": "子どもの発達活動",
+  "mainTitle": "今日からお子様の旅を始めましょう",
+  "description": "包括的な子どもの発達評価とサポートのためにCogniKidzを信頼している何千もの家族に参加してください。",
+  "buttons": {
+    "getStarted": "始める",
+    "createAccount": "無料アカウントを作成"
+  },
+  "features": {
+    "evidenceBased": {
+      "title": "エビデンスベースの評価",
+      "description": "私たちのツールは数十年の研究に基づいて構築され、世界中の子どもの発達専門家によって検証されています。"
+    },
+    "privateSecure": {
+      "title": "プライベートで安全",
+      "description": "お子様のデータは企業レベルのセキュリティとHIPAA準拠のプライバシー対策で保護されています。"
+    },
+    "actionable": {
+      "title": "実行可能な洞察",
+      "description": "お子様のユニークな評価結果に基づいたパーソナライズされた推奨事項と次のステップを受け取ります。"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "tabs": {
+    "overview": "Panoramica",
+    "assessments": "Le Tue Valutazioni",
+    "children": "Bambini",
+    "history": "Cronologia"
+  },
+  "assessments": {
+    "remaining": "{{base}} rimanenti",
+    "buy_more": "Compra di più",
+    "no_purchases": "Nessun acquisto ancora. Sfoglia i piani e inizia.",
+    "combo_package": "Pacchetto Combinato",
+    "individual": "Valutazione Individuale",
+    "view": "Visualizza",
+    "details": "Dettagli",
+    "start": "Inizia"
+  },
+  "history": {
+    "timeline": "Timeline",
+    "select_child": "Seleziona un bambino per visualizzare la sua timeline.",
+    "none_title": "Nessuna valutazione trovata per questo bambino",
+    "none_body": "Questo bambino non ha ancora completato alcuna valutazione. Inizia una valutazione per tracciare il suo progresso e sviluppo.",
+    "new_assessment": "Nuova Valutazione"
+  },
+  "children": {
+    "management": "Gestione Bambini",
+    "profiles": "Profili Bambini",
+    "add_child": "Aggiungi Bambino",
+    "name": "Nome",
+    "dob": "Data di Nascita",
+    "age": "Età",
+    "gender": "Genere",
+    "grade": "Classe",
+    "actions": "Azioni",
+    "view": "Visualizza",
+    "edit": "Modifica",
+    "delete": "Elimina",
+    "deleting": "Eliminazione...",
+    "not_set": "Non impostato",
+    "years": "anni",
+    "refreshing": "Aggiornamento...",
+    "loading": "Caricamento profili bambini...",
+    "none": "Nessun profilo bambino trovato. Aggiungi il tuo primo bambino per iniziare."
+  }
+}

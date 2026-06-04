@@ -1,0 +1,42 @@
+{
+  "title": "Como Funciona",
+  "subtitle": "Passos simples para desbloquear o potencial do seu filho com nossa plataforma de avaliação abrangente.",
+  "stepLabel": "Passo",
+  "ofLabel": "de",
+  "step1": {
+    "title": "Criar Perfil da Criança",
+    "description": "Configure o perfil do seu filho com informações básicas, histórico de desenvolvimento e áreas específicas de preocupação para personalizar a experiência de avaliação.",
+    "features": [
+      "Criação segura de perfil",
+      "Acompanhamento do histórico de desenvolvimento",
+      "Configuração de experiência personalizada"
+    ]
+  },
+  "step2": {
+    "title": "Escolher Tipo de Avaliação",
+    "description": "Selecione de nossa suite abrangente de avaliações baseadas em evidências adaptadas às necessidades específicas e estágio de desenvolvimento do seu filho.",
+    "features": [
+      "Múltiplas opções de avaliação",
+      "Conteúdo apropriado para a idade",
+      "Metodologia baseada em evidências"
+    ]
+  },
+  "step3": {
+    "title": "Completar Avaliação Interativa",
+    "description": "Interaja com nossas ferramentas de avaliação alimentadas por IA através de jogos interativos, questionários e atividades multimídia projetadas para serem divertidas e informativas.",
+    "features": [
+      "Jogos e atividades interativas",
+      "Análise alimentada por IA",
+      "Interface amigável para crianças"
+    ]
+  },
+  "step4": {
+    "title": "Receber Relatório Detalhado",
+    "description": "Obtenha insights abrangentes e recomendações personalizadas baseadas nos resultados da avaliação do seu filho, incluindo próximos passos e recursos.",
+    "features": [
+      "Relatório de análise detalhado",
+      "Recomendações personalizadas",
+      "Próximos passos acionáveis"
+    ]
+  }
+}

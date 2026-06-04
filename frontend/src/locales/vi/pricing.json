@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "badge": "Giá Cả Minh Bạch",
+    "title_lead": "Chọn",
+    "title_highlight": "Gói Đánh Giá",
+    "subtitle": "Tiếp cận các đánh giá phát triển trẻ em chuyên nghiệp với giá cả minh bạch, hợp lý. Chọn đánh giá riêng lẻ hoặc gói combo đầy giá trị."
+  },
+  "filters": {
+    "individual": "Cá Nhân",
+    "packages": "Gói"
+  },
+  "individual": {
+    "title_lead": "Đánh Giá",
+    "title_highlight": "Cá Nhân",
+    "subtitle": "Chọn đánh giá cụ thể dựa trên nhu cầu của con bạn. Bắt đầu với đánh giá phát triển tổng quát miễn phí hoặc chọn các đánh giá chuyên biệt.",
+    "you_have_left": "Bạn còn {{count}}"
+  },
+  "packages": {
+    "title_lead": "Gói",
+    "title_highlight": "Giá Trị",
+    "subtitle": "Tiết kiệm hơn với các gói đánh giá toàn diện của chúng tôi. Nhiều đánh giá được gộp lại với giá ưu đãi.",
+    "most_popular": "Phổ Biến Nhất",
+    "best_value": "Giá Trị Nhất",
+    "complete_suite": "Bộ Hoàn Chỉnh",
+    "included": "Đánh Giá Bao Gồm:",
+    "features": "Tính Năng Bổ Sung:",
+    "save": "Lưu"
+  },
+  "cta": {
+    "ready": "Sẵn Sàng Bắt Đầu?",
+    "body": "Chọn gói đánh giá phù hợp nhất với nhu cầu của con bạn. Tất cả các đánh giá được thiết kế bởi chuyên gia phát triển trẻ em và cung cấp thông tin chi tiết, hữu ích."
+  },
+  "success": {
+    "title": "Thanh toán thành công"
+  },
+  "labels": {
+    "loading_pricing": "Đang tải thông tin giá",
+    "free": "Miễn phí"
+  }
+}
