@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  process.env.REACT_APP_API_URL || 'https://cognikidz-backend-staging.vercel.app/';
+  process.env.REACT_APP_API_URL || 'http://localhost:8004';
 
 class ChatService {
   constructor() {

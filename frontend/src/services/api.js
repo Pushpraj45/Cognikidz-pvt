@@ -4,7 +4,7 @@ import axios from 'axios';
 const api = axios.create({
   baseURL:
     process.env.REACT_APP_API_URL ||
-    (process.env.NODE_ENV === 'development' ? '' : 'https://cognikidz-backend-staging.vercel.app'),
+    (process.env.NODE_ENV === 'development' ? '' : 'http://localhost:8004'),
   timeout: parseInt(process.env.REACT_APP_TIMEOUT) || 30000,
   withCredentials: process.env.REACT_APP_WITH_CREDENTIALS === 'true',
   headers: {

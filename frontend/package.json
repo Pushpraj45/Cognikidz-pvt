@@ -54,7 +54,6 @@
     "start:alt": "node start.js",
     "start:express": "node express-server.js",
     "build": "set DISABLE_ESLINT_PLUGIN=true&& react-scripts build",
-    "vercel-build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx",

@@ -42,9 +42,8 @@ verifyTransporter().catch((error) => {
 
 const app = express();
 
-// Trust proxy for Vercel/production deployment
-// This fixes the "X-Forwarded-For" header rate limiting issue
-if (process.env.NODE_ENV === "production" || process.env.VERCEL) {
+// Trust proxy when behind a reverse proxy (load balancer, PaaS, etc.)
+if (process.env.NODE_ENV === "production" || process.env.TRUST_PROXY === "true") {
   app.set("trust proxy", 1);
 }
 
@@ -123,24 +122,19 @@ app.use(helmet({
   }
 }));
 
-// Dynamic CORS origins configuration
+// CORS: localhost defaults + FRONTEND_URL and comma-separated CORS_ORIGINS
 const allowedOrigins = [
   "http://localhost:3000",
   "http://127.0.0.1:3000",
   "http://localhost:3001",
   "http://127.0.0.1:3001",
-  process.env.FRONTEND_URL, // Production frontend URL
-  "https://cognikidz-test.vercel.app", // Add explicit frontend URL
-  "https://cognikidz.vercel.app", // Backup frontend URL
-];
+  process.env.FRONTEND_URL,
+  ...(process.env.CORS_ORIGINS
+    ? process.env.CORS_ORIGINS.split(",").map((o) => o.trim())
+    : []),
+].filter(Boolean);
 
-// Add Vercel preview URLs if available
-if (process.env.VERCEL_URL) {
-  allowedOrigins.push(`https://${process.env.VERCEL_URL}`);
-}
-
-// Filter out undefined values
-const validOrigins = allowedOrigins.filter(Boolean);
+const validOrigins = [...new Set(allowedOrigins)];
 
 app.use(
   cors({
@@ -148,26 +142,11 @@ app.use(
       // Allow requests with no origin (mobile apps, curl, etc.)
       if (!origin) return callback(null, true);
 
-      // Check if origin is in allowed list or is a Vercel preview URL
       if (
         validOrigins.includes(origin) ||
-        origin.includes(".vercel.app") ||
-        origin.includes("cognikidz") ||
         origin.includes("localhost") ||
         origin.includes("127.0.0.1")
       ) {
-        return callback(null, true);
-      }
-
-      // For translation requests, allow all origins (less restrictive)
-      if (
-        origin &&
-        (origin.includes("vercel.app") || origin.includes("netlify.app"))
-      ) {
-        logger.info(
-          "CORS: Allowing Vercel/Netlify origin for translation:",
-          origin
-        );
         return callback(null, true);
       }
 
@@ -258,8 +237,8 @@ const sessionConfig = {
   },
 };
 
-// In production/serverless, we'll use a minimal session setup since functions are stateless
-if (process.env.NODE_ENV === "production" || process.env.VERCEL) {
+// In serverless environments, sessions are not persistent across invocations
+if (process.env.AWS_LAMBDA_FUNCTION_NAME) {
   // For serverless environments, sessions aren't persistent across function invocations anyway
   // This setup minimizes memory usage and avoids the MemoryStore warning
   sessionConfig.cookie.maxAge = 60 * 60 * 1000; // Reduce to 1 hour for serverless

@@ -1,11 +1,5 @@
 // API Configuration utility
 export const getApiBaseUrl = () => {
-  // In production (Vercel), use the deployed backend URL
-  if (process.env.NODE_ENV === 'production') {
-    return 'https://cognikidz-backend-staging.vercel.app';
-  }
-
-  // In development, use local backend or env variable if set
   return process.env.REACT_APP_API_URL || 'http://localhost:8004';
 };
 
