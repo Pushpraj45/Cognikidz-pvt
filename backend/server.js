@@ -31,9 +31,6 @@ const webhookRoutes = require("./routes/webhook.routes");
 const translationRoutes = require("./routes/translation.routes");
 const pdfRoutes = require("./domains/shared/pdf-routes");
 
-// Connect to MongoDB
-connectDB();
-
 // Verify Brevo email service configuration
 verifyTransporter().catch((error) => {
   logger.warn("Brevo email service verification failed:", error.message);
@@ -288,7 +285,35 @@ app.get("/api/health", (req, res) => {
     status: "ok",
     service: "cognikidz-backend",
     timestamp: new Date().toISOString(),
+    database: require("./config/db").isDbReady() ? "connected" : "disconnected",
   });
+});
+
+// Ensure MongoDB is connected before DB-backed routes (critical on Vercel serverless)
+const dbOptionalPaths = [
+  /^\/api\/?$/,
+  /^\/api\/ping$/,
+  /^\/api\/health$/,
+  /^\/api\/translate/,
+];
+
+app.use(async (req, res, next) => {
+  if (dbOptionalPaths.some((pattern) => pattern.test(req.path))) {
+    return next();
+  }
+
+  try {
+    await connectDB();
+    next();
+  } catch (error) {
+    logger.error(
+      `MongoDB unavailable for ${req.method} ${req.path}: ${error.message}`
+    );
+    return res.status(503).json({
+      success: false,
+      message: "Database connection error",
+    });
+  }
 });
 
 // Routes with specific rate limiting - Order matters!
@@ -469,14 +494,20 @@ validateDependencies();
 // Start server only if this file is run directly (not when required as a module)
 if (require.main === module) {
   const PORT = process.env.PORT || 8004;
-  app.listen(PORT, () => {
-    logger.info(`Server running on port ${PORT}`);
+  connectDB()
+    .then(() => {
+      app.listen(PORT, () => {
+        logger.info(`Server running on port ${PORT}`);
 
-    // Initialize report scheduler after server starts
-    setTimeout(() => {
-      initializeReportScheduler();
-    }, 2000); // Wait 2 seconds for database connection to stabilize
-  });
+        setTimeout(() => {
+          initializeReportScheduler();
+        }, 2000);
+      });
+    })
+    .catch((error) => {
+      logger.error(`Failed to start server: ${error.message}`);
+      process.exit(1);
+    });
 }
 
 module.exports = app;
