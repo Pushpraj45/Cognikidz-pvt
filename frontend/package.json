@@ -53,7 +53,7 @@
     "start": "react-scripts start",
     "start:alt": "node start.js",
     "start:express": "node express-server.js",
-    "build": "set DISABLE_ESLINT_PLUGIN=true&& react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx",

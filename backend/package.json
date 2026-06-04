@@ -27,7 +27,7 @@
     "seed:articles": "node scripts/seed-articles.js",
     "security-audit": "npm audit",
     "security-check": "npm audit --audit-level moderate",
-    "lint": "node -c server.js",
+    "lint": "node -c server.js && node -c api/index.js",
     "lint:full": "node scripts/syntax-check.js",
     "format:check": "echo JavaScript formatting check - manual review required",
     "quality:check": "npm run lint && npm run format:check",
